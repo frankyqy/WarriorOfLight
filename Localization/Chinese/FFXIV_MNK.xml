@@ -8,9 +8,14 @@
 	<content contentuid="hbc466899g4c3eg407dga172ga7d4b66bcbec" version="1">魔猿身形时使用连击必定重击。获得一个额外的附加动作</content>
 	<content contentuid="h80d0d96eg75c8g47aag9c61gdbe0838e0d52" version="1">疾风迅雷效果提高</content>
 	<content contentuid="h38940831g9d79g41d2g8065g4a21023f7b76" version="1">徒手攻击伤害提升。获得一个额外的附加动作</content>
+	<content contentuid="h3fab29e2g6061g4c22g8f30g4e4c458e4baa" version="1">疾风迅雷效果提高II</content>
+	<content contentuid="hafa63c07gf7a7g484fga499g7cc2d222172f" version="1">徒手攻击伤害提升。获得一个额外的附加动作</content>
 
 	<content contentuid="h7542cd48g4d88g430fg8c2agc7476d3c0678" version="1">连击</content>
 	<content contentuid="hdaa4ddb0ga45bg4376g92c8gecb9ccbc97c0" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：攻击必定暴击</content>
+
+	<content contentuid="h44d4923dgd58cg461fgb82ag11411b216d53" version="1">双龙脚</content>
+	<content contentuid="h4ed72a7aga87cg4acegae39g9015fec26a84" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：连击效果提高</content>
 
 	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">破坏神冲</content>
 	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。</content>
@@ -20,6 +25,10 @@
 
 	<content contentuid="h09ba63d2gb91ag4ef5g860ega7e89bdf6f2a" version="1">双掌打</content>
 	<content contentuid="ha559c4edg766ag42b2g9a17gb0cc6f7d2f89" version="1">对目标发动物理攻击。追加效果：猛豹身形、功力</content>
+
+	<content contentuid="hf91aac04ga721g4f15ga957g71eaf7435051" version="1">四面脚</content>
+	<content contentuid="hbbbc8b50ga105g4256gbc43gc83209e2d302" version="1">对自身周围的敌人发动范围物理攻击。追加效果：猛豹身形、功力</content>
+
 	<content contentuid="h474dde0dg7d1cg42dfg838bg2f1707269507" version="1">功力</content>
 	<content contentuid="h4e896fd8g5000g441ag8eb4g98607bd1710e" version="1">物理伤害提高</content>
 
@@ -44,6 +53,34 @@
 
 	<content contentuid="h1e3dc936gd776g4a66ga301g093279386e6d" version="1">铁山靠</content>
 	<content contentuid="h94c19336gaac4g475cg9cb1gf1a25a8a383c" version="1">对目标发动物理攻击。消耗所有斗气</content>
+
+	<content contentuid="hc0183dceg0c56g497egb44ag3f77e0204b89" version="1">轻身步法</content>
+	<content contentuid="haf368d10g517ag4be8gad75gd47bef53dba2" version="1">指定一名敌人或队员为目标，自身快速移动到目标身边</content>
+
+	<content contentuid="h622bf0cdg7febg49eag8ae7g57f5e86181b8" version="1">空鸣拳</content>
+	<content contentuid="h6187a476g3e05g49fdg9e0egcd4b681972a8" version="1">向目标所在方向发出直线范围物理攻击</content>
+
+	<content contentuid="h5cb19cabg2feag4b45g87bfgb1fdba1b2579" version="1">斗气积累提高</content>
+	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">重击时大几率回复一层斗气</content>
+
+	<content contentuid="h68e83b50g46cag4920gb766g0893c7d13b1a" version="1">真言</content>
+	<content contentuid="h05a2d979g78b6g40cfgbe0egb2aed20c8d6e" version="1">受到的治疗效果提高</content>
+	<content contentuid="h7c9ae720g0a16g42d5g9020g32788c584526" version="1">为自身和周围队员附加状态：真言，自身所受的治疗效果提高真言，受到的治疗效果提高</content>
+
+	<content contentuid="hf2cb3364g2b15g4c94g9a1agb733c9bd508c" version="1">震脚</content>
+	<content contentuid="hb9217cd3g10adg4215ga526g08febe7192a5" version="1">对自身附加3档的震脚状态,可以无视身形要求发动战技</content>
+	<content contentuid="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1">可以无视身形要求发动战技</content>
+
+	<content contentuid="h52909bd3gbbc7g4532ga1dag4060c69190c0" version="1">铁山靠精通</content>
+	<content contentuid="hdf85934cg29dag488bgaa22g9e76ceda91b5" version="1">铁山靠变为阴阳斗气斩</content>
+
+	<content contentuid="hbea82345g4107g4a40g8bbag20c8dcfe6ac2" version="1">阴阳斗气斩</content>
+	<content contentuid="hd85988a8gc36dg4083ga9a8g9e65739b0652" version="1">对目标发动物理攻击</content>
+
+	<content contentuid="h7a66d4c8g0828g4449g89f1g969ca095dcb3" version="1">演武</content>
+	<content contentuid="h699eb56bg0b48g4feeg9834ge25875100061" version="1">为自身附加可以无视身形要求发动战技，同时触发追加效果的无相身形。</content>
+    <content contentuid="h3f19d96fg7502g4435g90f4ge409c0b4042c" version="1">无相身形</content>
+	<content contentuid="h2291e7cdg2d68g4676g85efgb80443c5912e" version="1">可以无视身形要求发动战技，同时触发追加效果</content>
 
 
 </contentList>

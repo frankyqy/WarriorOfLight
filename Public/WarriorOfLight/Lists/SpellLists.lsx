@@ -48,9 +48,19 @@
                     <attribute id="UUID" type="guid" value="0549dd6c-540d-4cf6-bf60-d28c8afc5a9d" />
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_30" />
-                    <attribute id="Spells" type="LSString" value="" />
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_40" />
+                    <attribute id="Spells" type="LSString" value="Rush_Thunderclap" />
                     <attribute id="UUID" type="guid" value="e89e2717-8108-4792-a03a-6a0531a96166" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_50" />
+                    <attribute id="Spells" type="LSString" value="Shout_Mantra;Target_Dragon_Kick" />
+                    <attribute id="UUID" type="guid" value="da9c81d3-1181-4e85-b633-9752896a10b5" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_55" />
+                    <attribute id="Spells" type="LSString" value="Target_Form_Shift" />
+                    <attribute id="UUID" type="guid" value="7252cfe6-32d9-4075-b223-9614f7aeb9bd" />
                 </node>
 			</children>
         </node>

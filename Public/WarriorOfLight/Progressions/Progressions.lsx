@@ -161,8 +161,8 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Oath_Gauge,100,0)"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Howling_Fist;Deep_Meditation"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e89e2717-8108-4792-a03a-6a0531a96166,,,,AlwaysPrepared);"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="abbbfb8c-a9ff-4e11-8832-6acc1807a602"/>
@@ -172,6 +172,8 @@
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Perfect_Balance"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(da9c81d3-1181-4e85-b633-9752896a10b5,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="cc1fccfd-427e-4bbc-aded-5c37ad0d5e42"/>
                 </node>
@@ -179,8 +181,10 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Steel_Peak"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Steel_Peak_Mastery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(7252cfe6-32d9-4075-b223-9614f7aeb9bd,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="ee4b8898-8fb6-4584-887a-cc30581541ce"/>
                 </node>

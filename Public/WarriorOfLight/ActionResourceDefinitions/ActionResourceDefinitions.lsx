@@ -61,6 +61,20 @@
                     <attribute id="UUID" type="guid" value="314aad0a-154b-4e92-bc0d-044e6d47aaf2"/>
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1"/>
+                    <attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2cb3364g2b15g4c94g9a1agb733c9bd508c" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_0_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="3"/>
+                    <attribute id="Name" type="FixedString" value="Perfect_Balance_Gauge"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Never"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="314aad0a-154b-4e92-bc0d-044e6d47aaf2"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
             </children>
         </node>
     </region>

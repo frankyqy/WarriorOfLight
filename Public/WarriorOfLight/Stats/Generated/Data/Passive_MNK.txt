@@ -3,8 +3,26 @@ type "PassiveData"
 data "DisplayName" "h5d399f36g776fg4cf0g940cgca978c6cab07"
 data "Description" "hbc466899g4c3eg407dga172ga7d4b66bcbec"
 data "Icon" "ICON_MNK_Greased_Lightning"
-data "Boosts" "UnlockInterrupt(Interrupt_Bootshine_CriticalExecution);ActionResource(BonusActionPoint,1,0)"
 data "Properties" "Highlighted"
+data "BoostContext" "OnDamage"
+data "Boosts" "IF(HasStatus('BOOST_Opo-opo_Form',context.Source) and SpellId('Target_Bootshine')):CriticalDamageOnHit()"
+
+
+new entry "Slayer_Critical"
+type "PassiveData"
+data "DisplayName" "h20cadcbbg1351g4de2gb8bcg3ea6e2c57d89;1"
+data "Properties" "IsHidden"
+data "BoostContext" "OnDamage"
+data "Boosts" "IF(HasStatus('PRONE',context.Target) and SpellId('Target_Slam_Slayer')):CriticalDamageOnHit(); IF(HasStatus('DAZED',context.Target) and SpellId('Target_Multiattack_Slayer')):CriticalDamageOnHit()"
+
+
+new entry "Slayer_Critical"
+type "PassiveData"
+data "DisplayName" "h20cadcbbg1351g4de2gb8bcg3ea6e2c57d89;1"
+data "Properties" "IsHidden"
+data "BoostContext" "OnDamage"
+data "Boosts" "IF(HasStatus('PRONE',context.Target) and SpellId('Target_Slam_Slayer')):CriticalDamageOnHit(); IF(HasStatus('DAZED',context.Target) and SpellId('Target_Multiattack_Slayer')):CriticalDamageOnHit()"
+
 
 new entry "Steel_Peak"
 type "PassiveData"
@@ -25,7 +43,6 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Shout_Arm_of_the_Destroyer') and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form')):DealDamage(10)
 data "Properties" "Highlighted"
-
 
 
 new entry "Enhanced_Greased_Lightning"
@@ -50,3 +67,60 @@ data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "DealDamage(1d10)
 data "Properties" "Highlighted"
 
+new entry "Howling_Fist"
+type "PassiveData"
+data "DisplayName" "h622bf0cdg7febg49eag8ae7g57f5e86181b8"
+data "Description" "h6187a476g3e05g49fdg9e0egcd4b681972a8"
+data "Icon" "ICON_MNK_Howling_Fist"
+data "Boosts" "UnlockSpell(Zone_Howling_Fist)"
+data "Properties" "Highlighted"
+
+new entry "Deep_Meditation"
+type "PassiveData"
+data "DisplayName" "h5cb19cabg2feag4b45g87bfgb1fdba1b2579"
+data "Description" "h1682a22eg4628g4b05ga22dg217025fc82c7"
+data "Icon" "ICON_MNK_Deep_Meditation"
+data "StatsFunctorContext" "OnAttack"
+data "Properties" "Highlighted"
+data "Conditions" "IsCritical()"
+data "StatsFunctors" "IF(SavingThrow(Ability.Intelligence, 4)):RestoreResource(SELF,Spiteful_Spirit_Gauge,1,0)"
+
+new entry "Enhanced_Greased_Lightning_2"
+type "PassiveData"
+data "DisplayName" "h3fab29e2g6061g4c22g8f30g4e4c458e4baa"
+data "Description" "hafa63c07gf7a7g484fga499g7cc2d222172f"
+data "Icon" "ICON_MNK_Enhanced_Greased_Lightning_2"
+data "Boosts" "ActionResource(BonusActionPoint,1,0)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(1d10)
+data "Properties" "Highlighted"
+
+
+
+new entry "Mantra"
+type "PassiveData"
+data "DisplayName" "h68e83b50g46cag4920gb766g0893c7d13b1a;1"
+data "Description" "h05a2d979g78b6g40cfgbe0egb2aed20c8d6e;1"
+data "StatsFunctorContext" "OnHealed"
+data "StatsFunctors" "RegainHitPoints(10)"
+data "Properties" "IsHidden"
+
+
+new entry "Perfect_Balance"
+type "PassiveData"
+data "DisplayName" "hf2cb3364g2b15g4c94g9a1agb733c9bd508c"
+data "Description" "h84f668e8g330ag488dg886cgb5b81a09bdbb"
+data "Icon" "ICON_MNK_Perfect_Balance"
+data "Boosts" "UnlockSpell(Target_Perfect_Balance)"
+data "Conditions" "SpellId('Target_Bootshine_Free') or SpellId('Target_Dragon_Kick_Free') or SpellId('Shout_Arm_of_the_Destroyer_Free') or SpellId('Target_True_Strike_Free') or SpellId('Target_Twin_Snakes_Free') or SpellId('Shout_Four-point_Fury_Free') or SpellId('Target_Snap_Punch_Free') or SpellId('Target_Demolish_Free') or SpellId('Shout_Rockbreaker_Free')"
+data "StatsFunctors" "RemoveStatus(BOOST_Raptor_Form);RemoveStatus(BOOST_Coeurl_Form);RemoveStatus(BOOST_Opo-opo_Form);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):ApplyStatus(BOOST_Formless_Fist,100,5)"
+data "StatsFunctorContext" "OnCast"
+
+
+new entry "Steel_Peak_Mastery"
+type "PassiveData"
+data "DisplayName" "h52909bd3gbbc7g4532ga1dag4060c69190c0"
+data "Description" "hdf85934cg29dag488bgaa22g9e76ceda91b5"
+data "Icon" "ICON_MNK_Steel_Peak_Mastery"
+data "Boosts" "UnlockSpell(Target_the_Forbidden_Chakra)"
