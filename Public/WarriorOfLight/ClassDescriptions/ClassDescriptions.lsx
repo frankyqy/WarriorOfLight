@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="406"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription"> Main Class
+                    <attribute id="BaseHp" type="int32" value="13"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_PLD"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h760dee74g1898g4d9cg8ee1g8697281d807c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfb0a7363ge6f8g45b6ga917gb0be7c16583c" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="8"/> Half Hit Die + 1
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a1aa47b2-4d0a-4c97-931b-2c53353d5b23"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription"> Main Class
+                    <attribute id="BaseHp" type="int32" value="11"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_MNK"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h39c60228g601bg4f6dg8efaga8a9ba621796" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h99aab114gbe73g4b7eg9385gc0c6d584d2b5" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="8"/> Half Hit Die + 1
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_MNK"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="eeea503f-b247-43bf-9b61-e23c14999f2d"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a1aa47b2-4d0a-4c97-931b-2c53353d5b23"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+

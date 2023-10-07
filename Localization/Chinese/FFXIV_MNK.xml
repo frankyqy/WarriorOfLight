@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+
+	<content contentuid="h99aab114gbe73g4b7eg9385gc0c6d584d2b5" version="1">武僧</content>
+	<content contentuid="h39c60228g601bg4f6dg8efaga8a9ba621796" version="1">武僧们组成了拉尔戈星导教，他们将一生都奉献给了他们崇拜的破坏之神。通过掌握所谓脉轮这种身体内部力量的穴位，武僧能实现各种非凡的武技。</content>
+
+	<content contentuid="h5d399f36g776fg4cf0g940cgca978c6cab07" version="1">疾风迅雷</content>
+	<content contentuid="hbc466899g4c3eg407dga172ga7d4b66bcbec" version="1">魔猿身形时使用连击必定重击。获得一个额外的附加动作</content>
+	<content contentuid="h80d0d96eg75c8g47aag9c61gdbe0838e0d52" version="1">疾风迅雷效果提高</content>
+	<content contentuid="h38940831g9d79g41d2g8065g4a21023f7b76" version="1">徒手攻击伤害提升。获得一个额外的附加动作</content>
+
+	<content contentuid="h7542cd48g4d88g430fg8c2agc7476d3c0678" version="1">连击</content>
+	<content contentuid="hdaa4ddb0ga45bg4376g92c8gecb9ccbc97c0" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：攻击必定暴击</content>
+
+	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">破坏神冲</content>
+	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。</content>
+
+	<content contentuid="h586493f5gb963g4908ga461g418d0015ce8b" version="1">正拳</content>
+	<content contentuid="hb11e2543ge0b6g467ag9208gd961f799e1cc" version="1">对目标发动物理攻击。追加效果：猛豹身形。</content>
+
+	<content contentuid="h09ba63d2gb91ag4ef5g860ega7e89bdf6f2a" version="1">双掌打</content>
+	<content contentuid="ha559c4edg766ag42b2g9a17gb0cc6f7d2f89" version="1">对目标发动物理攻击。追加效果：猛豹身形、功力</content>
+	<content contentuid="h474dde0dg7d1cg42dfg838bg2f1707269507" version="1">功力</content>
+	<content contentuid="h4e896fd8g5000g441ag8eb4g98607bd1710e" version="1">物理伤害提高</content>
+
+	<content contentuid="h2bb8e013g9b5fg46b9g809egc3224a896776" version="1">崩拳</content>
+	<content contentuid="hb2ed0728gd404g42f6g8f2dg1ef4034c7c3f" version="1">对目标发动物理攻击。追加效果：魔猿身形。</content>
+
+	<content contentuid="h135e4e65gc347g455fg8aabgcdb870acd0c2" version="1">破碎拳</content>
+	<content contentuid="hc94541e7g3179g4d45g8fd0gef61adbeea36" version="1">对目标发动物理攻击。追加效果：魔猿身形。持续伤害</content>
+	<content contentuid="h2ae0a42ag3dd6g4c06gb25bg0a994d641edd" version="1">持续伤害</content>
+
+	<content contentuid="h00c5ee7fge3aeg4565gb506g44c4c68ac015" version="1">地烈劲</content>
+	<content contentuid="h3e6ad906g96b6g42f0g93fdg1640621bab0e" version="1">对目标发动物理攻击。追加效果：魔猿身形。持续伤害</content>
+
+	<content contentuid="h0175b828ga6a2g44eag9490gfd8118a4cfe3" version="1">盗龙身形</content>
+	<content contentuid="h2bb8e013g9b5fg46b9g809egc3224a896776" version="1">猛豹身形</content>
+	<content contentuid="h2bb8e013g9b5fg46b9g809egc3224a896776" version="1">魔猿身形</content>
+	<content contentuid="h890708d0gd45cg49c9gb18cg47679d3967d0" version="1">连击必定重击</content>
+
+	<content contentuid="h446d6048g4bedg469ag9c90g906bd18b43a2" version="1">斗气</content>
+	<content contentuid="h3f0ce873gf4f8g4c9cg8fb3gf47cab080407" version="1">斗气，用于释放技能</content>
+	<content contentuid="h3c8876c9gaf23g415bg9001gf74eb467ae31" version="1">对自身附加斗气状态，最多可以积累5档。自身处于非战斗状态时直接获得5档斗气</content>
+
+	<content contentuid="h1e3dc936gd776g4a66ga301g093279386e6d" version="1">铁山靠</content>
+	<content contentuid="h94c19336gaac4g475cg9cb1gf1a25a8a383c" version="1">对目标发动物理攻击。消耗所有斗气</content>
+
+
+</contentList>

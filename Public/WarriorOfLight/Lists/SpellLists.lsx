@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_10" />
+                    <attribute id="Spells" type="LSString" value="Target_Fast_Blade;Shout_Fight_Or_Flight;Target_Shield_Bash;Shout_Total_Eclipse" />
+                    <attribute id="UUID" type="guid" value="83399970-e9da-43df-a5cf-401b835d0076" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_30" />
+                    <attribute id="Spells" type="LSString" value="Throw_Shield_Lob" />
+                    <attribute id="UUID" type="guid" value="39d472b5-43e9-4a95-9f40-28faffdfe354" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_40" />
+                    <attribute id="Spells" type="LSString" value="Shout_Sentinel" />
+                    <attribute id="UUID" type="guid" value="1c5c9d95-e057-4385-b089-72e978a1253c" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_50" />
+                    <attribute id="Spells" type="LSString" value="Target_Cover;Shout_Circle_of_Scorn;Shout_Hallowed_Ground" />
+                    <attribute id="UUID" type="guid" value="8c25d788-8cc6-4927-82c1-cedd50d6e0f9" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_55" />
+                    <attribute id="Spells" type="LSString" value="Shout_Bulwark" />
+                    <attribute id="UUID" type="guid" value="0412662b-e665-4bff-a95c-93f5006cd1d7" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_65" />
+                    <attribute id="Spells" type="LSString" value="Target_Intervention;Target_Holy_Spirit" />
+                    <attribute id="UUID" type="guid" value="57abd596-8508-44b6-86aa-0bbac8a4cd60" />
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_75" />
+                    <attribute id="Spells" type="LSString" value="Rush_Intervene;Shout_Holy_Circle" />
+                    <attribute id="UUID" type="guid" value="1563a05b-91bb-47c8-ae76-ca8c6abeeafd" />
+                </node>
+
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_15" />
+                    <attribute id="Spells" type="LSString" value="Target_Bootshine;Shout_Spiteful_Spirit" />
+                    <attribute id="UUID" type="guid" value="0549dd6c-540d-4cf6-bf60-d28c8afc5a9d" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_30" />
+                    <attribute id="Spells" type="LSString" value="" />
+                    <attribute id="UUID" type="guid" value="e89e2717-8108-4792-a03a-6a0531a96166" />
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

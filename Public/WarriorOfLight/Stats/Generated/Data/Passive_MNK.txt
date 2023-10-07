@@ -1,0 +1,52 @@
+new entry "Greased_Lightning"
+type "PassiveData"
+data "DisplayName" "h5d399f36g776fg4cf0g940cgca978c6cab07"
+data "Description" "hbc466899g4c3eg407dga172ga7d4b66bcbec"
+data "Icon" "ICON_MNK_Greased_Lightning"
+data "Boosts" "UnlockInterrupt(Interrupt_Bootshine_CriticalExecution);ActionResource(BonusActionPoint,1,0)"
+data "Properties" "Highlighted"
+
+new entry "Steel_Peak"
+type "PassiveData"
+data "DisplayName" "h1e3dc936gd776g4a66ga301g093279386e6d"
+data "Description" "h94c19336gaac4g475cg9cb1gf1a25a8a383c"
+data "Icon" "ICON_MNK_Steel_Peak"
+data "Boosts" "UnlockSpell(Target_Steel_Peak)"
+data "Properties" "Highlighted"
+
+
+new entry "Arm_of_the_Destroyer"
+type "PassiveData"
+data "DisplayName" "hd7c15998g2c52g4992gbe82gffb8100efbc8"
+data "Description" "haf50b157g968bg451cgae91g813c0df0afed"
+data "Icon" "ICON_MNK_Arm_of_the_Destroyer"
+data "Boosts" "UnlockSpell(Shout_Arm_of_the_Destroyer)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Shout_Arm_of_the_Destroyer') and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form')):DealDamage(10)
+data "Properties" "Highlighted"
+
+
+
+new entry "Enhanced_Greased_Lightning"
+type "PassiveData"
+data "DisplayName" "h80d0d96eg75c8g47aag9c61gdbe0838e0d52"
+data "Description" "h38940831g9d79g41d2g8065g4a21023f7b76"
+data "Icon" "ICON_MNK_Enhanced_Greased_Lightning"
+data "Boosts" "ActionResource(BonusActionPoint,1,0)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(1d10)
+data "Properties" "Highlighted"
+
+new entry "Thunderclap"
+type "PassiveData"
+data "DisplayName" "h80d0d96eg75c8g47aag9c61gdbe0838e0d52"
+data "Description" "h38940831g9d79g41d2g8065g4a21023f7b76"
+data "Icon" "ICON_MNK_Enhanced_Greased_Lightning"
+data "Boosts" "ActionResource(BonusActionPoint,1,0)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(1d10)
+data "Properties" "Highlighted"
+

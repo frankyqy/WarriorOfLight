@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="6" build="5"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression"> FFXIV_PLD LV1
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor);Proficiency(Longswords);Proficiency(Shields);Proficiency(MartialWeapons)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tank_Mastery;Iron_Will"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(1bf90ddb-c574-41c8-9359-77646860709e,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);AddSpells(83399970-e9da-43df-a5cf-401b835d0076,,,,AlwaysPrepared);"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="4dfe9101-df07-4d53-a22b-6251ce26cea0"/>
+                    <children>
+                    </children>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV2
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Spirits_Within;Rage_of_Halone"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(39d472b5-43e9-4a95-9f40-28faffdfe354,2,1,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="57caeece-b6d1-48c6-af02-10970fd61992"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV3
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Oath_Gauge,100,0)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Oath_Mastery;Sheltron"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1c5c9d95-e057-4385-b089-72e978a1253c,2,1,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="cc7df495-8f81-4424-b49e-e7e8d0874c47"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV4
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8c25d788-8cc6-4927-82c1-cedd50d6e0f9,2,1,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="b0f07ad4-281b-4c80-aaa0-c12d7c5822dd"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV5
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Goring_Blade"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0412662b-e665-4bff-a95c-93f5006cd1d7,2,1,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="b11cc8db-1944-42d3-9501-3a664029787a"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV6
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Rage_of_Halone"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Divine_Veil;Clemency;Chivalry;Rage_of_Halone_Mastery"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="3e1fa587-8d98-4418-bd86-e6328939ec05"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV7
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Divine_Magic_Mastery;Divine_Magic_Mastery_Buff"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(57abd596-8508-44b6-86aa-0bbac8a4cd60,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="a8d29589-5f11-4bee-a098-d63b3942235e"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV8
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Requiescat;Passage_of_Arms"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="e63a53c7-ab6b-4573-a5cd-d7218799d19b"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV9
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Prominence;Enhanced_Sheltron"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1563a05b-91bb-47c8-ae76-ca8c6abeeafd,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="9258e8e5-1ebe-4b34-a105-c14c891aff83"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV10
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sword_Oath;Enhanced_Requiescat"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="43f3a892-58a6-46ee-b74a-a332c3a05d74"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV11
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Sheltron"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sheltron_Mastery;Enhanced_Intervention;Divine_Magic_Mastery_2;PLD_Melee_Mastery"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="bedd6321-a8ac-4447-a094-ec6ade37be3e"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV12
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Spirits_Within"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Spirits_Within_Mastery;Enhanced_Divine_Veil"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="fd20cf1b-16a8-48d7-89b6-4bd879f1fe77"/>
+                </node>
+                <node id="Progression"> FFXIV_PLD LV13
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LevelUp_Warning"/>
+                    <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
+                    <attribute id="UUID" type="guid" value="7921e5e8-2c35-4548-9855-efc23cddbb66"/>
+                </node>
+
+                <node id="Progression"> FFXIV_MNK LV1
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Greased_Lightning;Steel_Peak"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(1bf90ddb-c574-41c8-9359-77646860709e,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);AddSpells(0549dd6c-540d-4cf6-bf60-d28c8afc5a9d,,,,AlwaysPrepared);"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="d52ea357-aaa2-4b9b-aa78-c8b244eda8f0"/>
+                    <children>
+                    </children>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV2
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Arm_of_the_Destroyer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="70e7cc74-8a6f-4211-8ebe-03860a701f27"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV3
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Oath_Gauge,100,0)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="abbbfb8c-a9ff-4e11-8832-6acc1807a602"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV4
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="cc1fccfd-427e-4bbc-aded-5c37ad0d5e42"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV5
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="ee4b8898-8fb6-4584-887a-cc30581541ce"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV6
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="9b98ff35-944a-4097-8737-5003d1e4b67c"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV7
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="50293c97-2899-4f34-9c4b-cee410da6cfb"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV8
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="8d51d2b9-6c1b-4322-8648-bda7d1152f86"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV9
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="32bc7e4d-22e7-488d-b0b1-c2a26b9edebe"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV10
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="ab5dffd1-053f-4452-931d-2c863502aa47"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV11
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="6ece1564-0571-42e5-b559-76987469bdb3"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV12
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="f6bd5f4c-1cda-4bee-be6f-7e6bdc3365d8"/>
+                </node>
+                <node id="Progression"> FFXIV_MNK LV13
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LevelUp_Warning"/>
+                    <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
+                    <attribute id="UUID" type="guid" value="62acb4cb-70af-4fe8-9eed-d50ed8ed729b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
