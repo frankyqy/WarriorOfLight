@@ -138,7 +138,7 @@
                     <attribute id="V2" type="float" value="0.03125"/> 
                 </node>	
 				<node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Zone_Howling_Fist"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Howling_Fist"/>
                     <attribute id="U1" type="float" value="0.59375"/>
                     <attribute id="U2" type="float" value="0.625"/> 
                     <attribute id="V1" type="float" value="0.0"/> 

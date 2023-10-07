@@ -114,7 +114,7 @@ data "Description" "h84f668e8g330ag488dg886cgb5b81a09bdbb"
 data "Icon" "ICON_MNK_Perfect_Balance"
 data "Boosts" "UnlockSpell(Target_Perfect_Balance)"
 data "Conditions" "SpellId('Target_Bootshine_Free') or SpellId('Target_Dragon_Kick_Free') or SpellId('Shout_Arm_of_the_Destroyer_Free') or SpellId('Target_True_Strike_Free') or SpellId('Target_Twin_Snakes_Free') or SpellId('Shout_Four-point_Fury_Free') or SpellId('Target_Snap_Punch_Free') or SpellId('Target_Demolish_Free') or SpellId('Shout_Rockbreaker_Free')"
-data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):ApplyStatus(BOOST_Formless_Fist,100,5)"
+data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance)"
 data "StatsFunctorContext" "OnCast"
 
 
