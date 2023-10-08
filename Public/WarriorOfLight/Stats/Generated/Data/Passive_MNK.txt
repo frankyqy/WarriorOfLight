@@ -5,23 +5,7 @@ data "Description" "hbc466899g4c3eg407dga172ga7d4b66bcbec"
 data "Icon" "ICON_MNK_Greased_Lightning"
 data "Properties" "Highlighted"
 data "BoostContext" "OnDamage"
-data "Boosts" "IF(HasStatus('BOOST_Opo-opo_Form',context.Source) and SpellId('Target_Bootshine')):CriticalDamageOnHit()"
-
-
-new entry "Slayer_Critical"
-type "PassiveData"
-data "DisplayName" "h20cadcbbg1351g4de2gb8bcg3ea6e2c57d89;1"
-data "Properties" "IsHidden"
-data "BoostContext" "OnDamage"
-data "Boosts" "IF(HasStatus('PRONE',context.Target) and SpellId('Target_Slam_Slayer')):CriticalDamageOnHit(); IF(HasStatus('DAZED',context.Target) and SpellId('Target_Multiattack_Slayer')):CriticalDamageOnHit()"
-
-
-new entry "Slayer_Critical"
-type "PassiveData"
-data "DisplayName" "h20cadcbbg1351g4de2gb8bcg3ea6e2c57d89;1"
-data "Properties" "IsHidden"
-data "BoostContext" "OnDamage"
-data "Boosts" "IF(HasStatus('PRONE',context.Target) and SpellId('Target_Slam_Slayer')):CriticalDamageOnHit(); IF(HasStatus('DAZED',context.Target) and SpellId('Target_Multiattack_Slayer')):CriticalDamageOnHit()"
+data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and SpellId('Target_Bootshine')):CriticalDamageOnHit()"
 
 
 new entry "Steel_Peak"
@@ -41,7 +25,7 @@ data "Icon" "ICON_MNK_Arm_of_the_Destroyer"
 data "Boosts" "UnlockSpell(Shout_Arm_of_the_Destroyer)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Shout_Arm_of_the_Destroyer') and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form')):DealDamage(10)
+data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form') or HasStatus('BOOST_Formless_Fist',context.Source)):DealDamage(10)
 data "Properties" "Highlighted"
 
 

@@ -36,7 +36,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Bootshine"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
 
 new entry "Target_Dragon_Kick"
 type "SpellData"
@@ -62,7 +62,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Dragon_Kick"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
 
 
 new entry "Target_True_Strike"
@@ -89,7 +89,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_True_Strike"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
 
 
 new entry "Target_Twin_Snakes"
@@ -116,7 +116,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Twin_Snakes"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
 
 new entry "Target_Snap_Punch"
 type "SpellData"
@@ -143,7 +143,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Snap_Punch"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
 
 
 new entry "Target_Demolish"
@@ -171,7 +171,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Demolish"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
 
 
 
@@ -263,7 +263,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Shout_Arm_of_the_Destroyer"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
 
 
 new entry "Shout_Four-point_Fury"
@@ -291,7 +291,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Shout_Four-point_Fury"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Coeurl_Chakra,100,1)"
 
 
 new entry "Shout_Rockbreaker"
@@ -318,7 +318,7 @@ type "SpellData"
 data "SpellType" "Target"
 using "Shout_Rockbreaker"
 data "UseCosts" "Perfect_Balance_Gauge:1"
-data "SpellProperties" "IF(HasPassive('Enhanced_Perfect_Balance')):ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Opo-opo_Chakra,100,1)"
 
 
 new entry "Rush_Thunderclap"
