@@ -5,7 +5,7 @@ data "Description" "hbc466899g4c3eg407dga172ga7d4b66bcbec"
 data "Icon" "ICON_MNK_Greased_Lightning"
 data "Properties" "Highlighted"
 data "BoostContext" "OnDamage"
-data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and SpellId('Target_Bootshine')):CriticalDamageOnHit()"
+data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and (SpellId('Target_Bootshine') or SpellId('Target_Bootshine_Free') or SpellId('Target_Bootshine_PB'))):CriticalDamageOnHit()"
 
 
 new entry "Steel_Peak"
