@@ -439,7 +439,7 @@
                     <attribute id="V2" type="float" value="0.0625"/>	
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Deep_Meditation_2"/>
                     <attribute id="U1" type="float" value="0.9375"/>
                     <attribute id="U2" type="float" value="0.96875"/>
                     <attribute id="V1" type="float" value="0.03125"/>
