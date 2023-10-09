@@ -119,10 +119,14 @@
 	<content contentuid="hcf08da3bg1b62g4a70g9f8dga17587870bce" version="1">太阳脉轮</content>
 
 	<content contentuid="hdff40e44g574bg4b9cgbe5fg255b8868649a" version="1">金刚极意</content>
-	<content contentuid="ha6ac16bcga97fg4ea3ga2f0g2357e07087ef" version="1">自身所受的伤害减轻。受到伤害后每回合恢复一定HP</content>
+	<content contentuid="ha6ac16bcga97fg4ea3ga2f0g2357e07087ef" version="1">为自身附加状态：金刚极意。所受的伤害减轻。受到伤害后每回合恢复一定HP</content>
 	<content contentuid="h3dfb2157g1d58g4291g896fgc1d04df94063" version="1">自身所受的伤害减轻</content>
 	<content contentuid="hd1af6430g313bg428dga477g10d486813ede" version="1">金刚决意</content>
 	<content contentuid="h6119f11dg31cfg4f3cga240g50e9f6dd1977" version="1">每回合恢复一定HP</content>
+
+	<content contentuid="h4af08242g2d6dg440ega7a1g2dc6289a11de" version="1">红莲极意</content>
+	<content contentuid="h3e990477g78d6g4543g990cg1af0d65a5106" version="1">为自身附加状态：红莲极意。攻击所造成的伤害提高</content>
+	<content contentuid="hb163b5bdg12b7g4d88gb229gace07e90dfd6" version="1">攻击所造成的伤害提高</content>
 
 
 </contentList>
