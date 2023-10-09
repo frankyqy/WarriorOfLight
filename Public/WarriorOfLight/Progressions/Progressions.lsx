@@ -220,7 +220,9 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Howling_Fist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Deep_Meditation_2;Howling_Fist_Mastery"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(527db9dc-2dae-4898-b636-b13c3b0307d9,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="32bc7e4d-22e7-488d-b0b1-c2a26b9edebe"/>
                 </node>

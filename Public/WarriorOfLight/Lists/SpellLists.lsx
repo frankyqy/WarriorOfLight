@@ -74,6 +74,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Fire;Shout_Brotherhood"/>
                     <attribute id="UUID" type="guid" value="f7f1e603-24fd-4f70-b537-f96740b88730"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_75"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Wind"/>
+                    <attribute id="UUID" type="guid" value="527db9dc-2dae-4898-b636-b13c3b0307d9"/>
+                </node>
             </children>
         </node>
     </region>
