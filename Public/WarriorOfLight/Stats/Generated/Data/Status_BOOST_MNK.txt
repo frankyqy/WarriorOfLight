@@ -200,6 +200,7 @@ data "Icon" "ICON_MNK_Formless_Fist"
 data "Boosts" "IF(HasActionResource('Yin_Gauge', 1, 0, false, false, context.Source) and HasActionResource('Yang_Gauge', 1, 0, false, false, context.Source)):UnlockSpell(Target_Tornado_Kick);IF(not HasActionResource('Yang_Gauge', 1, 0, false, false, context.Source)):UnlockSpell(Shout_Elixir_Field)"
 data "RemoveEvents" "OnSpellCast"
 data "RemoveConditions" "SpellId('Shout_Elixir_Field') or SpellId('Target_Tornado_Kick')"
+data "OnRemoveFunctors" "ActionResource(SELF,Yin_Gauge,1,0)"
 
 new entry "BOOST_Yang_Chakra"
 type "StatusData"

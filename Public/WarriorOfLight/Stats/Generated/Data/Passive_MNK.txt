@@ -124,4 +124,7 @@ type "PassiveData"
 data "DisplayName" "h59eaa3cbg4472g4391g912eg76d8c1f9ab89"
 data "Description" "h1458f11bg848fg416bga7e1ga1fb884e6f57"
 data "Icon" "ICON_MNK_Tornado_Kick"
-data "Boosts" "UnlockSpell(Target_Tornado_Kick)"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Shout_Elixir_Field') or SpellId('Shout_Flint_Strike') or SpellId('Shout_Celestial_Revolution') "
+data "StatsFunctors" "IF(SpellId('Shout_Celestial_Revolution') and HasActionResource('Yin_Gauge', 1, 0, false, false, context.Source)):RestoreResource(SELF,Yang_Gauge,1,0);OnRemoveFunctors" "IF(SpellId('Shout_Celestial_Revolution') and not HasActionResource('Yin_Gauge', 1, 0, false, false, context.Source)):RestoreResource(SELF,Yin_Gauge,1,0);IF(SpellId('Shout_Flint_Strike')):RestoreResource(SELF,Yang_Gauge,1,0);IF(SpellId('Shout_Elixir_Field')):RestoreResource(SELF,Yin_Gauge,1,0)"
+
