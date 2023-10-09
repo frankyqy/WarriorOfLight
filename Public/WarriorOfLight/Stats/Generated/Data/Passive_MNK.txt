@@ -37,7 +37,7 @@ data "Icon" "ICON_MNK_Enhanced_Greased_Lightning"
 data "Boosts" "ActionResource(BonusActionPoint,1,0)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "DealDamage(1d10)
+data "StatsFunctors" "DealDamage(1d10)"
 data "Properties" "Highlighted"
 
 new entry "Thunderclap"
@@ -77,7 +77,7 @@ data "Icon" "ICON_MNK_Enhanced_Greased_Lightning_2"
 data "Boosts" "ActionResource(BonusActionPoint,1,0)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "DealDamage(1d10)
+data "StatsFunctors" "DealDamage(1d10)"
 data "Properties" "Highlighted"
 
 
@@ -137,4 +137,16 @@ data "DisplayName" "h3b15ed95g8389g4dc6gbcdeg8a2267e4488f"
 data "Description" "h1995757cg3aa3g48b4g905ag144025e44f7c"
 data "Icon" "ICON_MNK_Howling_Fist_Mastery"
 data "Boosts" "UnlockSpell(Zone_Enlightenment)"
+data "Properties" "Highlighted"
+
+
+new entry "Enhanced_Greased_Lightning_3"
+type "PassiveData"
+data "DisplayName" "h80d0d96eg75c8g47aag9c61gdbe0838e0d52"
+data "Description" "h38940831g9d79g41d2g8065g4a21023f7b76"
+data "Icon" "ICON_MNK_Enhanced_Greased_Lightning_3"
+data "Boosts" "ActionResource(BonusActionPoint,1,0)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(1d10);IF(HasStatus('BOOST_Disciplined_Fist',context.Source)):DealDamage(1d6)"
 data "Properties" "Highlighted"
