@@ -61,7 +61,9 @@
 	<content contentuid="h6187a476g3e05g49fdg9e0egcd4b681972a8" version="1">向目标所在方向发出直线范围物理攻击</content>
 
 	<content contentuid="h5cb19cabg2feag4b45g87bfgb1fdba1b2579" version="1">斗气积累提高</content>
-	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">重击时大几率回复一层斗气</content>
+	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">重击时大几率恢复一层斗气</content>
+	<content contentuid="h61a3262dg996ag4acegbbffg44872cdeec20" version="1">斗气积累提高II</content>
+	<content contentuid="hbd881fecg6d8fg482fg99edg16a2e3b9b972" version="1">重击时恢复一层斗气</content>
 
 	<content contentuid="h68e83b50g46cag4920gb766g0893c7d13b1a" version="1">真言</content>
 	<content contentuid="h05a2d979g78b6g40cfgbe0egb2aed20c8d6e" version="1">受到的治疗效果提高</content>

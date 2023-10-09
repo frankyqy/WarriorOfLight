@@ -118,3 +118,15 @@ data "Icon" "ICON_MNK_Enhanced_Perfect_Balance"
 data "Conditions" "SpellId('Target_Bootshine_PB') or SpellId('Target_Dragon_Kick_PB') or SpellId('Shout_Arm_of_the_Destroyer_PB') or SpellId('Target_True_Strike_PB') or SpellId('Target_Twin_Snakes_PB') or SpellId('Shout_Four-point_Fury_PB') or SpellId('Target_Snap_Punch_PB') or SpellId('Target_Demolish_PB') or SpellId('Shout_Rockbreaker_PB')"
 data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):ApplyStatus(BOOST_Formless_Fist,100,5)"
 data "StatsFunctorContext" "OnCast"
+
+
+
+new entry "Deep_Meditation_2"
+type "PassiveData"
+data "DisplayName" "h61a3262dg996ag4acegbbffg44872cdeec20"
+data "Description" "hbd881fecg6d8fg482fg99edg16a2e3b9b972"
+data "Icon" "ICON_MNK_Deep_Meditation_2"
+data "StatsFunctorContext" "OnAttack"
+data "Properties" "Highlighted"
+data "Conditions" "IsCritical()"
+data "StatsFunctors" "RestoreResource(SELF,Spiteful_Spirit_Gauge,1,0)"
