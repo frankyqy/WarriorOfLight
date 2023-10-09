@@ -191,6 +191,7 @@
                 <node id="Progression"> FFXIV_MNK LV6
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Yang_Gauge,1,0);ActionResource(Yin_Gauge,1,0)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="PassivesAdded" type="LSString" value="Enhanced_Perfect_Balance"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
