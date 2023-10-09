@@ -202,7 +202,7 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2d0c26ba-dbcd-43bd-8d7e-b7ec1a5f7828,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="50293c97-2899-4f34-9c4b-cee410da6cfb"/>
                 </node>
