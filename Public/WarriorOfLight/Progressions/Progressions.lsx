@@ -191,9 +191,8 @@
                 <node id="Progression"> FFXIV_MNK LV6
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="6"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Yang_Gauge,1,0);ActionResource(Yin_Gauge,1,0)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Perfect_Balance;Tornado_Kick"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Perfect_Balance"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="9b98ff35-944a-4097-8737-5003d1e4b67c"/>

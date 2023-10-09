@@ -118,13 +118,3 @@ data "Icon" "ICON_MNK_Enhanced_Perfect_Balance"
 data "Conditions" "SpellId('Target_Bootshine_PB') or SpellId('Target_Dragon_Kick_PB') or SpellId('Shout_Arm_of_the_Destroyer_PB') or SpellId('Target_True_Strike_PB') or SpellId('Target_Twin_Snakes_PB') or SpellId('Shout_Four-point_Fury_PB') or SpellId('Target_Snap_Punch_PB') or SpellId('Target_Demolish_PB') or SpellId('Shout_Rockbreaker_PB')"
 data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):ApplyStatus(BOOST_Formless_Fist,100,5)"
 data "StatsFunctorContext" "OnCast"
-
-new entry "Tornado_Kick"
-type "PassiveData"
-data "DisplayName" "h59eaa3cbg4472g4391g912eg76d8c1f9ab89"
-data "Description" "h1458f11bg848fg416bga7e1ga1fb884e6f57"
-data "Icon" "ICON_MNK_Tornado_Kick"
-data "StatsFunctorContext" "OnCast"
-data "Conditions" "SpellId('Shout_Elixir_Field') or SpellId('Shout_Flint_Strike') or SpellId('Shout_Celestial_Revolution') "
-data "StatsFunctors" "IF(SpellId('Shout_Celestial_Revolution') and HasActionResource('Yin_Gauge', 1, 0, false, false, context.Source)):RestoreResource(SELF,Yang_Gauge,1,0);OnRemoveFunctors" "IF(SpellId('Shout_Celestial_Revolution') and not HasActionResource('Yin_Gauge', 1, 0, false, false, context.Source)):RestoreResource(SELF,Yin_Gauge,1,0);IF(SpellId('Shout_Flint_Strike')):RestoreResource(SELF,Yang_Gauge,1,0);IF(SpellId('Shout_Elixir_Field')):RestoreResource(SELF,Yin_Gauge,1,0)"
-
