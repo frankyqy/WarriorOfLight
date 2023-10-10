@@ -250,7 +250,7 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Flint_Strike_Mastery;Enhanced_Brotherhood;Tornado_Kick_Mastery"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="f6bd5f4c-1cda-4bee-be6f-7e6bdc3365d8"/>
                 </node>
