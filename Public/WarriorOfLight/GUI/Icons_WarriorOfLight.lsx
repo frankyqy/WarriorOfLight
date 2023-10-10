@@ -222,7 +222,7 @@
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="BOOST_Riddle_of_Fire"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Riddle_of_Fire"/>
                     <attribute id="U1" type="float" value="0.96875"/>
                     <attribute id="U2" type="float" value="1.0"/>
                     <attribute id="V1" type="float" value="0.0"/>
@@ -397,7 +397,7 @@
                     <attribute id="V2" type="float" value="0.0625"/>			
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="BOOST_Riddle_of_Fire_s"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Riddle_of_Fire_s"/>
                     <attribute id="U1" type="float" value="0.75"/>
                     <attribute id="U2" type="float" value="0.78125"/>
                     <attribute id="V1" type="float" value="0.03125"/>
