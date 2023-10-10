@@ -79,6 +79,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Wind"/>
                     <attribute id="UUID" type="guid" value="527db9dc-2dae-4898-b636-b13c3b0307d9"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_80"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Anatman;Target_Six-sided_Star"/>
+                    <attribute id="UUID" type="guid" value="0af176ac-33f2-4e56-ac37-5d6aed81f65d"/>
+                </node>
             </children>
         </node>
     </region>
