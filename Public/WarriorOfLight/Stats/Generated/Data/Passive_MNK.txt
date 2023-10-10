@@ -161,3 +161,10 @@ data "Icon" "ICON_MNK_Enhanced_Thunderclap"
 data "Conditions" "SpellId('Rush_Thunderclap_2')"
 data "StatsFunctors" "ApplyStatus(SELF,BOOST_Rush_Thunderclap_2,100,-1)"
 data "StatsFunctorContext" "OnCast"
+
+
+new entry "Flint_Strike_Mastery"
+type "PassiveData"
+data "DisplayName" "h9daaf830g7042g44abg9adag30db0e0191bf"
+data "Description" "h5379f7d6g5a02g431ag8b6cg6dc985589178"
+data "Icon" "ICON_MNK_Flint_Strike_Mastery"

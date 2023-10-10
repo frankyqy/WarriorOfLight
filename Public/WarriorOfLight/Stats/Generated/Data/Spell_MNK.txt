@@ -521,6 +521,18 @@ data "Description" "h82075918g181dg44d8g9cccg9a7a1fad27c3;1"
 data "SpellProperties" "ApplyStatus(SELF,BOOST_Yang,100,-1);ApplyStatus(SELF,BOOST_Formless_Fist,100,5)"
 
 
+new entry "Shout_Rising_Phoenix"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Elixir_Field"
+data "Icon" "ICON_MNK_Rising_Phoenix"
+data "DisplayName" "hc4e24c86g9db4g4e1cga663g5659c7dfe682;1"
+data "Description" "h63c04edeg3968g4a21g894age6f3e076bc7b;1"
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Yang,100,-1);ApplyStatus(SELF,BOOST_Formless_Fist,100,5)"
+data "SpellSuccess" "DealDamage(14d10,Fire)"
+data "SpellFail" "DealDamage(7d10,Fire)"
+data "TooltipDamageList" "DealDamage(14d10,Fire)"
+
 new entry "Target_Celestial_Revolution"
 type "SpellData"
 data "SpellType" "Target"
