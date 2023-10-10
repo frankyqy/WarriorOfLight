@@ -20,5 +20,9 @@
 	<content contentuid="h3105a988gc66bg4fccga241g954732911441" version="1">为自身附加状态：猛者强击，攻击造成的伤害提高</content>
 	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
 
+	<content contentuid="ha86273d1g4b18g42c9gaf05gda049116d543" version="1">毒咬箭</content>
+	<content contentuid="h2097e75bge2c7g4a97g9416g1fa7eac3f273" version="1">对目标发动物理攻击。附加毒性物理持续伤害</content>
+	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
+
 
 </contentList>

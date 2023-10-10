@@ -8,3 +8,12 @@ data "Boosts" "UnlockSpell(Projectile_Heavy_Shot)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Projectile_Heavy_Shot') and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "IF(SavingThrow(Ability.Dexterity, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
+
+
+new entry "Venomous_Bite"
+type "PassiveData"
+data "DisplayName" "ha86273d1g4b18g42c9gaf05gda049116d543"
+data "Description" "h2097e75bge2c7g4a97g9416g1fa7eac3f273"
+data "Icon" "ICON_BRD_Venomous_Bite"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Projectile_Venomous_Bite)"
