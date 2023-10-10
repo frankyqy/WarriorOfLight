@@ -99,9 +99,10 @@ data "DisplayName" "h3f19d96fg7502g4435g90f4ge409c0b4042c;1"
 data "Description" "h2291e7cdg2d68g4676g85efgb80443c5912e;1"
 data "Icon" "ICON_MNK_Formless_Fist"
 data "StackId" "BOOST_Formless_Fist"
-data "Boosts" "UnlockSpell(Target_Bootshine_Free); UnlockSpell(Target_Dragon_Kick_Free);UnlockSpell(Shout_Arm_of_the_Destroyer_Free);UnlockSpell(Target_True_Strike_Free);UnlockSpell(Target_Twin_Snakes_Free);UnlockSpell(Shout_Four-point_Fury_Free);UnlockSpell(Target_Snap_Punch_Free);UnlockSpell(Target_Demolish_Free);UnlockSpell(Shout_Rockbreaker_Free)"
+data "Boosts" "UnlockSpell(Target_Bootshine_F); UnlockSpell(Target_Dragon_Kick_F);UnlockSpell(Shout_Arm_of_the_Destroyer_F);UnlockSpell(Target_True_Strike_F);UnlockSpell(Target_Twin_Snakes_F);UnlockSpell(Shout_Four-point_Fury_F);UnlockSpell(Target_Snap_Punch_F);UnlockSpell(Target_Demolish_F);UnlockSpell(Shout_Rockbreaker_F)"
 data "RemoveEvents" "OnSpellCast"
-data "RemoveConditions" "SpellId('Target_Bootshine_Free') or SpellId('Target_Dragon_Kick_Free') or SpellId('Shout_Arm_of_the_Destroyer_Free') or SpellId('Target_True_Strike_Free') or SpellId('Target_Twin_Snakes_Free') or SpellId('Shout_Four-point_Fury_Free') or SpellId('Target_Snap_Punch_Free') or SpellId('Target_Demolish_Free') or SpellId('Shout_Rockbreaker_Free')"
+data "RemoveConditions" "SpellId('Target_Bootshine_F') or SpellId('Target_Dragon_Kick_F') or SpellId('Shout_Arm_of_the_Destroyer_F') or SpellId('Target_True_Strike_F') or SpellId('Target_Twin_Snakes_F') or SpellId('Shout_Four-point_Fury_F') or SpellId('Target_Snap_Punch_F') or SpellId('Target_Demolish_F') or SpellId('Shout_Rockbreaker_F')"
+
 
 new entry "BOOST_Raptor_Chakra"
 type "StatusData"
@@ -333,3 +334,12 @@ data "Description" "hb0f1928dg0358g40f5g911cgb8dbfcc08d24;1"
 data "Icon" "ICON_MNK_Six-sided_Star_s"
 data "StackId" "BOOST_Six-sided_Star"
 data "Boosts" "ActionResource(Movement,9,0)"
+
+
+
+new entry "BOOST_Enhanced_Bootshine"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hc021f5c2g727eg4214g9981gcc15254f221d;1"
+data "Description" "h86678660g98a2g4763g8a3ag4e2ee5e10bf5;1"
+data "Icon" "ICON_MNK_Enhanced_Bootshine"

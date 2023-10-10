@@ -5,7 +5,7 @@ data "Description" "hbc466899g4c3eg407dga172ga7d4b66bcbec"
 data "Icon" "ICON_MNK_Greased_Lightning"
 data "Properties" "Highlighted"
 data "BoostContext" "OnDamage"
-data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and (SpellId('Target_Bootshine') or SpellId('Target_Bootshine_Free') or SpellId('Target_Bootshine_PB'))):CriticalDamageOnHit()"
+data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)) and (SpellId('Target_Bootshine') or SpellId('Target_Bootshine_F') or SpellId('Target_Bootshine_PB'))):CriticalDamageOnHit()"
 
 
 new entry "Steel_Peak"
@@ -24,8 +24,8 @@ data "Description" "haf50b157g968bg451cgae91g813c0df0afed"
 data "Icon" "ICON_MNK_Arm_of_the_Destroyer"
 data "Boosts" "UnlockSpell(Shout_Arm_of_the_Destroyer)"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Shout_Arm_of_the_Destroyer') and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form') or HasStatus('BOOST_Formless_Fist',context.Source)):DealDamage(10)
+data "Conditions" "(SpellId('Shout_Arm_of_the_Destroyer') or SpellId('Shout_Arm_of_the_Destroyer_F') or SpellId('Shout_Arm_of_the_Destroyer_PB')) and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form') or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)):DealDamage(10)
 data "Properties" "Highlighted"
 
 
@@ -150,7 +150,7 @@ data "Icon" "ICON_MNK_Arm_of_the_Destroyer_Mastery"
 data "Boosts" "UnlockSpell(Shout_Shadow_of_the_Destroyer)"
 data "Properties" "Highlighted"
 data "BoostContext" "OnDamage"
-data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and (SpellId('Shout_Shadow_of_the_Destroyer') or SpellId('Shout_Shadow_of_the_Destroyer_Free') or SpellId('Shout_Shadow_of_the_Destroyer_PB'))):CriticalDamageOnHit()"
+data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)) and (SpellId('Shout_Shadow_of_the_Destroyer') or SpellId('Shout_Shadow_of_the_Destroyer_F') or SpellId('Shout_Shadow_of_the_Destroyer_PB'))):CriticalDamageOnHit()"
 
 
 new entry "Enhanced_Thunderclap"
