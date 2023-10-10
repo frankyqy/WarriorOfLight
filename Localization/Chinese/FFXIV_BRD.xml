@@ -16,5 +16,9 @@
 	<content contentuid="h22bb4250g374bg4d91gb77eg43531dc966d2" version="1">直线射击预备</content>
 	<content contentuid="h250cdac3g45a5g4db5ga7e4gb9c9291cf7e0" version="1">可以发动直线射击。</content>
 
+	<content contentuid="h35ddc263g498bg452bg84e9g241f3b2a30f0" version="1">猛者强击</content>
+	<content contentuid="h3105a988gc66bg4fccga241g954732911441" version="1">为自身附加状态：猛者强击，攻击造成的伤害提高</content>
+	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
+
 
 </contentList>
