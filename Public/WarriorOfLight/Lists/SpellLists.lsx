@@ -61,7 +61,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_55"/>
-                    <attribute id="Spells" type="LSString" value="Target_Form_Shift"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Form_Shift"/>
                     <attribute id="UUID" type="guid" value="7252cfe6-32d9-4075-b223-9614f7aeb9bd"/>
                 </node>
                 <node id="SpellList">

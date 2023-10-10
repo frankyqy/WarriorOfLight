@@ -231,7 +231,7 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Greased_Lightning_3"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="ab5dffd1-053f-4452-931d-2c863502aa47"/>
                 </node>
