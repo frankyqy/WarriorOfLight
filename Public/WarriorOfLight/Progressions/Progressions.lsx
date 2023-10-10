@@ -152,7 +152,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Arm_of_the_Destroyer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Arm_of_the_Destroyer;Enhanced_Greased_Lightning"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="70e7cc74-8a6f-4211-8ebe-03860a701f27"/>
@@ -161,7 +161,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Howling_Fist;Deep_Meditation"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Howling_Fist;Deep_Meditation;Enhanced_Greased_Lightning_2"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(e89e2717-8108-4792-a03a-6a0531a96166,,,,AlwaysPrepared);"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
