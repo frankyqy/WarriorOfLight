@@ -241,6 +241,7 @@
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Arm_of_the_Destroyer"/>
                     <attribute id="PassivesAdded" type="LSString" value="Arm_of_the_Destroyer_Mastery;Enhanced_Thunderclap"/>
                     <attribute id="TableUUID" type="guid" value="ed56e169-3261-47ed-9e68-302f9071d6ee"/>
                     <attribute id="UUID" type="guid" value="6ece1564-0571-42e5-b559-76987469bdb3"/>
