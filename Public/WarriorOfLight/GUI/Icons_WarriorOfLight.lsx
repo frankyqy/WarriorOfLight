@@ -537,14 +537,14 @@
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Six-sided_Star"/>
                     <attribute id="U1" type="float" value="0.375"/>
                     <attribute id="U2" type="float" value="0.40625"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_MNK_Six-sided_Star_s"/>
                     <attribute id="U1" type="float" value="0.40625"/>
                     <attribute id="U2" type="float" value="0.4375"/>
                     <attribute id="V1" type="float" value="0.0625"/>
