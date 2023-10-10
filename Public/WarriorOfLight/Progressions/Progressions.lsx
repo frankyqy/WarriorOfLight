@@ -270,7 +270,7 @@
                     <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(Longbows);Proficiency(Shortbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Greased_Lightning;Steel_Peak"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Heavier_Shot"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSkills(1bf90ddb-c574-41c8-9359-77646860709e,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);AddSpells(0549dd6c-540d-4cf6-bf60-d28c8afc5a9d,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>

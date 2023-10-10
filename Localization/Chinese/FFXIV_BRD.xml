@@ -4,5 +4,17 @@
 	<content contentuid="h15fa5766g3f5cg4790gbd4bg3f25fbf2aae9" version="1">吟游诗人</content>
 	<content contentuid="h9d3606f1g99b6g4effg9da0g15a7e06877a3" version="1">说起“吟游诗人”人们便联想到有着动听嗓音，用灵巧手指拨动琴弦的巡回艺人，认为他们依靠在小酒馆和宴会中的表演养活自己。但只有极少数人知道，吟游诗人实际上可以一直追溯到古时的弓箭手，那时弓箭手会在战斗最激烈时唱起战歌鼓舞战友激发斗志。吟游诗人的热切歌声对人心有极大影响，能鼓舞他们的战友奋勇向前，也能抚慰人心，让垂死之人安然离世。</content>
 
+	<content contentuid="h4e247f44g442fg4be1ga9cdgac2ab45cc8d6" version="1">强力射击</content>
+	<content contentuid="h6ca83f94gcd3bg4123g95a9g91dcbe80a354" version="1">对目标发动物理攻击。一定几率为自身附加状态：直线射击预备，可以发动直线射击</content>
+
+	<content contentuid="haac9a27dg136cg4ffdg9eb7g35edf6b382ce" version="1">直线射击</content>
+	<content contentuid="h82c6227dg13ceg42bega5b6gdd911600a65c" version="1">对目标发动物理攻击。</content>
+
+	<content contentuid="hf640a54dg94c0g4b1fg9237g3412eceb8d10" version="1">强力射击效果提高</content>
+	<content contentuid="h03f96f3bg2052g4118ga10fge8d0b66da490" version="1">成功发动强力射击时，一定几率为自身附加状态：直线射击预备，可以发动直线射击</content>
+
+	<content contentuid="h22bb4250g374bg4d91gb77eg43531dc966d2" version="1">直线射击预备</content>
+	<content contentuid="h250cdac3g45a5g4db5ga7e4gb9c9291cf7e0" version="1">可以发动直线射击。</content>
+
 
 </contentList>

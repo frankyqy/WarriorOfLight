@@ -1,0 +1,12 @@
+new entry "BOOST_Straight_Shot_Ready"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h22bb4250g374bg4d91gb77eg43531dc966d2;1"
+data "Description" "h250cdac3g45a5g4db5ga7e4gb9c9291cf7e0;1"
+data "Icon" "ICON_MNK_Raptor_Form"
+data "StackId" "BOOST_Formless_Fist"
+data "Boosts" "UnlockSpell(Projectile_Straight_Shot)"
+data "StatusGroups" "SG_RemoveOnRespec"
+data "RemoveEvents" "OnSpellCast"
+data "RemoveConditions" "SpellId('Projectile_Straight_Shot')"
+
