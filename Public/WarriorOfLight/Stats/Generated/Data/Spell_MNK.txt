@@ -231,7 +231,7 @@ data "AreaRadius" "5"
 data "SpellRoll" "not SavingThrow(Ability.Strength, SourceSpellDC())"
 data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Form,100,5)"
 data "SpellSuccess" "DealDamage(2d10,Bludgeoning)"
-data "SpellFail" "DealDamage(1d10,Bludgeoning"
+data "SpellFail" "DealDamage(1d10,Bludgeoning)"
 data "TargetConditions" "not Ally()"
 data "Icon" "ICON_MNK_Arm_of_the_Destroyer"
 data "DisplayName" "hd7c15998g2c52g4992gbe82gffb8100efbc8;3"
@@ -250,10 +250,27 @@ data "CastEffect" "9b1d6677-8714-467a-b646-e982edca10cf"
 data "Sheathing" "DontChange"
 
 
+new entry "Shout_Shadow_of_the_Destroyer"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Arm_of_the_Destroyer"
+data "SpellSuccess" "DealDamage(2d10+10,Bludgeoning)"
+data "Icon" "ICON_MNK_Shadow_of_the_Destroyer"
+data "DisplayName" "h4a9e6b8cgd6bfg40e9ga871g30d51d444347;3"
+data "Description" "hede7ede5g4f3dg40edgb86cgd64529ac0852;5"
+data "TooltipDamageList" "DealDamage(2d10+10,Bludgeoning)"
+
+
 new entry "Shout_Arm_of_the_Destroyer_Free"
 type "SpellData"
 data "SpellType" "Target"
 using "Shout_Arm_of_the_Destroyer"
+data "UseCosts" ""
+
+new entry "Shout_Shadow_of_the_Destroyer_Free"
+type "SpellData"
+data "SpellType" "Target"
+using "Shout_Shadow_of_the_Destroyer"
 data "UseCosts" ""
 
 new entry "Shout_Arm_of_the_Destroyer_PB"
@@ -262,6 +279,14 @@ data "SpellType" "Target"
 using "Shout_Arm_of_the_Destroyer"
 data "UseCosts" "Perfect_Balance_Gauge:1"
 data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
+
+new entry "Shout_Shadow_of_the_Destroyer_PB"
+type "SpellData"
+data "SpellType" "Target"
+using "Shout_Shadow_of_the_Destroyer"
+data "UseCosts" ""
+data "SpellProperties" "ApplyStatus(SELF,BOOST_Raptor_Chakra,100,1)"
+
 
 
 new entry "Shout_Four-point_Fury"

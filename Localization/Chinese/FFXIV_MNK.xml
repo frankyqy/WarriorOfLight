@@ -22,6 +22,9 @@
 	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">破坏神冲</content>
 	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。</content>
 
+	<content contentuid="h4a9e6b8cgd6bfg40e9ga871g30d51d444347" version="1">破坏神脚</content>
+	<content contentuid="hede7ede5g4f3dg40edgb86cgd64529ac0852" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：攻击必定暴击</content>
+
 	<content contentuid="h586493f5gb963g4908ga461g418d0015ce8b" version="1">正拳</content>
 	<content contentuid="hb11e2543ge0b6g467ag9208gd961f799e1cc" version="1">对目标发动物理攻击。追加效果：猛豹身形。</content>
 
@@ -156,5 +159,8 @@
 	<content contentuid="he70c4102g9482g4ae4gb6ebg81fcfe89b22c" version="1">六合星导脚</content>
 	<content contentuid="hda5273a0gf811g46f8g9983g0a7dbeccfff8" version="1">对目标发动物理攻击。为自身附加提高自身的移动速度的状态</content>
 	<content contentuid="hb0f1928dg0358g40f5g911cgb8dbfcc08d24" version="1">提高自身的移动速度</content>
+
+	<content contentuid="h5d211578gf7f5g4ed2gb103g30b17a9d0392" version="1">破坏神冲精通</content>
+	<content contentuid="h0ff76f15gc986g41ddgab49g80030ab8143c" version="1">破坏神冲变为破坏神脚</content>
 
 </contentList>
