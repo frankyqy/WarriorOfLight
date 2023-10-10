@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression"> FFXIV_PLD LV1
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor);Proficiency(Longswords);Proficiency(Shields);Proficiency(MartialWeapons)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor);Proficiency(MediumArmor);Proficiency(LightArmor);Proficiency(Longswords);Proficiency(Shortswords);Proficiency(Shields);Proficiency(Shortswords)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="PassivesAdded" type="LSString" value="Tank_Mastery;Iron_Will"/>
@@ -137,7 +137,7 @@
 
                 <node id="Progression"> FFXIV_MNK LV1
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="PassivesAdded" type="LSString" value="Greased_Lightning;Steel_Peak"/>
@@ -267,7 +267,7 @@
 
                 <node id="Progression"> FFXIV_BRD LV1
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(Longbows);Proficiency(Shortbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="PassivesAdded" type="LSString" value="Greased_Lightning;Steel_Peak"/>
