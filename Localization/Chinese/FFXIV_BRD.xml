@@ -24,5 +24,10 @@
 	<content contentuid="h2097e75bge2c7g4a97g9416g1fa7eac3f273" version="1">对目标发动物理攻击。附加毒性物理持续伤害</content>
 	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
 
+	<content contentuid="h3d097203g4969g48dega5a9g385b461fd293" version="1">失血箭</content>
+	<content contentuid="h79c2cb50g5c03g4dceg9fc1gba49f90db195" version="1">对目标发动物理攻击。</content>
+	<content contentuid="h677f9df2g6e3ag496cgb800g1fc8d3ffef38" version="1">用来释放失血箭和死亡箭雨</content>
+
+
 
 </contentList>

@@ -45,44 +45,50 @@
 
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_15"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_15"/>
                     <attribute id="Spells" type="LSString" value="Target_Bootshine;Shout_Spiteful_Spirit"/>
                     <attribute id="UUID" type="guid" value="0549dd6c-540d-4cf6-bf60-d28c8afc5a9d"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_40"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_40"/>
                     <attribute id="Spells" type="LSString" value="Rush_Thunderclap"/>
                     <attribute id="UUID" type="guid" value="e89e2717-8108-4792-a03a-6a0531a96166"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_50"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_50"/>
                     <attribute id="Spells" type="LSString" value="Shout_Mantra;Target_Dragon_Kick"/>
                     <attribute id="UUID" type="guid" value="da9c81d3-1181-4e85-b633-9752896a10b5"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_55"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_55"/>
                     <attribute id="Spells" type="LSString" value="Shout_Form_Shift"/>
                     <attribute id="UUID" type="guid" value="7252cfe6-32d9-4075-b223-9614f7aeb9bd"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_65"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_65"/>
                     <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Earth"/>
                     <attribute id="UUID" type="guid" value="2d0c26ba-dbcd-43bd-8d7e-b7ec1a5f7828"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_70"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_70"/>
                     <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Fire;Shout_Brotherhood"/>
                     <attribute id="UUID" type="guid" value="f7f1e603-24fd-4f70-b537-f96740b88730"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_75"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_75"/>
                     <attribute id="Spells" type="LSString" value="Shout_Riddle_of_Wind"/>
                     <attribute id="UUID" type="guid" value="527db9dc-2dae-4898-b636-b13c3b0307d9"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="PLD_Lv_80"/>
+                    <attribute id="Comment" type="LSString" value="MNK_Lv_80"/>
                     <attribute id="Spells" type="LSString" value="Shout_Anatman;Target_Six-sided_Star"/>
                     <attribute id="UUID" type="guid" value="0af176ac-33f2-4e56-ac37-5d6aed81f65d"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_15"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Raging_Strikes;Projectile_Bloodletter"/>
+                    <attribute id="UUID" type="guid" value="2f4dc056-e2e8-45f3-bebc-c792821c6a62"/>
                 </node>
             </children>
         </node>
