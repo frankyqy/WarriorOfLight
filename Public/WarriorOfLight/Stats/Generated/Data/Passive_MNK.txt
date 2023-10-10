@@ -149,8 +149,8 @@ data "Description" "h0ff76f15gc986g41ddgab49g80030ab8143c"
 data "Icon" "ICON_MNK_Arm_of_the_Destroyer_Mastery"
 data "Boosts" "UnlockSpell(Shout_Shadow_of_the_Destroyer)"
 data "Properties" "Highlighted"
-data "BoostContext" "OnDamage"
-data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)) and (SpellId('Shout_Shadow_of_the_Destroyer') or SpellId('Shout_Shadow_of_the_Destroyer_F') or SpellId('Shout_Shadow_of_the_Destroyer_PB'))):CriticalDamageOnHit()"
+data "StatsFunctorContext" "OnAttack"
+data "StatsFunctors" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)) and (SpellId('Shout_Shadow_of_the_Destroyer') or SpellId('Shout_Shadow_of_the_Destroyer_F') or SpellId('Shout_Shadow_of_the_Destroyer_PB'))):CriticalDamageOnHit()"
 
 
 new entry "Enhanced_Thunderclap"
