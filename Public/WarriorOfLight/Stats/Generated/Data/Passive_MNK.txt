@@ -168,3 +168,13 @@ type "PassiveData"
 data "DisplayName" "h9daaf830g7042g44abg9adag30db0e0191bf"
 data "Description" "h5379f7d6g5a02g431ag8b6cg6dc985589178"
 data "Icon" "ICON_MNK_Flint_Strike_Mastery"
+
+new entry "Enhanced_Brotherhood"
+type "PassiveData"
+data "DisplayName" "ha0f44ae3gf623g4e93ga098g049bfc07a43f"
+data "Description" "h2b81cdcagaa87g4784g8127ga392a04bf60e"
+data "Icon" "ICON_MNK_Enhanced_Brotherhood"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(HasStatus('BOOST_Meditative_Brotherhood_SELF',context.Source)):CriticalDamageOnHit()"
+data "Properties" "Highlighted"
+
