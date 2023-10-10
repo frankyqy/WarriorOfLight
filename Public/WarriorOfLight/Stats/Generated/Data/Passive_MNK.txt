@@ -151,3 +151,13 @@ data "Boosts" "UnlockSpell(Shout_Arm_of_the_Destroyer)"
 data "Properties" "Highlighted"
 data "BoostContext" "OnDamage"
 data "Boosts" "IF((HasStatus('BOOST_Opo-opo_Form',context.Source) or HasStatus('BOOST_Formless_Fist',context.Source)) and (SpellId('Shout_Shadow_of_the_Destroyer') or SpellId('Shout_Shadow_of_the_Destroyer_Free') or SpellId('Shout_Shadow_of_the_Destroyer_PB'))):CriticalDamageOnHit()"
+
+
+new entry "Enhanced_Thunderclap"
+type "PassiveData"
+data "DisplayName" "h1aa96eecg9b37g4254g851bg25a427fac456"
+data "Description" "h59ea0af4g147bg453ag8318g7bb28ecbe515"
+data "Icon" "ICON_MNK_Enhanced_Thunderclap"
+data "Conditions" "SpellId('Rush_Thunderclap_2')"
+data "StatsFunctors" "ApplyStatus(SELF,BOOST_Rush_Thunderclap_2,100,-1)"
+data "StatsFunctorContext" "OnCast"
