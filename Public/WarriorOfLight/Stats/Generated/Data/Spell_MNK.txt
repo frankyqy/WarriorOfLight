@@ -558,6 +558,17 @@ data "SpellSuccess" "TARGET:AOE:IF(not SavingThrow(Ability.Constitution, SourceS
 data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Constitution, SourceSpellDC())):DealDamage(17d10/2,Force)"
 data "UseCosts" "Yang_Gauge:1;Yin_Gauge:1"
 
+
+new entry "Target_Phantom_Rush"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Bootshine"
+data "DisplayName" "h5328ccf1g7bb4g4e38g80ecg0a03075a0585;1"
+data "Description" "hbf3f38e9g231fg4343g8384g20c5b65fd99e;1"
+data "Icon" "ICON_MNK_Phantom_Rush"
+data "SpellSuccess" "TARGET:AOE:IF(not SavingThrow(Ability.Constitution, SourceSpellDC())):DealDamage(23d10,Force)"
+data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Constitution, SourceSpellDC())):DealDamage(23d10/2,Force)"
+
 new entry "Shout_Riddle_of_Earth"
 type "SpellData"
 data "SpellType" "Shout"

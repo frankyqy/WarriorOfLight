@@ -178,3 +178,10 @@ data "StatsFunctorContext" "OnDamage"
 data "StatsFunctors" "IF(HasStatus('BOOST_Meditative_Brotherhood_SELF',context.Source)):CriticalDamageOnHit()"
 data "Properties" "Highlighted"
 
+
+
+new entry "Tornado_Kick_Mastery"
+type "PassiveData"
+data "DisplayName" "h9b744ab4g4983g4cdegae4bge01e89818943"
+data "Description" "he6b91197g8d79g4c47gb3cbg19e3334b5896"
+data "Icon" "ICON_MNK_Tornado_Kick_Mastery"
