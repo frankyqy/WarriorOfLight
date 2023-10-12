@@ -17,3 +17,12 @@ data "Description" "h2097e75bge2c7g4a97g9416g1fa7eac3f273"
 data "Icon" "ICON_BRD_Venomous_Bite"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Venomous_Bite)"
+
+new entry "Quick_Nock"
+type "PassiveData"
+data "DisplayName" "h8f02005dgba2fg435dg9bc0gc1858bccbb27"
+data "Description" "h6e6424b3g1bddg4a88ga183g240ea91e074d"
+data "Icon" "ICON_BRD_Quick_Nock"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Zone_BurningHands)"
+
