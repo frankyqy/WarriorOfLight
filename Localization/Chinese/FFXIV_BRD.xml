@@ -21,8 +21,12 @@
 	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
 
 	<content contentuid="ha86273d1g4b18g42c9gaf05gda049116d543" version="1">毒咬箭</content>
-	<content contentuid="h2097e75bge2c7g4a97g9416g1fa7eac3f273" version="1">对目标发动物理攻击。附加毒性物理持续伤害</content>
-	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
+	<content contentuid="h2097e75bge2c7g4a97g9416g1fa7eac3f273" version="1">对目标发动物理攻击。附加毒素属性持续伤害</content>
+	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">毒素属性持续伤害。</content>
+
+	<content contentuid="h89cca5aagf32dg43c8g9b9eg69d45a59702d" version="1">风蚀箭</content>
+	<content contentuid="hbe5dd4aag8fb5g4cd4g8eafgf9bde0a40f90" version="1">对目标发动物理攻击。附加强酸属性持续伤害</content>
+	<content contentuid="h297ca70ag59bfg4eefgbe6fge93e1de17285" version="1">强酸属性持续伤害。</content>
 
 	<content contentuid="h3d097203g4969g48dega5a9g385b461fd293" version="1">失血箭</content>
 	<content contentuid="h79c2cb50g5c03g4dceg9fc1gba49f90db195" version="1">对目标发动物理攻击。</content>
