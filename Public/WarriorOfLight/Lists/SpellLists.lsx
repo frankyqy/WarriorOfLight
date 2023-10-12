@@ -87,7 +87,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BRD_Lv_15"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Raging_Strikes;Projectile_Bloodletter"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Raging_Strikes;Projectile_Bloodletter;Shout_Repelling_Shot"/>
                     <attribute id="UUID" type="guid" value="2f4dc056-e2e8-45f3-bebc-c792821c6a62"/>
                 </node>
             </children>
