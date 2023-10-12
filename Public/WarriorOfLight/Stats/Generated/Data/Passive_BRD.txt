@@ -24,5 +24,5 @@ data "DisplayName" "h8f02005dgba2fg435dg9bc0gc1858bccbb27"
 data "Description" "h6e6424b3g1bddg4a88ga183g240ea91e074d"
 data "Icon" "ICON_BRD_Quick_Nock"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Zone_BurningHands)"
+data "Boosts" "UnlockSpell(Zone_Quick_Nock)"
 
