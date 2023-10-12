@@ -7,7 +7,7 @@ data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Heavy_Shot)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Projectile_Heavy_Shot') and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "IF(SavingThrow(Ability.Dexterity, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
 
 
 new entry "Venomous_Bite"
@@ -36,10 +36,10 @@ data "Boosts" "UnlockSpell(Zone_Quick_Nock)"
 
 new entry "Mage_Ballad"
 type "PassiveData"
-data "DisplayName" "h8f02005dgba2fg435dg9bc0gc1858bccbb27"
-data "Description" "h6e6424b3g1bddg4a88ga183g240ea91e074d"
+data "DisplayName" "hea149bcbg0a7ag4cb1ga563gda844e240b37"
+data "Description" "h161e5ca6g92adg40c0gad5dgdd4736d0f1ce"
 data "Icon" "ICON_BRD_Mage_Ballad"
 data "StatsFunctorContext" "OnAttack"
-data "StatsFunctors" "IF(SavingThrow(Ability.Dexterity, 4)):RestoreResource(SELF,Bloodletter_Gauge,1,0)"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):RestoreResource(SELF,Bloodletter_Gauge,1,0)"
 
 
