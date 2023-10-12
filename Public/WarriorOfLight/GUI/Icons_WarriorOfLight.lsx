@@ -670,7 +670,7 @@
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Projectile_Bloodletter"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Bloodletter"/>
                     <attribute id="U1" type="float" value="0.96875"/>
                     <attribute id="U2" type="float" value="1.0"/>
                     <attribute id="V1" type="float" value="0.0625"/>
