@@ -284,6 +284,7 @@
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="PassivesAdded" type="LSString" value="Quick_Nock;Windbite"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5a195c53-4e08-4be1-b870-4bae5bfec190,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="4e647548-0ac6-46de-aa89-1e0c81d4b293"/>
                 </node>

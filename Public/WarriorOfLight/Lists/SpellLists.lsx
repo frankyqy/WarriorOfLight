@@ -90,6 +90,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Raging_Strikes;Projectile_Bloodletter;Shout_Repelling_Shot"/>
                     <attribute id="UUID" type="guid" value="2f4dc056-e2e8-45f3-bebc-c792821c6a62"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_30"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Mage_Ballad"/>
+                    <attribute id="UUID" type="guid" value="5a195c53-4e08-4be1-b870-4bae5bfec190"/>
+                </node>
             </children>
         </node>
     </region>
