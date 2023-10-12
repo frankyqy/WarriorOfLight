@@ -281,6 +281,7 @@
                 <node id="Progression"> FFXIV_BRD LV2
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ActionPoint,1,0)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="PassivesAdded" type="LSString" value="Quick_Nock;Windbite"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
