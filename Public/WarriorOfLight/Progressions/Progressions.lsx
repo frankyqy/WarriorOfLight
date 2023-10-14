@@ -305,8 +305,7 @@
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Perfect_Balance"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(da9c81d3-1181-4e85-b633-9752896a10b5,,,,AlwaysPrepared);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(801f4bc3-5a59-40a0-8c25-dc3db537cb33,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="85276c0a-cd60-43f8-9773-82b5992dd3f9"/>
                 </node>

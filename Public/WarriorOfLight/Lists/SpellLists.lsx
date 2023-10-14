@@ -100,6 +100,11 @@
                     <attribute id="Spells" type="LSString" value="Target_the_Warden_Paean;Shout_Barrage;Shout_Army_Paeon"/>
                     <attribute id="UUID" type="guid" value="abf63112-3601-41ad-9a38-461281b979a8"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_50"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Rain_of_Death"/>
+                    <attribute id="UUID" type="guid" value="801f4bc3-5a59-40a0-8c25-dc3db537cb33"/>
+                </node>
             </children>
         </node>
     </region>
