@@ -40,6 +40,7 @@ data "DisplayName" "hea149bcbg0a7ag4cb1ga563gda844e240b37"
 data "Description" "h161e5ca6g92adg40c0gad5dgdd4736d0f1ce"
 data "Icon" "ICON_BRD_Mage_Ballad"
 data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Zone_Quick_Nock')"
 data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):RestoreResource(SELF,Bloodletter_Gauge,1,0)"
 
 
@@ -49,7 +50,8 @@ data "DisplayName" "h2ac2b118g3d73g450ag97eag3f6955f98175"
 data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98"
 data "Icon" "ICON_BRD_Army_Paeon"
 data "StatsFunctorContext" "OnAttack"
-data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):RestoreResource(SELF,ActionPoint,1,0)"
+data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Zone_Quick_Nock')"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R, 100, -1)"
 
 
 
@@ -60,4 +62,4 @@ data "Description" "h4c21c426gf3afg4b2fg9fa9g7ffa829d4590;2"
 data "Icon" "Skill_Sorcerer_Passive_Metamagic_TwinnedSpell"
 data "EnabledConditions" "HasStatus('BOOST_Barrage', context.Source)"
 data "EnabledContext" "OnCastResolved"
-data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Heavy_Shot') & SpellId('Projectile_Straight_Shot') & SpellId('Projectile_Venomous_Bite') & SpellId('Projectile_Windbite') ,ModifyNumberOfTargets(AdditiveBase,1,false))"
+data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') ,ModifyNumberOfTargets(AdditiveBase,2,true))"
