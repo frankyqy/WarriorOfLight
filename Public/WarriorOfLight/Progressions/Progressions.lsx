@@ -292,9 +292,10 @@
                 <node id="Progression"> FFXIV_BRD LV3
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BonusActionPoint,1,0)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Howling_Fist;Deep_Meditation;Enhanced_Greased_Lightning_2"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(e89e2717-8108-4792-a03a-6a0531a96166,,,,AlwaysPrepared);"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(abf63112-3601-41ad-9a38-461281b979a8,,,,AlwaysPrepared);"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="9686a920-153c-4186-b812-abae30704a74"/>

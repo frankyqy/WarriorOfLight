@@ -95,6 +95,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Mage_Ballad"/>
                     <attribute id="UUID" type="guid" value="5a195c53-4e08-4be1-b870-4bae5bfec190"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_40"/>
+                    <attribute id="Spells" type="LSString" value="Target_the_Warden_Paean;Shout_Barrage;Shout_Army_Paeon"/>
+                    <attribute id="UUID" type="guid" value="abf63112-3601-41ad-9a38-461281b979a8"/>
+                </node>
             </children>
         </node>
     </region>

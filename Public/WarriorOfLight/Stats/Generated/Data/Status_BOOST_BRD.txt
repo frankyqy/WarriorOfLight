@@ -71,6 +71,18 @@ data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST
 data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"
 
 
+new entry "BOOST_Army_Paeon_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HOBGOBLIN_LEADERSHIP_AURA"
+data "DisplayName" "h2ac2b118g3d73g450ag97eag3f6955f98175;2"
+data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98;2"
+data "StackId" "BOOST_BRD_Song_Aura"
+data "Icon" "ICON_BRD_Army_Paeon_a"
+data "Passives" "Army_Paeon"
+data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_Army_Paeon)"
+
+
 new entry "BOOST_Mage_Ballad"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -80,3 +92,24 @@ data "DisplayName" "hea149bcbg0a7ag4cb1ga563gda844e240b37;2"
 data "Description" "h161e5ca6g92adg40c0gad5dgdd4736d0f1ce;2"
 data "Icon" "ICON_BRD_Mage_Ballad_s"
 data "Boosts" "RollBonus(Attack,1d4)"
+
+new entry "BOOST_Army_Paeon"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BOOST_Mage_Ballad"
+data "DisplayName" "h2ac2b118g3d73g450ag97eag3f6955f98175;2"
+data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98;2"
+data "Icon" "ICON_BRD_Army_Paeon_s"
+
+
+new entry "BOOST_Barrage"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hdb427ae6g5ce6g447dg8402gd27767cc9fc7;2"
+data "Description" "h4c21c426gf3afg4b2fg9fa9g7ffa829d4590;2"
+data "Icon" "ICON_BRD_Barrage_s"
+data "SoundLoop" "MAG_Status_HarpersSingingSword_BlessingAura"
+data "StackId" "BOOST_Barrage"
+data "StackType" "Overwrite"
+data "Passives" "Barrage"
+data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"

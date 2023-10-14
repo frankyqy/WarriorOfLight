@@ -40,6 +40,16 @@
 
 	<content contentuid="hea149bcbg0a7ag4cb1ga563gda844e240b37" version="1">贤者的叙事谣</content>
 	<content contentuid="h161e5ca6g92adg40c0gad5dgdd4736d0f1ce" version="1">弹唱贤者的叙事谣，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，恢复失血箭层数。</content>
+	<content contentuid="h2ac2b118g3d73g450ag97eag3f6955f98175" version="1">军神的赞美歌</content>
+	<content contentuid="hc97d0b65gff5cg489ag93a5gbe615b8c2f98" version="1">弹唱军神的赞美歌，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
+
+
+	<content contentuid="hcaed876fg4487g42c6gb8c9g9dc2fd18a776" version="1">光阴神的礼赞凯歌</content>
+	<content contentuid="hd10bb226gc042g43e9g9bcbg2d8cbe945c8b" version="1">解除一个生物的疾病、目盲、中毒、麻痹、魅惑、石化、震慑、诅咒等状态。</content>
+
+	<content contentuid="hdb427ae6g5ce6g447dg8402gd27767cc9fc7" version="1">纷乱箭</content>
+	<content contentuid="h73e500e1g35abg4da6gaa7fgb1f6da6ef57e" version="1">为自身附加状态：纷乱箭，自身发动的下一次战技会变为多次攻击</content>
+	<content contentuid="h4c21c426gf3afg4b2fg9fa9g7ffa829d4590" version="1">发动的下一次战技会变为多次攻击</content>
 
 
 
