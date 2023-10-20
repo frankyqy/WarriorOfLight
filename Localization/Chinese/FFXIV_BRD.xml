@@ -48,6 +48,8 @@
 	<content contentuid="h161e5ca6g92adg40c0gad5dgdd4736d0f1ce" version="1">弹唱贤者的叙事谣，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，恢复失血箭层数。</content>
 	<content contentuid="h2ac2b118g3d73g450ag97eag3f6955f98175" version="1">军神的赞美歌</content>
 	<content contentuid="hc97d0b65gff5cg489ag93a5gbe615b8c2f98" version="1">弹唱军神的赞美歌，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
+	<content contentuid="h3b102d88g9791g436cg9282gbfee4bc8cfef" version="1">放浪神的小步舞曲</content>
+	<content contentuid="hb400f011ga23fg4991g894agd83883f021c3" version="1">弹唱放浪神的小步舞曲，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
 
 
 	<content contentuid="hcaed876fg4487g42c6gb8c9g9dc2fd18a776" version="1">光阴神的礼赞凯歌</content>
@@ -63,6 +65,9 @@
 	<content contentuid="h4de22e61g2b9cg4571gb4eagddff0844a25a" version="1">战斗之声</content>
 	<content contentuid="h778800cdg5a5dg4c60gae0fgb04db4136b72" version="1">为自身和周围队员附加战斗之声，触发重击所需的点数-1</content>
 	<content contentuid="h73cdf7a3ge21fg4ce9g9320gc74162f04d90" version="1">触发重击所需的点数-1</content>
+
+	<content contentuid="h65493ebbg4a7eg4874g8a16ga52076b1999c" version="1">完美音调</content>
+	<content contentuid="h2b641502g27a9g4522gb495ge6266dfcabdc" version="1">对目标发动物理攻击。</content>
 
 
 
