@@ -55,7 +55,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_FFXIV_BRD"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Longbow"
+add equipment entry "WPN_Shortbow"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
@@ -76,6 +76,7 @@ add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
+
 
 new equipment "EQP_CC_FFXIV_WHM"
 add initialweaponset "Melee"
