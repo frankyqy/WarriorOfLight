@@ -39,9 +39,10 @@ type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "h474dde0dg7d1cg42dfg838bg2f1707269507;1"
 data "Description" "h4e896fd8g5000g441ag8eb4g98607bd1710e;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(FFXIV_MNK_Bonus)+max(DexterityModifier,StrengthModifier), Force)"
 data "Icon" "ICON_MNK_Disciplined_Fist"
 data "StackId" "BOOST_Disciplined_Fist"
-data "Boosts" "CharacterUnarmedDamage(10d, Force)"
+data "Boosts" "CharacterUnarmedDamage(LevelMapValue(FFXIV_MNK_Bonus)+max(DexterityModifier,StrengthModifier), Force)"
 
 
 new entry "BOOST_Demolish"
