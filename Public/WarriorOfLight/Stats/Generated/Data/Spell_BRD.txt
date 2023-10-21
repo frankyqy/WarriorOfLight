@@ -157,7 +157,7 @@ new entry "Projectile_Repelling_Shot"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_MainHandAttack"
-data "Cooldown" "OncePerCombat"
+data "Cooldown" "OncePerTurn"
 data "UseCosts" ""
 
 
