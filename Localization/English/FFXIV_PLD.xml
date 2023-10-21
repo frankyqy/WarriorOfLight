@@ -3,27 +3,22 @@
 	<content contentuid="hfb0a7363ge6f8g45b6ga917gb0be7c16583c" version="1">Paladin</content>
 	<content contentuid="h760dee74g1898g4d9cg8ee1g8697281d807c" version="1">Known as paladins, these men and women marry exquisite swordplay with stalwart shieldwork to create a style of combat uncompromising in its defense. Clad in brilliant silver armor, they charge fearlessly into battle, ever ready to lay down their lives for their liege.</content>
 
-	<content contentuid="h4bbc72eagc8b6g4970gaf64g127c5fed7077" version="1">防护精通</content>
-	<content contentuid="h7b0a3d7dg219eg4513gbb65gfa98c7aac85e" version="1">根据等级降低受到的所有伤害。在回合开始时，若装备有盾牌，盾牌将获得投掷后返回手中的效果。</content>
+	<content contentuid="h4bbc72eagc8b6g4970gaf64g127c5fed7077" version="1">Tank Mastery</content>
+	<content contentuid="h7b0a3d7dg219eg4513gbb65gfa98c7aac85e" version="1">Reduces all damage taken [1]. At the start of the turn, if a shield is equipped, the shield gains the status of returning to your hand after being thrown.</content>
 
-	<content contentuid="h0ee23ab0ga261g43d3gac48g8374c6421442" version="1">钢铁信念</content>
-	<content contentuid="hc76493b4g8368g41c1gaddbg9cd3ba34dc3a" version="1">你的队友在对抗法术而进行豁免检定时有优势。法术以你的队友为目标而进行攻击掷骰时有劣势。</content>
+	<content contentuid="h0ee23ab0ga261g43d3gac48g8374c6421442" version="1">Iron Will</content>
+	<content contentuid="hc76493b4g8368g41c1gaddbg9cd3ba34dc3a" version="1">Attack rolls made with your teammate as the target have disadvantage.</content>
 
-	<content contentuid="h13f67779g37d1g4f4dg91b4g98fe3587b800" version="1">你的剑术已入门，可以在暴乱剑命中后，继续施展战女神之怒。</content>
+	<content contentuid="he6de00f0g56a8g4e58g8d2fg8e42dfa30324" version="1">Fast Blade</content>
+	<content contentuid="h00314a1fgd04cg488dg9ad4gabda41ac2c6c" version="1">Delivers an attack</content>
+	<content contentuid="h07614019gd1b4g4e73gb87fgc638ea6a1eef" version="1">Riot Blade</content>
+	<content contentuid="h47eab422gcde3g4aa6gab33g0ad73c64e7cc" version="1">Rage of Halone</content>
+	<content contentuid="h13f67779g37d1g4f4dg91b4g98fe3587b800" version="1">You can cast Rage of Halone after Riot Blade</content>
 
-	<content contentuid="h0083d1fcg79b3g42aeg8dadg98a67e9f22aa" version="1">深奥之灵</content>
-	<content contentuid="hca6f9a1agafbcg474fg8454gbcc4cfda67c8" version="1">绝佳的战斗天赋让你领悟了如何在战斗中从出其不意的角度发动一次进攻。</content>
-	<content contentuid="h2d4a62a5g6b59g461bg9448g6e539effa39e" version="1">对目标发动物理攻击。习得骑士精神后，在命中时获得额外的忠义量值</content>
+	<content contentuid="h763c0f15gc594g4e1cgba9ag1a4c5869e7da" version="1">Combo:Fast Blade</content>
+	<content contentuid="h6eade540gc2b2g443bga706gd704b47bf6ce" version="1">Combo:Riot Blade</content>
 
-	<content contentuid="he6de00f0g56a8g4e58g8d2fg8e42dfa30324" version="1">先锋剑</content>
-	<content contentuid="h00314a1fgd04cg488dg9ad4gabda41ac2c6c" version="1">对目标发动物理攻击</content>
-	<content contentuid="h07614019gd1b4g4e73gb87fgc638ea6a1eef" version="1">暴乱剑</content>
-	<content contentuid="h47eab422gcde3g4aa6gab33g0ad73c64e7cc" version="1">战女神之怒</content>
-	<content contentuid="h7fc47731gd692g4a4eg97b1g0da57289da13" version="1">对目标发动物理攻击</content>
-	<content contentuid="h763c0f15gc594g4e1cgba9ag1a4c5869e7da" version="1">先锋剑连击</content>
-	<content contentuid="h0925d6f2g971dg4e42gbc2ag89f10d7703ab" version="1">先锋剑连击准备</content>
-	<content contentuid="h6eade540gc2b2g443bga706gd704b47bf6ce" version="1">暴乱剑连击</content>
-	<content contentuid="h4f6e9730g10deg4e4agadd7gb356b14382ea" version="1">暴乱剑连击准备</content>
+	<content contentuid="h0083d1fcg79b3g42aeg8dadg98a67e9f22aa" version="1">Spirits Within</content>
 
 	<content contentuid="h675942f0gd138g42f6g940eg78b3e61a18e8" version="1">Total Eclipse</content>
 	<content contentuid="h91a1484eg7b6bg474aga294g63208a657376" version="1">Delivers an attack to all nearby enemies.</content>
@@ -33,7 +28,7 @@
 	<content contentuid="ha4c63d51gff9fg410egbb87g4705dd2af4c3" version="1">Combo:Total Eclipse</content>
 
 	<content contentuid="hf992e897g0b3bg40cbg8449gf9a167012023" version="1">Fight or Flight</content>
-	<content contentuid="h7b4c1ca8g7724g4f18gb86cg010a8e99a2f0" version="1">Increases damage</content>
+	<content contentuid="h7b4c1ca8g7724g4f18gb86cg010a8e99a2f0" version="1">Increases damage [1]</content>
 
 	<content contentuid="h81114ab7g07feg4013g8792ge664d3d34127" version="1">忠义精通</content>
 	<content contentuid="h61f366b3gdef9g414eg97c2gb2c84bb7c1fd" version="1">解锁忠义量谱。物理攻击命中时获得5点忠义量值。</content>
