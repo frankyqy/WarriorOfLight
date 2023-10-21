@@ -149,7 +149,7 @@ data "PrepareEffect" "2af907e1-127c-4c83-a117-af18f211c59d"
 data "CastEffect" "9c6f07ae-dd92-4e02-aa30-730644cd0d1d"
 data "TargetEffect" "154802bd-3dae-4bdc-9889-4addfdc0ca57"
 data "DamageType" "Thunder"
-
+data "UseCosts" "ActionPoint:1"
 
 
 new entry "Shout_Medica"
