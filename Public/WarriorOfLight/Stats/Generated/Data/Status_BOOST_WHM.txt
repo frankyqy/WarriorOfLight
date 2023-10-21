@@ -1,0 +1,22 @@
+new entry "BOOST_Aero"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h7cef7147g6640g4d32g9dabgc2a8dbd040a1;1"
+data "Description" "h9f9c28fage0b1g4d84gbc32g5c4d76732629;1"
+data "DescriptionParams" "DealDamage(1d6, Force)"
+data "Icon" "ICON_WHM_Aero_s"
+data "StackId" "BOOST_Aero"
+data "TickFunctors" "DealDamage(1d6, Force)"
+data "TickType" "StartTurn"
+
+
+new entry "BOOST_Presence_of_Mind"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h201d1af0g97beg49c1g8d65g54125b837f6d;1"
+data "Description" "h41e88946g0fc5g4d4fg8fedga5ce86530cc5;1"
+data "Icon" "ICON_WHM_Presence_of_Mind_s"
+data "StackId" "BOOST_Presence_of_Mind"
+data "Passives" "Presence_of_Mind"
+
+

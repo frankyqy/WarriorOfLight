@@ -1,8 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 
-	<content contentuid="h706bbfbeg7740g4f19g8d95g76b2ff683b0d" version="1">白魔法师</content>
-	<content contentuid="h71da5300g101dg4877g9567g1fcefd224ac8" version="1">踏上白魔法师之道的冒险者拥有无可比拟的医疗能力，能为队友医治各种极端的伤痛，甚至能从鬼门关上将队友拉回人世。</content>
+	<content contentuid="h706bbfbeg7740g4f19g8d95g76b2ff683b0d" version="1">White Mage</content>
+	<content contentuid="h71da5300g101dg4877g9567g1fcefd224ac8" version="1">Those who would walk the path of the white mage are healers without peer, possessed of the power to deliver comrades from the direst of afflictions—even the icy grip of death itself.</content>
+
+	<content contentuid="h2bf31093g1582g4ab8gba80g9100eb7237f4" version="1">Stone</content>
+	<content contentuid="h9b7abf6eg135dg4bc5gb462g7154f2a42767" version="1">Deals Bludgeoning damage。</content>
+
+	<content contentuid="ha9eab1c0g5113g4838ga1d3gda47026db087" version="1">Stone II</content>
+
+	<content contentuid="hc132311fg5be1g4b12ga4c1gb737a77c2497" version="1">Cure</content>
+	<content contentuid="h82f86fe9gb215g415egb0a3g8cc534550023" version="1">Restores target's HP.</content>
+	<content contentuid="h3c35b533g0f7cg45cdgb226gbf22bf98c8a9" version="1">Cure II</content>
+
+	<content contentuid="h7cef7147g6640g4d32g9dabgc2a8dbd040a1" version="1">Aero</content>
+	<content contentuid="hea9bf9e2g6591g4906g9316g158c8b3b4dab" version="1">Deals Thunder damage。</content>
+	<content contentuid="h9f9c28fage0b1g4d84gbc32g5c4d76732629" version="1">Takes [1] per turn.</content>
+
+	<content contentuid="hb3cdd831g2ac6g48a4ga72eg9051c3d0b0c5" version="1">Medica</content>
+	<content contentuid="h0876affdge400g4877gb3eega0aa37066ce4" version="1">Restores own HP and the HP of all nearby party members.</content>
+
+	<content contentuid="hf4d42912gbe70g4183g9099gdd0cd2265e17" version="1">Raise</content>
+	<content contentuid="h9421e9d9g5e26g4be1gabc2g8369def8bd43" version="1">Resurrects target to a weakened state.</content>
+
+	<content contentuid="h201d1af0g97beg49c1g8d65g54125b837f6d" version="1">Presence of Mind</content>
+	<content contentuid="h0b686ddeg4cebg44a8g92fbg96bd5c2b9b1d" version="1">Attach a status to yourself：Presence of Mind。Magic designates an additional target</content>
+	<content contentuid="h41e88946g0fc5g4d4fg8fedga5ce86530cc5" version="1">Magic designates an additional target</content>
 
 
 

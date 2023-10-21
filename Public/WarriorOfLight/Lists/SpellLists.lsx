@@ -109,6 +109,18 @@
                     <attribute id="Spells" type="LSString" value="Shout_the_Wanderer_Minuet"/>
                     <attribute id="UUID" type="guid" value="6005456a-2f5b-47dc-907b-e300f2d422fc"/>
                 </node>
+
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_15"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cure;Shout_Medica;Teleportation_Raise"/>
+                    <attribute id="UUID" type="guid" value="a8651971-5303-4470-9165-c9bd4878dff3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_30"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cure2;Shout_Presence_of_Mind"/>
+                    <attribute id="UUID" type="guid" value="7432143b-f489-48ba-9eb8-e893a2681d2e"/>
+                </node>
             </children>
         </node>
     </region>
