@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+
+	<content contentuid="h99aab114gbe73g4b7eg9385gc0c6d584d2b5" version="1">武僧</content>
+	<content contentuid="h39c60228g601bg4f6dg8efaga8a9ba621796" version="1">武僧们组成了拉尔戈星导教，他们将一生都奉献给了他们崇拜的破坏之神。通过掌握所谓脉轮这种身体内部力量的穴位，武僧能实现各种非凡的武技。</content>
+
+	<content contentuid="h5d399f36g776fg4cf0g940cgca978c6cab07" version="1">疾风迅雷</content>
+	<content contentuid="hbc466899g4c3eg407dga172ga7d4b66bcbec" version="1">魔猿身形时使用连击必定重击。获得一个额外的附加动作</content>
+	<content contentuid="h80d0d96eg75c8g47aag9c61gdbe0838e0d52" version="1">疾风迅雷效果提高</content>
+	<content contentuid="h38940831g9d79g41d2g8065g4a21023f7b76" version="1">徒手攻击伤害提升。获得一个额外的附加动作</content>
+	<content contentuid="h3fab29e2g6061g4c22g8f30g4e4c458e4baa" version="1">疾风迅雷效果提高II</content>
+	<content contentuid="hafa63c07gf7a7g484fga499g7cc2d222172f" version="1">徒手攻击伤害提升。获得一个额外的附加动作</content>
+	<content contentuid="hc50957c7g1dbag402fg8fd2gfff02c904aaf" version="1">疾风迅雷效果提高III</content>
+	<content contentuid="h50d41f04geae3g471ag81ecgffa7aec6b509" version="1">徒手攻击伤害提升。功力效果伤害提升。获得一个额外的附加动作</content>
+
+	<content contentuid="h7542cd48g4d88g430fg8c2agc7476d3c0678" version="1">连击</content>
+	<content contentuid="h5a2c19e9g167ag4660g8ed2g4f2201c88615" version="1">连击（无相）</content>
+	<content contentuid="hd4ae836fg8704g4522gb9f0g49f6fd023424" version="1">连击（震脚）</content>
+	<content contentuid="hdaa4ddb0ga45bg4376g92c8gecb9ccbc97c0" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：攻击必定暴击</content>
+
+	<content contentuid="h44d4923dgd58cg461fgb82ag11411b216d53" version="1">双龙脚</content>
+	<content contentuid="he0845128gd9e3g4babgb6d2g1a304776d5ed" version="1">双龙脚（无相）</content>
+	<content contentuid="h4c721fbegd33ag4e67ga727g03c1ee83c9d8" version="1">双龙脚（震脚）</content>
+	<content contentuid="h4ed72a7aga87cg4acegae39g9015fec26a84" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：连击效果提高</content>
+	<content contentuid="hc021f5c2g727eg4214g9981gcc15254f221d" version="1">连击效果提高</content>
+	<content contentuid="h86678660g98a2g4763g8a3ag4e2ee5e10bf5" version="1">连击造成一个额外的伤害</content>
+
+	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">破坏神冲</content>
+	<content contentuid="ha7ff6437g3554g4407g9cf4g2d361620b418" version="1">破坏神冲（无相）</content>
+	<content contentuid="h46155b6fgc0f7g4b80gb59dg08e85c755c0b" version="1">破坏神冲（震脚）</content>
+	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。</content>
+
+	<content contentuid="h4a9e6b8cgd6bfg40e9ga871g30d51d444347" version="1">破坏神脚</content>
+	<content contentuid="hb74b09a7g3ee6g41f6g83bagccb2b042af40" version="1">破坏神脚（无相）</content>
+	<content contentuid="h5e57cf31gedd4g42e4g8c6cgb34c8b91b0e1" version="1">破坏神脚（震脚）</content>
+	<content contentuid="hede7ede5g4f3dg40edgb86cgd64529ac0852" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：攻击必定暴击</content>
+
+	<content contentuid="h586493f5gb963g4908ga461g418d0015ce8b" version="1">正拳</content>
+	<content contentuid="hc6859eddgf1d6g47a8g854egd697084dae63" version="1">正拳（无相）</content>
+	<content contentuid="hd0764c46g4444g418dgb985g1a530984d82a" version="1">正拳（震脚）</content>
+	<content contentuid="hb11e2543ge0b6g467ag9208gd961f799e1cc" version="1">对目标发动物理攻击。追加效果：猛豹身形。</content>
+
+	<content contentuid="h09ba63d2gb91ag4ef5g860ega7e89bdf6f2a" version="1">双掌打</content>
+	<content contentuid="hf6a62703gf9dcg4f2egb9efgc1eb434bab6c" version="1">双掌打（无相）</content>
+	<content contentuid="h06212180g57a7g4ae1ga8a7g3b0ba758c285" version="1">双掌打（震脚）</content>
+	<content contentuid="ha559c4edg766ag42b2g9a17gb0cc6f7d2f89" version="1">对目标发动物理攻击。追加效果：猛豹身形、功力</content>
+
+	<content contentuid="hf91aac04ga721g4f15ga957g71eaf7435051" version="1">四面脚</content>
+	<content contentuid="h0b3c68efg1b74g46e5g86f5gf5e54549f698" version="1">四面脚（无相）</content>
+	<content contentuid="h8a26438dgf697g41e9g9a48g05d5288dae45" version="1">四面脚（震脚）</content>
+	<content contentuid="hbbbc8b50ga105g4256gbc43gc83209e2d302" version="1">对自身周围的敌人发动范围物理攻击。追加效果：猛豹身形、功力</content>
+
+	<content contentuid="h474dde0dg7d1cg42dfg838bg2f1707269507" version="1">功力</content>
+	<content contentuid="h4e896fd8g5000g441ag8eb4g98607bd1710e" version="1">物理伤害提高</content>
+
+	<content contentuid="h2bb8e013g9b5fg46b9g809egc3224a896776" version="1">崩拳</content>
+	<content contentuid="h66f51addga8e1g4645gb582gc98719a49614" version="1">崩拳（无相）</content>
+	<content contentuid="h987e4cbbg20f9g483ag9c07g2c1bf91b091f" version="1">崩拳（震脚）</content>
+	<content contentuid="hb2ed0728gd404g42f6g8f2dg1ef4034c7c3f" version="1">对目标发动物理攻击。追加效果：魔猿身形。</content>
+
+	<content contentuid="h135e4e65gc347g455fg8aabgcdb870acd0c2" version="1">破碎拳</content>
+	<content contentuid="hf2db587cgb5abg4168gbd08ge367dc3b7d02" version="1">破碎拳（无相）</content>
+	<content contentuid="hd2857454gd1dbg47cagb4d3g26540c586d8e" version="1">破碎拳（震脚）</content>
+	<content contentuid="hc94541e7g3179g4d45g8fd0gef61adbeea36" version="1">对目标发动物理攻击。追加效果：魔猿身形。持续伤害</content>
+	<content contentuid="h2ae0a42ag3dd6g4c06gb25bg0a994d641edd" version="1">持续伤害</content>
+
+	<content contentuid="h00c5ee7fge3aeg4565gb506g44c4c68ac015" version="1">地烈劲</content>
+	<content contentuid="hacc53536gf981g49a0g9150gf0e4539d6926" version="1">地烈劲（无相）</content>
+	<content contentuid="hbca44c9bg29bag4988gac17g9b82f41e4e7a" version="1">地烈劲（震脚）</content>
+	<content contentuid="h3e6ad906g96b6g42f0g93fdg1640621bab0e" version="1">对目标发动物理攻击。追加效果：魔猿身形。持续伤害</content>
+
+	<content contentuid="h0175b828ga6a2g44eag9490gfd8118a4cfe3" version="1">盗龙身形</content>
+	<content contentuid="h120ae7a5gb31cg432bg8d04gdb614ad0b868" version="1">猛豹身形</content>
+	<content contentuid="h9983a810g391ag4605gbc22g81e61c7a90ea" version="1">魔猿身形</content>
+	<content contentuid="h890708d0gd45cg49c9gb18cg47679d3967d0" version="1">连击必定重击</content>
+
+	<content contentuid="h446d6048g4bedg469ag9c90g906bd18b43a2" version="1">斗气</content>
+	<content contentuid="h3f0ce873gf4f8g4c9cg8fb3gf47cab080407" version="1">斗气，用于释放技能</content>
+	<content contentuid="h3c8876c9gaf23g415bg9001gf74eb467ae31" version="1">对自身附加斗气状态，最多可以积累5档。自身处于非战斗状态时直接获得5档斗气</content>
+
+	<content contentuid="h1e3dc936gd776g4a66ga301g093279386e6d" version="1">铁山靠</content>
+	<content contentuid="h94c19336gaac4g475cg9cb1gf1a25a8a383c" version="1">对目标发动物理攻击。消耗所有斗气</content>
+
+	<content contentuid="hc0183dceg0c56g497egb44ag3f77e0204b89" version="1">轻身步法</content>
+	<content contentuid="haf368d10g517ag4be8gad75gd47bef53dba2" version="1">指定一名敌人或队员为目标，自身快速移动到目标身边</content>
+
+	<content contentuid="h622bf0cdg7febg49eag8ae7g57f5e86181b8" version="1">空鸣拳</content>
+	<content contentuid="h6187a476g3e05g49fdg9e0egcd4b681972a8" version="1">向目标所在方向发出直线范围物理攻击</content>
+
+	<content contentuid="h5cb19cabg2feag4b45g87bfgb1fdba1b2579" version="1">斗气积累提高</content>
+	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">重击时大几率恢复一层斗气</content>
+	<content contentuid="h61a3262dg996ag4acegbbffg44872cdeec20" version="1">斗气积累提高II</content>
+	<content contentuid="hbd881fecg6d8fg482fg99edg16a2e3b9b972" version="1">重击时恢复一层斗气</content>
+
+	<content contentuid="h68e83b50g46cag4920gb766g0893c7d13b1a" version="1">真言</content>
+	<content contentuid="h05a2d979g78b6g40cfgbe0egb2aed20c8d6e" version="1">受到的治疗效果提高</content>
+	<content contentuid="h7c9ae720g0a16g42d5g9020g32788c584526" version="1">为自身和周围队员附加状态：真言，自身所受的治疗效果提高真言，受到的治疗效果提高</content>
+
+	<content contentuid="hf2cb3364g2b15g4c94g9a1agb733c9bd508c" version="1">震脚</content>
+	<content contentuid="hb9217cd3g10adg4215ga526g08febe7192a5" version="1">对自身附加3档的震脚状态,可以无视身形要求发动战技</content>
+	<content contentuid="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1">可以无视身形要求发动战技</content>
+
+	<content contentuid="h2821d2aagafc2g403bgb89dg0b7b862389f5" version="1">震脚效果提高</content>
+	<content contentuid="hd47c5c51gf45bg4dccg9840g70db8b38d188" version="1">自身发动魔猿身形、盗龙身形、猛豹身形的战技时，获得对应的脉轮</content>
+
+
+	<content contentuid="h52909bd3gbbc7g4532ga1dag4060c69190c0" version="1">铁山靠精通</content>
+	<content contentuid="hdf85934cg29dag488bgaa22g9e76ceda91b5" version="1">铁山靠变为阴阳斗气斩</content>
+
+	<content contentuid="hbea82345g4107g4a40g8bbag20c8dcfe6ac2" version="1">阴阳斗气斩</content>
+	<content contentuid="hd85988a8gc36dg4083ga9a8g9e65739b0652" version="1">对目标发动物理攻击</content>
+
+	<content contentuid="h7a66d4c8g0828g4449g89f1g969ca095dcb3" version="1">演武</content>
+	<content contentuid="h699eb56bg0b48g4feeg9834ge25875100061" version="1">为自身附加可以无视身形要求发动战技，同时触发追加效果的无相身形。</content>
+    <content contentuid="h3f19d96fg7502g4435g90f4ge409c0b4042c" version="1">无相身形</content>
+	<content contentuid="h2291e7cdg2d68g4676g85efgb80443c5912e" version="1">可以无视身形要求发动战技，同时触发追加效果</content>
+
+	<content contentuid="hfa813a78gb323g4c7fgb6d6ga0faad934893" version="1">苍气炮</content>
+	<content contentuid="h343d2ed6gc8aeg4920g8139g29a3ceaf46a5" version="1">对自身周围的敌人发动范围物理攻击</content>
+
+
+	<content contentuid="h7b665740g380ag4846ga9e8g998a180dbd53" version="1">爆裂脚</content>
+	<content contentuid="h82075918g181dg44d8g9cccg9a7a1fad27c3" version="1">对自身周围的敌人发动范围物理攻击</content>
+
+	<content contentuid="h3073fe95g52a9g4e94g8913g7c488e06fd18" version="1">翻天脚</content>
+	<content contentuid="h91b0d1e8g4708g4f7bg8fc4gcf032b62477d" version="1">对目标发动物理攻击</content>
+
+	<content contentuid="h59eaa3cbg4472g4391g912eg76d8c1f9ab89" version="1">斗魂旋风脚</content>
+	<content contentuid="h1458f11bg848fg416bga7e1ga1fb884e6f57" version="1">对目标及其周围敌人发动范围物理攻击</content>
+	<content contentuid="h93ccb6d9g7ad1g45c7ga91cga6a3e9c7f34a" version="1">太阴斗气</content>
+	<content contentuid="h8a1cad75g10a7g46cfg846eg36cb32e71fc1" version="1">太阳斗气</content>
+
+	<content contentuid="h66b12e77g3b30g42afg996cg7dbd5ba550e3" version="1">脉轮</content>
+	<content contentuid="hf07884c9g30abg4321gb6f2gf6028043f01b" version="1">盗龙脉轮</content>
+	<content contentuid="h254c953fg3a3ag41b2g9cb0g4c911bf0abbe" version="1">猛豹脉轮</content>
+	<content contentuid="hf5fe831ag115dg4dd8g80deg9a06b477dc9a" version="1">魔猿脉轮</content>
+
+	<content contentuid="hcab7f3a9gb205g4a7ag8246g5ea07276a618" version="1">龙豹脉轮</content>
+	<content contentuid="he6d5719ag3c10g4af0ga107ge152b2a49e46" version="1">豹猿脉轮</content>
+	<content contentuid="h1d8ac327ga3f8g4922g9e29g0dc2d7d91903" version="1">猿龙脉轮</content>
+
+	<content contentuid="hf91f3793g62f1g4708gbfafg7f3bd5737dbd" version="1">双龙脉轮</content>
+	<content contentuid="h44247faega7bag4e8bg89cfgd193c438e3a8" version="1">双豹脉轮</content>
+	<content contentuid="h6885b125gcc8fg46c9ga187g0daa71ceb89b" version="1">双猿脉轮</content>
+
+	<content contentuid="h8982239eg15beg474ega31egf740aa3f66e6" version="1">太阴脉轮</content>
+	<content contentuid="h795a8385g84d8g427bgbf58geddff0b36a30" version="1">阴阳脉轮</content>
+	<content contentuid="hcf08da3bg1b62g4a70g9f8dga17587870bce" version="1">太阳脉轮</content>
+
+	<content contentuid="hdff40e44g574bg4b9cgbe5fg255b8868649a" version="1">金刚极意</content>
+	<content contentuid="ha6ac16bcga97fg4ea3ga2f0g2357e07087ef" version="1">为自身附加状态：金刚极意。所受的伤害减轻。受到伤害后每回合恢复一定HP</content>
+	<content contentuid="h3dfb2157g1d58g4291g896fgc1d04df94063" version="1">自身所受的伤害减轻</content>
+	<content contentuid="hd1af6430g313bg428dga477g10d486813ede" version="1">金刚决意</content>
+	<content contentuid="h6119f11dg31cfg4f3cga240g50e9f6dd1977" version="1">每回合恢复一定HP</content>
+
+	<content contentuid="h4af08242g2d6dg440ega7a1g2dc6289a11de" version="1">红莲极意</content>
+	<content contentuid="h3e990477g78d6g4543g990cg1af0d65a5106" version="1">为自身附加状态：红莲极意。攻击所造成的伤害提高</content>
+	<content contentuid="hb163b5bdg12b7g4d88gb229gace07e90dfd6" version="1">攻击所造成的伤害提高</content>
+
+	<content contentuid="h1664b0d0g5f1fg49c3g86b6g071504a18da7" version="1">义结金兰</content>
+	<content contentuid="h2b45447dgeddeg4535gbc0egc242d03fb264" version="1">为自身与周围队员附加义结金兰：攻击和义结金兰：斗气状态</content>
+	<content contentuid="haa7a2ba1g950dg4919g87abg8880fd727f45" version="1">义结金兰：攻击</content>
+	<content contentuid="he33a509dg00ffg4a08g933egc6683323dee7" version="1">攻击造成的伤害提高</content>
+	<content contentuid="h4522d5a5g143cg47c4gbf23ga37f0c783dc4" version="1">义结金兰：斗气</content>
+	<content contentuid="h42446924g6e67g48f2g938age1a0ee436762" version="1">攻击时，有一定几率为武僧附加一层斗气</content>
+
+	<content contentuid="hb3900393ga777g46faga3efgbeacab7630d5" version="1">疾风极意</content>
+	<content contentuid="h8d63ee44g59fdg4d71ga6f7g77e3249112a7" version="1">为自身附加状态：疾风极意。获得一个动作</content>
+	<content contentuid="heff970dbg7eb4g483ag9d1cgae002a4d04a6" version="1">获得一个动作</content>
+
+	<content contentuid="h3b15ed95g8389g4dc6gbcdeg8a2267e4488f" version="1">空鸣拳精通</content>
+	<content contentuid="h1995757cg3aa3g48b4g905ag144025e44f7c" version="1">空鸣拳变为万象斗气圈</content>
+
+	<content contentuid="h91746c26gc136g4bd1g8b37g3c4867c544ab" version="1">万象斗气圈</content>
+	<content contentuid="h01eae69fgec34g47a2ga585g84750141d060" version="1">向目标发动直线范围物理攻击。</content>
+
+	<content contentuid="heb8aa700g5207g475eg8ba1g645976fd8aa3" version="1">无我</content>
+	<content contentuid="hc5aa2c7dg94acg43e2g92abg64513793af1b" version="1">获得无相身形，以及五层斗气。</content>
+
+
+	<content contentuid="he70c4102g9482g4ae4gb6ebg81fcfe89b22c" version="1">六合星导脚</content>
+	<content contentuid="hda5273a0gf811g46f8g9983g0a7dbeccfff8" version="1">对目标发动物理攻击。为自身附加提高自身的移动速度的状态</content>
+	<content contentuid="hb0f1928dg0358g40f5g911cgb8dbfcc08d24" version="1">提高自身的移动速度</content>
+
+	<content contentuid="h5d211578gf7f5g4ed2gb103g30b17a9d0392" version="1">破坏神冲精通</content>
+	<content contentuid="h0ff76f15gc986g41ddgab49g80030ab8143c" version="1">破坏神冲变为破坏神脚</content>
+
+	<content contentuid="h1aa96eecg9b37g4254g851bg25a427fac456" version="1">轻身步法效果提高</content>
+	<content contentuid="h59ea0af4g147bg453ag8318g7bb28ecbe515" version="1">每场战斗可以使用三次轻身步法</content>
+
+	<content contentuid="h9daaf830g7042g44abg9adag30db0e0191bf" version="1">爆裂脚精通</content>
+	<content contentuid="h5379f7d6g5a02g431ag8b6cg6dc985589178" version="1">爆裂脚变为凤凰舞</content>
+
+	<content contentuid="hc4e24c86g9db4g4e1cga663g5659c7dfe682" version="1">凤凰舞</content>
+	<content contentuid="h63c04edeg3968g4a21g894age6f3e076bc7b" version="1">对自身周围的敌人发动火属性范围物理攻击</content>
+
+	<content contentuid="ha0f44ae3gf623g4e93ga098g049bfc07a43f" version="1">义结金兰效果提高</content>
+	<content contentuid="h2b81cdcagaa87g4784g8127ga392a04bf60e" version="1">对自身附加义结金兰：斗气状态时必定对自身附加斗气</content>
+
+	<content contentuid="h9b744ab4g4983g4cdegae4bge01e89818943" version="1">斗魂旋风脚精通</content>
+	<content contentuid="he6b91197g8d79g4c47gb3cbg19e3334b5896" version="1">斗魂旋风脚变为梦幻斗舞</content>
+
+	<content contentuid="h5328ccf1g7bb4g4e38g80ecg0a03075a0585" version="1">梦幻斗舞</content>
+	<content contentuid="hbf3f38e9g231fg4343g8384g20c5b65fd99e" version="1">对目标及其周围敌人发动范围物理攻击</content>
+
+</contentList>

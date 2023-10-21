@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d4"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level6" type="LSString" value="1d8"/>
+                    <attribute id="Level7" type="LSString" value="1d10"/>
+                    <attribute id="Level8" type="LSString" value="1d10"/>
+                    <attribute id="Level9" type="LSString" value="1d12"/>
+                    <attribute id="Level10" type="LSString" value="1d12"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_Bonus"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="7cb56367-7e05-481c-aa0d-669329584b89"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="2d4"/>
+                    <attribute id="Level1" type="LSString" value="2d4"/>
+                    <attribute id="Level2" type="LSString" value="2d4"/>
+                    <attribute id="Level3" type="LSString" value="2d6"/>
+                    <attribute id="Level4" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level7" type="LSString" value="2d10"/>
+                    <attribute id="Level8" type="LSString" value="2d10"/>
+                    <attribute id="Level9" type="LSString" value="2d12"/>
+                    <attribute id="Level10" type="LSString" value="2d12"/>
+                    <attribute id="Level11" type="LSString" value="3d10"/>
+                    <attribute id="Level12" type="LSString" value="3d10"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_Target"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="4e8ffb78-efaa-423a-b51c-cdcfd69c8f1d"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="3d4"/>
+                    <attribute id="Level1" type="LSString" value="3d4"/>
+                    <attribute id="Level2" type="LSString" value="3d4"/>
+                    <attribute id="Level3" type="LSString" value="3d6"/>
+                    <attribute id="Level4" type="LSString" value="3d6"/>
+                    <attribute id="Level5" type="LSString" value="3d8"/>
+                    <attribute id="Level6" type="LSString" value="3d8"/>
+                    <attribute id="Level7" type="LSString" value="3d10"/>
+                    <attribute id="Level8" type="LSString" value="3d10"/>
+                    <attribute id="Level9" type="LSString" value="3d12"/>
+                    <attribute id="Level10" type="LSString" value="3d12"/>
+                    <attribute id="Level11" type="LSString" value="4d10"/>
+                    <attribute id="Level12" type="LSString" value="4d10"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_Target2"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="e61baf3e-1b71-4999-b26c-3c554a75c41d"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="4d4"/>
+                    <attribute id="Level1" type="LSString" value="4d4"/>
+                    <attribute id="Level2" type="LSString" value="4d4"/>
+                    <attribute id="Level3" type="LSString" value="4d6"/>
+                    <attribute id="Level4" type="LSString" value="4d6"/>
+                    <attribute id="Level5" type="LSString" value="4d8"/>
+                    <attribute id="Level6" type="LSString" value="4d8"/>
+                    <attribute id="Level7" type="LSString" value="4d10"/>
+                    <attribute id="Level8" type="LSString" value="4d10"/>
+                    <attribute id="Level9" type="LSString" value="4d12"/>
+                    <attribute id="Level10" type="LSString" value="4d12"/>
+                    <attribute id="Level11" type="LSString" value="5d10"/>
+                    <attribute id="Level12" type="LSString" value="5d10"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_Target3"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="4f1a2731-85dd-41f9-bb55-959ca5baf798"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d4"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level6" type="LSString" value="1d8"/>
+                    <attribute id="Level7" type="LSString" value="1d10"/>
+                    <attribute id="Level8" type="LSString" value="1d10"/>
+                    <attribute id="Level9" type="LSString" value="1d12"/>
+                    <attribute id="Level10" type="LSString" value="1d12"/>
+                    <attribute id="Level11" type="LSString" value="2d10"/>
+                    <attribute id="Level12" type="LSString" value="2d10"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_AOE"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="df4e56b1-f768-4c63-9dac-696495388fb6"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="2d4"/>
+                    <attribute id="Level1" type="LSString" value="2d4"/>
+                    <attribute id="Level2" type="LSString" value="2d4"/>
+                    <attribute id="Level3" type="LSString" value="2d6"/>
+                    <attribute id="Level4" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level7" type="LSString" value="2d10"/>
+                    <attribute id="Level8" type="LSString" value="2d10"/>
+                    <attribute id="Level9" type="LSString" value="2d12"/>
+                    <attribute id="Level10" type="LSString" value="2d12"/>
+                    <attribute id="Level11" type="LSString" value="3d10"/>
+                    <attribute id="Level12" type="LSString" value="3d10"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_AOE"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="79a16f94-5414-4cd2-b0c0-13befb26f00d"/>
+                    <attribute id="UUID" type="guid" value="6ee23e55-1041-446b-a845-c1bf89feb58c"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>

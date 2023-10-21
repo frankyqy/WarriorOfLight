@@ -4,7 +4,7 @@
     <region id="ClassDescriptions">
         <node id="root">
             <children>
-                <node id="ClassDescription"> Main Class
+                <node id="ClassDescription"> PLD
                     <attribute id="BaseHp" type="int32" value="13"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_PLD"/>
@@ -26,7 +26,7 @@
                         </node>
                     </children>
                 </node>
-                <node id="ClassDescription"> Main Class
+                <node id="ClassDescription"> MNK
                     <attribute id="BaseHp" type="int32" value="11"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_MNK"/>
@@ -48,7 +48,7 @@
                         </node>
                     </children>
                 </node>
-                <node id="ClassDescription"> Main Class
+                <node id="ClassDescription"> BRD
                     <attribute id="BaseHp" type="int32" value="9"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_BRD"/>
@@ -70,7 +70,7 @@
                         </node>
                     </children>
                 </node>
-                <node id="ClassDescription"> Main Class
+                <node id="ClassDescription"> WHM
                     <attribute id="BaseHp" type="int32" value="8"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_WHM"/>

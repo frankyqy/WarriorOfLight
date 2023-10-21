@@ -32,7 +32,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(Oath_Gauge,100,0)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Oath_Mastery;Sheltron"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Oath_Mastery;Sheltron;Prominence"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(1c5c9d95-e057-4385-b089-72e978a1253c,2,1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
