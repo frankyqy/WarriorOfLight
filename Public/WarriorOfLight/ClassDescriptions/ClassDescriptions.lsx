@@ -70,6 +70,28 @@
                         </node>
                     </children>
                 </node>
+                <node id="ClassDescription"> Main Class
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_WHM"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h706bbfbeg7740g4f19g8d95g76b2ff683b0d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h71da5300g101dg4877g9567g1fcefd224ac8" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="4"/> Half Hit Die + 1
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_WHM"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="f3c7c395-2030-4e81-8a6b-d169ad17a09e"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22"/>
+                        </node>
+                    </children>
+                </node>
             </children>
         </node>
     </region>

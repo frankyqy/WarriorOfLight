@@ -6,8 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_10"/>
-                    <attribute id="Spells" type="LSString"
-                               value="Target_Fast_Blade;Shout_Fight_Or_Flight;Target_Shield_Bash;Shout_Total_Eclipse"/>
+                    <attribute id="Spells" type="LSString" value="Target_Fast_Blade;Shout_Fight_Or_Flight;Target_Shield_Bash;Shout_Total_Eclipse"/>
                     <attribute id="UUID" type="guid" value="83399970-e9da-43df-a5cf-401b835d0076"/>
                 </node>
                 <node id="SpellList">
@@ -104,6 +103,11 @@
                     <attribute id="Comment" type="LSString" value="BRD_Lv_50"/>
                     <attribute id="Spells" type="LSString" value="Projectile_Rain_of_Death;Shout_Battle_Voice"/>
                     <attribute id="UUID" type="guid" value="801f4bc3-5a59-40a0-8c25-dc3db537cb33"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_55"/>
+                    <attribute id="Spells" type="LSString" value="Shout_the_Wanderer_Minuet"/>
+                    <attribute id="UUID" type="guid" value="6005456a-2f5b-47dc-907b-e300f2d422fc"/>
                 </node>
             </children>
         </node>

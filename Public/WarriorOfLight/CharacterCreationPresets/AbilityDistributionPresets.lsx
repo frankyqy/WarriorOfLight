@@ -37,6 +37,18 @@
                     <attribute id="UUID" type="guid" value="bd9ac58f-c140-443f-97b1-cd8f919dc09d"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
                 </node>
 
+
+                <node id="AbilityDistributionPreset">
+                    <attribute id="ClassUUID" type="guid" value="f3c7c395-2030-4e81-8a6b-d169ad17a09e"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Dexterity" type="int32" value="14"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="15"/>
+                    <attribute id="Charisma" type="int32" value="10"/>
+                    <attribute id="UUID" type="guid" value="310035a6-4c99-4be5-b365-393fc6c336fb"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+
             </children>
         </node>
     </region>
