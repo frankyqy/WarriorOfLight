@@ -75,8 +75,8 @@
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_FFXIV_WHM"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="Description" type="TranslatedString" handle="h706bbfbeg7740g4f19g8d95g76b2ff683b0d" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h71da5300g101dg4877g9567g1fcefd224ac8" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h71da5300g101dg4877g9567g1fcefd224ac8" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h706bbfbeg7740g4f19g8d95g76b2ff683b0d" version="1"/>
                     <attribute id="HpPerLevel" type="int32" value="4"/> Half Hit Die + 1
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
