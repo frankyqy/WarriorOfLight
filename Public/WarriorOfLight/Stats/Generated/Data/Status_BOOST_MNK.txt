@@ -65,6 +65,7 @@ data "Icon" "ICON_MNK_Thunderclap"
 data "StackId" "BOOST_Rush_Thunderclap"
 data "Boosts" "UnlockSpell(Rush_Thunderclap_2)"
 data "StatusGroups" "SG_RemoveOnRespec"
+data "RemoveEvents" "OnCombatEnded"
 
 new entry "BOOST_Rush_Thunderclap_2"
 type "StatusData"
