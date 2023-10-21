@@ -50,10 +50,10 @@ type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "h135e4e65gc347g455fg8aabgcdb870acd0c2;1"
 data "Description" "h2ae0a42ag3dd6g4c06gb25bg0a994d641edd;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(FFXIV_MNK_Bonus)+max(DexterityModifier,StrengthModifier), Force)"
 data "Icon" "ICON_MNK_Demolish_s"
 data "StackId" "BOOST_Demolish"
-data "TooltipDamageList" "DealDamage(1d10+10, Force)"
-data "TickFunctors" "DealDamage(1d10+10, Force)"
+data "TickFunctors" "DealDamage(LevelMapValue(FFXIV_MNK_Bonus)+max(DexterityModifier,StrengthModifier), Force)"
 data "TickType" "StartTurn"
 
 

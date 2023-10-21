@@ -2,10 +2,10 @@
 <contentList>
 
 	<content contentuid="h15fa5766g3f5cg4790gbd4bg3f25fbf2aae9" version="1">吟游诗人</content>
-	<content contentuid="h9d3606f1g99b6g4effg9da0g15a7e06877a3" version="1">说起“吟游诗人”人们便联想到有着动听嗓音，用灵巧手指拨动琴弦的巡回艺人，认为他们依靠在小酒馆和宴会中的表演养活自己。但只有极少数人知道，吟游诗人实际上可以一直追溯到古时的弓箭手，那时弓箭手会在战斗最激烈时唱起战歌鼓舞战友激发斗志。吟游诗人的热切歌声对人心有极大影响，能鼓舞他们的战友奋勇向前，也能抚慰人心，让垂死之人安然离世。</content>
+	<content contentuid="h9d3606f1g99b6g4effg9da0g15a7e06877a3" version="1">说起“吟游诗人”人们便联想到有着动听嗓音，用灵巧手指拨动琴弦的巡回艺人，认为他们依靠在小酒馆和宴会中的表演养活自己。但只有极少数人知道，吟游诗人实际上可以一直追溯到古时的弓箭手，那时弓箭手会在战斗最激烈时唱起战歌鼓舞战友激发斗志。</content>
 
 	<content contentuid="h4e247f44g442fg4be1ga9cdgac2ab45cc8d6" version="1">强力射击</content>
-	<content contentuid="h6ca83f94gcd3bg4123g95a9g91dcbe80a354" version="1">对目标发动物理攻击。一定几率为自身附加状态：直线射击预备，可以发动直线射击</content>
+	<content contentuid="h6ca83f94gcd3bg4123g95a9g91dcbe80a354" version="1">对目标发动物理攻击。20%为自身附加状态：直线射击预备。</content>
 
 	<content contentuid="haac9a27dg136cg4ffdg9eb7g35edf6b382ce" version="1">直线射击</content>
 	<content contentuid="h82c6227dg13ceg42bega5b6gdd911600a65c" version="1">对目标发动物理攻击。</content>
@@ -17,20 +17,19 @@
 	<content contentuid="h250cdac3g45a5g4db5ga7e4gb9c9291cf7e0" version="1">可以发动直线射击。</content>
 
 	<content contentuid="h35ddc263g498bg452bg84e9g241f3b2a30f0" version="1">猛者强击</content>
-	<content contentuid="h3105a988gc66bg4fccga241g954732911441" version="1">为自身附加状态：猛者强击，攻击造成的伤害提高</content>
-	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">攻击造成的伤害提高。</content>
+	<content contentuid="h3105a988gc66bg4fccga241g954732911441" version="1">攻击造成的伤害提高</content>
 
 	<content contentuid="ha86273d1g4b18g42c9gaf05gda049116d543" version="1">毒咬箭</content>
 	<content contentuid="h2097e75bge2c7g4a97g9416g1fa7eac3f273" version="1">对目标发动物理攻击。附加毒素属性持续伤害</content>
-	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">毒素属性持续伤害。</content>
+
+	<content contentuid="h4ddec3dega6bdg44c5ga385g32b0d534f6c0" version="1">毒咬箭</content>
+	<content contentuid="h8eef7b01g47c3g4b00g9ccag56d5dbf3e619" version="1">每回合受到[1]伤害</content>
 
 	<content contentuid="h89cca5aagf32dg43c8g9b9eg69d45a59702d" version="1">风蚀箭</content>
 	<content contentuid="hbe5dd4aag8fb5g4cd4g8eafgf9bde0a40f90" version="1">对目标发动物理攻击。附加强酸属性持续伤害</content>
-	<content contentuid="h297ca70ag59bfg4eefgbe6fge93e1de17285" version="1">强酸属性持续伤害。</content>
+	<content contentuid="h297ca70ag59bfg4eefgbe6fge93e1de17285" version="1">风蚀箭</content>
 
 	<content contentuid="h3d097203g4969g48dega5a9g385b461fd293" version="1">失血箭</content>
-	<content contentuid="h79c2cb50g5c03g4dceg9fc1gba49f90db195" version="1">对目标发动物理攻击。</content>
-	<content contentuid="h677f9df2g6e3ag496cgb800g1fc8d3ffef38" version="1">用来释放失血箭和死亡箭雨</content>
 
 	<content contentuid="h131d2e85g2aa0g4092g9c8bg103e72b87b3a" version="1">后跃射击</content>
 	<content contentuid="h125b0d5ag2f44g4670g87a9g765084e57eeb" version="1">安全撤退，你可以发动一次免费的远程攻击。</content>
@@ -45,7 +44,9 @@
 	<content contentuid="h3c0eb399g4462g48cfg9f61gb863d21fa7e1" version="1">4</content>
 
 	<content contentuid="hea149bcbg0a7ag4cb1ga563gda844e240b37" version="1">贤者的叙事谣</content>
-	<content contentuid="h161e5ca6g92adg40c0gad5dgdd4736d0f1ce" version="1">弹唱贤者的叙事谣，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，恢复失血箭层数。</content>
+	<content contentuid="h161e5ca6g92adg40c0gad5dgdd4736d0f1ce" version="1">弹唱贤者的叙事谣，令周围50米内的队员攻击伤害提高。80%几率附加诗心效果，恢复失血箭层数。</content>
+	<content contentuid="h7925f4degf4dfg466fga5fbg739ba39153d8" version="1">攻击伤害提高</content>
+
 	<content contentuid="h2ac2b118g3d73g450ag97eag3f6955f98175" version="1">军神的赞美歌</content>
 	<content contentuid="hc97d0b65gff5cg489ag93a5gbe615b8c2f98" version="1">弹唱军神的赞美歌，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
 	<content contentuid="h3b102d88g9791g436cg9282gbfee4bc8cfef" version="1">放浪神的小步舞曲</content>
