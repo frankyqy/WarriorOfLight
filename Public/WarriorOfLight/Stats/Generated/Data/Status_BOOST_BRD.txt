@@ -72,7 +72,7 @@ data "AuraRadius" "50"
 data "Passives" "Mage_Ballad"
 data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_Mage_Ballad)"
 data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"
-data "Boosts" "UnlockSpell(Shout_Battle_Voice)"
+data "Boosts" "IF(ClassLevelHigherOrEqualThan(4,'FFXIV_BRD')):UnlockSpell(Shout_Battle_Voice)"
 data "RemoveEvents" "OnCombatEnded"
 
 new entry "BOOST_Army_Paeon_AURA"

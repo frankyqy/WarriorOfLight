@@ -62,12 +62,12 @@
 	<content contentuid="h73e500e1g35abg4da6gaa7fgb1f6da6ef57e" version="1">Triples the number of strikes for a single-target weaponskill. Additional effects added only once.</content>
 	<content contentuid="h4c21c426gf3afg4b2fg9fa9g7ffa829d4590" version="1">Triples the number of strikes for a single-target weaponskill.</content>
 
-	<content contentuid="h409a98a1g03c7g4ca8ga770gccb573868084" version="1">死亡箭雨</content>
-	<content contentuid="h3e2e1f6bg0812g40d2gb6a3g4d891a9dbddc" version="1">对目标及其周围的敌人发动范围物理攻击</content>
+	<content contentuid="h409a98a1g03c7g4ca8ga770gccb573868084" version="1">Rain of Death</content>
+	<content contentuid="h3e2e1f6bg0812g40d2gb6a3g4d891a9dbddc" version="1">Delivers an attack to target and all enemies nearby it.</content>
 
-	<content contentuid="h4de22e61g2b9cg4571gb4eagddff0844a25a" version="1">战斗之声</content>
-	<content contentuid="h778800cdg5a5dg4c60gae0fgb04db4136b72" version="1">为自身和周围队员附加战斗之声，触发重击所需的点数-1</content>
-	<content contentuid="h73cdf7a3ge21fg4ce9g9320gc74162f04d90" version="1">触发重击所需的点数-1</content>
+	<content contentuid="h4de22e61g2b9cg4571gb4eagddff0844a25a" version="1">Battle Voice</content>
+	<content contentuid="h778800cdg5a5dg4c60gae0fgb04db4136b72" version="1">The number your party need to roll a Critical Hit while attacking is reduced by 1. This effect can stack.</content>
+	<content contentuid="h73cdf7a3ge21fg4ce9g9320gc74162f04d90" version="1">The number you need to roll a Critical Hit while attacking is reduced by 1.</content>
 
 	<content contentuid="h65493ebbg4a7eg4874g8a16ga52076b1999c" version="1">完美音调</content>
 	<content contentuid="h2b641502g27a9g4522gb495ge6266dfcabdc" version="1">对目标发动物理攻击。</content>
