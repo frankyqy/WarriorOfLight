@@ -434,9 +434,12 @@
                 <node id="Progression"> FFXIV_WHM LV4
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Aero"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Holy;Aero_Mastery"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(133c850d-3c36-4549-a7bd-e3917a446e52,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="98fa1c67-ab6a-4b22-8102-1bc61a3e0bf1"/>
                 </node>

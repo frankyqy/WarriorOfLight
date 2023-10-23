@@ -126,6 +126,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Regen;Target_Cure3"/>
                     <attribute id="UUID" type="guid" value="a87710ee-a481-4e52-9959-6e2a8b86d69e"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_50"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Medica2;Target_Benediction"/>
+                    <attribute id="UUID" type="guid" value="133c850d-3c36-4549-a7bd-e3917a446e52"/>
+                </node>
             </children>
         </node>
     </region>

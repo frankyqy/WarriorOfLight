@@ -14,10 +14,12 @@
 	<content contentuid="h3c35b533g0f7cg45cdgb226gbf22bf98c8a9" version="1">Cure II</content>
 
 	<content contentuid="h7cef7147g6640g4d32g9dabgc2a8dbd040a1" version="1">Aero</content>
+	<content contentuid="ha79bb557gd9f6g456dg87f3gc356a73a550b" version="1">Aero II</content>
 	<content contentuid="hea9bf9e2g6591g4906g9316g158c8b3b4dab" version="1">Deals Thunder damage。</content>
 	<content contentuid="h9f9c28fage0b1g4d84gbc32g5c4d76732629" version="1">Takes [1] per turn.</content>
 
 	<content contentuid="hb3cdd831g2ac6g48a4ga72eg9051c3d0b0c5" version="1">Medica</content>
+	<content contentuid="hcc0ccdd6gc3dcg4f62g8432g3515133ff23c" version="1">Medica II</content>
 	<content contentuid="h0876affdge400g4877gb3eega0aa37066ce4" version="1">Restores own HP and the HP of all nearby party members.</content>
 
 	<content contentuid="hf4d42912gbe70g4183g9099gdd0cd2265e17" version="1">Raise</content>
@@ -36,6 +38,12 @@
 	<content contentuid="hf18e67ecg0fabg481cg9eecgc5f795b529bf" version="1">Freecure</content>
 	<content contentuid="he39bd79bg5404g486ag99c5g689a48b5c530" version="1">Grants a 15% chance that after casting Cure,you cast a Cure II for free.</content>
 	<content contentuid="hbed67786g65ecg436dga5a0gea33686af98c" version="1">Cast a Cure II for free.</content>
+
+	<content contentuid="hf4917b0fg40dag4f7bg839agb563f4ed7b1d" version="1">Holy</content>
+	<content contentuid="h23a7e70fg77adg4be2g83dbge4e4ee0ff5c7" version="1">Deals Radiant damage to all nearby enemies.</content>
+
+	<content contentuid="h124cf2a9gcec1g432fg89fag0c96792bc6db" version="1">Benediction</content>
+	<content contentuid="h4d1e1039g459cg4d11g81ecg44f39d8b5f0f" version="1">Restores all of a target's HP.</content>
 
 
 
