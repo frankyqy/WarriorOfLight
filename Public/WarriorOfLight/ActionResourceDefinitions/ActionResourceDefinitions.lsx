@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h939c72edg693cg4323gb6ebg2748c39cf4e8" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf5df7fe1gbd96g4199g89c1g6a064ad63a49" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf5df7fe1gbd96g4199g89c1g6a064ad63a49" version="1"/>
                     <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_0_Error"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/>

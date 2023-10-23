@@ -30,15 +30,11 @@
 	<content contentuid="hf992e897g0b3bg40cbg8449gf9a167012023" version="1">Fight or Flight</content>
 	<content contentuid="h7b4c1ca8g7724g4f18gb86cg010a8e99a2f0" version="1">Increases damage [1]</content>
 
-	<content contentuid="h81114ab7g07feg4013g8792ge664d3d34127" version="1">忠义精通</content>
-	<content contentuid="h61f366b3gdef9g414eg97c2gb2c84bb7c1fd" version="1">解锁忠义量谱。物理攻击命中时获得5点忠义量值。</content>
-	<content contentuid="hf5df7fe1gbd96g4199g89c1g6a064ad63a49" version="1">忠义量谱</content>
-	<content contentuid="h939c72edg693cg4323gb6ebg2748c39cf4e8" version="1">物理攻击命中时会积累忠义量值，消耗忠义量值可以发动盾阵、保护和干预技能。</content>
+	<content contentuid="h81114ab7g07feg4013g8792ge664d3d34127" version="1">Oath Mastery</content>
+	<content contentuid="h61f366b3gdef9g414eg97c2gb2c84bb7c1fd" version="1">Increases Oath Gauge by 10 each time a MeleeAttack.</content>
+	<content contentuid="hf5df7fe1gbd96g4199g89c1g6a064ad63a49" version="1">Oath Gauge</content>
 
 	<content contentuid="h2d751a20gb71fg4df6g8439g473a26c5fdd3" version="1">Shield Bash</content>
-
-	<content contentuid="h7fba278eg31d7g4e37g8759gcb607412e63e" version="1">忠义之盾</content>
-	<content contentuid="hf30cff65gcca7g4d9egaab3gb1ccc06d7cad" version="1">副手的盾牌投掷后返回到持有者手上。</content>
 
 	<content contentuid="hd53c8069gbac1g4207g86b4gd50dcfc98043" version="1">Shield Lob</content>
 	<content contentuid="hd9fb265bgcd81g45b1g96bbg691e37b32e27" version="1">Delivers a ranged attack</content>

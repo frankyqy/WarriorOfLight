@@ -44,7 +44,7 @@ data "DisplayName" "h81114ab7g07feg4013g8792ge664d3d34127"
 data "Description" "h61f366b3gdef9g414eg97c2gb2c84bb7c1fd"
 data "Icon" "ICON_PLD_Oath_Mastery"
 data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "RestoreResource(SELF, Oath_Gauge, 5, 0)"
+data "StatsFunctors" "RestoreResource(SELF, Oath_Gauge, 10, 0)"
 data "StatsFunctorContext" "OnAttack"
 
 
