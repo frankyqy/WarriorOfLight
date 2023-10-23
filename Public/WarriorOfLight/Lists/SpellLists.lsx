@@ -123,7 +123,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WHM_Lv_40"/>
-                    <attribute id="Spells" type="LSString" value="Target_Regen;Shout_Cure3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Regen;Target_Cure3"/>
                     <attribute id="UUID" type="guid" value="a87710ee-a481-4e52-9959-6e2a8b86d69e"/>
                 </node>
             </children>
