@@ -42,3 +42,21 @@ data "Conditions" "SpellId('Target_Cure') | SpellId('Target_Cure_1') | SpellId('
 data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20, 13)):ApplyStatus(SELF,BOOST_Freecure,100,3)"
 data "StatsFunctorContext" "OnCast"
 data "Properties" "Highlighted"
+
+new entry "Holy"
+type "PassiveData"
+data "DisplayName" "hf4917b0fg40dag4f7bg839agb563f4ed7b1d"
+data "Description" "h23a7e70fg77adg4be2g83dbge4e4ee0ff5c7"
+data "Icon" "ICON_WHM_Holy"
+data "Boosts" "UnlockSpell(Shout_Holy)"
+data "Properties" "Highlighted"
+
+
+new entry "Aero_Mastery"
+type "PassiveData"
+data "DisplayName" "ha79bb557gd9f6g456dg87f3gc356a73a550b"
+data "Description" "hea9bf9e2g6591g4906g9316g158c8b3b4dab"
+data "Icon" "ICON_WHM_Aero_Mastery"
+data "Boosts" "UnlockSpell(Target_Aero2)"
+data "Properties" "Highlighted"
+
