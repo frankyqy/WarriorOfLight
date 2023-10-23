@@ -281,7 +281,7 @@
                 <node id="Progression"> FFXIV_BRD LV2
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ActionPoint,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="PassivesAdded" type="LSString" value="Quick_Nock;Windbite"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -292,7 +292,7 @@
                 <node id="Progression"> FFXIV_BRD LV3
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(BonusActionPoint,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(abf63112-3601-41ad-9a38-461281b979a8,,,,AlwaysPrepared);"/>

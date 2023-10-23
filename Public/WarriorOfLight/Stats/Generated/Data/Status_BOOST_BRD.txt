@@ -55,7 +55,7 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "DISENGAGE"
 data "Boosts" "IgnoreLeaveAttackRange();UnlockSpell(Projectile_Repelling_Shot)"
-
+data "RemoveEvents" "OnCombatEnded"
 
 
 new entry "BOOST_Mage_Ballad_AURA"
@@ -73,7 +73,7 @@ data "Passives" "Mage_Ballad"
 data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_Mage_Ballad)"
 data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"
 data "Boosts" "UnlockSpell(Shout_Battle_Voice)"
-
+data "RemoveEvents" "OnCombatEnded"
 
 new entry "BOOST_Army_Paeon_AURA"
 type "StatusData"
@@ -87,6 +87,7 @@ data "Passives" "Army_Paeon"
 data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_Army_Paeon)"
 data "OnRemoveFunctors" "RemoveStatus(BOOST_Army_Paeon_R);RemoveStatus(BOOST_Army_Paeon_R_2);RemoveStatus(BOOST_Army_Paeon_R_3);RemoveStatus(BOOST_Army_Paeon_R_4)"
 data "Boosts" "UnlockSpell(Shout_Battle_Voice)"
+data "RemoveEvents" "OnCombatEnded"
 
 new entry "BOOST_the_Wanderer_Minuet_AURA"
 type "StatusData"
@@ -100,6 +101,7 @@ data "Passives" "the_Wanderer_Minuet"
 data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_the_Wanderer_Minuet)"
 data "OnRemoveFunctors" "RemoveStatus(BOOST_the_Wanderer_Minuet_R);RemoveStatus(BOOST_the_Wanderer_Minuet_R_2);RemoveStatus(BOOST_the_Wanderer_Minuet_R_3)"
 data "Boosts" "UnlockSpell(Shout_Battle_Voice)"
+data "RemoveEvents" "OnCombatEnded"
 
 new entry "BOOST_Mage_Ballad"
 type "StatusData"
@@ -118,7 +120,7 @@ using "BOOST_Mage_Ballad"
 data "DisplayName" "h2ac2b118g3d73g450ag97eag3f6955f98175;2"
 data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98;2"
 data "Icon" "ICON_BRD_Army_Paeon_s"
-data "Boosts" "RollBonus(Attack,1d4)"
+data "Boosts" "DamageBonus(Attack,1d6)"
 
 new entry "BOOST_the_Wanderer_Minuet"
 type "StatusData"
