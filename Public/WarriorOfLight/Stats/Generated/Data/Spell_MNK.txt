@@ -423,6 +423,7 @@ data "Base" "4"
 data "MemoryCost" "0"
 data "DamageType" "Bludgeoning"
 data "WeaponTypes" ""
+data "RequirementConditions" ""
 
 
 new entry "Shout_Mantra"
