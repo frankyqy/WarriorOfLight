@@ -43,19 +43,17 @@
 	<content contentuid="hd53c8069gbac1g4207g86b4gd50dcfc98043" version="1">Shield Lob</content>
 	<content contentuid="hd9fb265bgcd81g45b1g96bbg691e37b32e27" version="1">Delivers a ranged attack</content>
 
-	<content contentuid="h2d1b5eb9ga64ag4f9cgbea9g60b18c622d9d" version="1">盾阵</content>
-	<content contentuid="h845ccfbbgff2eg42f9g8a2fg2e2a8f4db124" version="1">你学会了利用以太构筑额外的盾牌保护自己的方法。</content>
-	<content contentuid="hf1f4fabdg298bg41d0ga716g2b239e2e2d6c" version="1">护甲上升，受到的伤害减少</content>
+	<content contentuid="h2d1b5eb9ga64ag4f9cgbea9g60b18c622d9d" version="1">Sheltron</content>
+	<content contentuid="h845ccfbbgff2eg42f9g8a2fg2e2a8f4db124" version="1">Reduces damage</content>
 
-	<content contentuid="h77126a00ge29fg4c47g9ff2g49834488d3ca" version="1">预警</content>
-	<content contentuid="h64141191g58b0g434bg927eg45b7c559e434" version="1">受到的伤害大幅减少</content>
+	<content contentuid="h77126a00ge29fg4c47g9ff2g49834488d3ca" version="1">Sentinel</content>
 
-	<content contentuid="hecd3cb2eg689dg4d4cg9121g5e0a9ee78b2f" version="1">保护</content>
-	<content contentuid="ha9e28847g7d67g4990gb887g0c00b64f27cc" version="1">替目标队员承受来自敌人的攻击</content>
-	<content contentuid="he39ad328ga680g40f3gb75cg542e7191f02d" version="1">暂时不会承担伤害</content>
+	<content contentuid="hecd3cb2eg689dg4d4cg9121g5e0a9ee78b2f" version="1">Cover</content>
+	<content contentuid="ha9e28847g7d67g4990gb887g0c00b64f27cc" version="1">Take all damage intended for another party member</content>
+	<content contentuid="he39ad328ga680g40f3gb75cg542e7191f02d" version="1">No harm will be done for a while.</content>
 
-	<content contentuid="hcf79a2c5g1500g4aa1g85ebg944b4637095a" version="1">被保护</content>
-	<content contentuid="he39adcfegc1a4g4501g9582g2d268a404b68" version="1">获得对所有伤害的抗性</content>
+	<content contentuid="hcf79a2c5g1500g4aa1g85ebg944b4637095a" version="1">Protected</content>
+	<content contentuid="he39adcfegc1a4g4501g9582g2d268a404b68" version="1">Gain resistance to all damage</content>
 
 	<content contentuid="h996bf89cgd259g45f9gb7f0ga07681858cc6" version="1">厄运流转</content>
 	<content contentuid="h93fb94cagaf13g4094gab46ga5c2d0e2b60c" version="1">对自身周围的敌人发动范围物理攻击。</content>

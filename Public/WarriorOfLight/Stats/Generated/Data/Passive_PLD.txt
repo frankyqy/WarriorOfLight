@@ -32,9 +32,11 @@ type "PassiveData"
 data "DisplayName" "h47eab422gcde3g4aa6gab33g0ad73c64e7cc"
 data "Description" "h13f67779g37d1g4f4dg91b4g98fe3587b800"
 data "Icon" "ICON_PLD_Rage_of_Halone"
-data "Conditions" "(SpellId('Target_Riot_Blade')) and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "ApplyStatus(SELF,BOOST_Riot_Blade, 100, 3)"
-data "StatsFunctorContext" "OnAttack"
+data "StatsFunctorContext" "OnCast;OnStatusRemoved"
+data "Conditions" "(not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and (SpellId('Target_Fast_Blade') | SpellId('Target_Riot_Blade') | SpellId('Target_Rage_of_Halone') | SpellId('Shout_Total_Eclipse') | SpellId('Shout_Prominence') ) and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased())"
+data "StatsFunctors" "IF(HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK_Q,100,1);IF(not HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK,100,1);IF(HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_Q,100,1);IF(not HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK,100,1)"
+
+
 
 new entry "Oath_Mastery"
 type "PassiveData"
