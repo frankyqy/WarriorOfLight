@@ -51,7 +51,7 @@ data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98"
 data "Icon" "ICON_BRD_Army_Paeon"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Zone_Quick_Nock')"
-data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R, 100, -1)"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_Repertoire, 100, -1)"
 
 
 new entry "the_Wanderer_Minuet"
