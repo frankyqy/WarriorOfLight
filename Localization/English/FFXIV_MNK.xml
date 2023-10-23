@@ -8,8 +8,8 @@
 	<content contentuid="hbc466899g4c3eg407dga172ga7d4b66bcbec" version="1">If has Opo-opo Form status, Bootshine guarantees a critical hit.</content>
 	<content contentuid="h80d0d96eg75c8g47aag9c61gdbe0838e0d52" version="1">Enhanced Greased Lightning</content>
 	<content contentuid="h38940831g9d79g41d2g8065g4a21023f7b76" version="1">You can make one additional attacks after attacking without weapon.</content>
-	<content contentuid="h3fab29e2g6061g4c22g8f30g4e4c458e4baa" version="1">疾风迅雷效果提高II</content>
-	<content contentuid="hafa63c07gf7a7g484fga499g7cc2d222172f" version="1">你可以发动两次额外的徒手攻击</content>
+	<content contentuid="h3fab29e2g6061g4c22g8f30g4e4c458e4baa" version="1">Enhanced Greased Lightning II</content>
+	<content contentuid="hafa63c07gf7a7g484fga499g7cc2d222172f" version="1">You can make two additional attacks after attacking without weapon.</content>
 	<content contentuid="hc50957c7g1dbag402fg8fd2gfff02c904aaf" version="1">疾风迅雷效果提高III</content>
 	<content contentuid="h50d41f04geae3g471ag81ecgffa7aec6b509" version="1">功力效果伤害提升。获得一个额外的附加动作</content>
 
@@ -74,14 +74,14 @@
 
 	<content contentuid="h1e3dc936gd776g4a66ga301g093279386e6d" version="1">Steel Peak</content>
 
-	<content contentuid="hc0183dceg0c56g497egb44ag3f77e0204b89" version="1">轻身步法</content>
-	<content contentuid="haf368d10g517ag4be8gad75gd47bef53dba2" version="1">指定一名敌人或队员为目标，自身快速移动到目标身边</content>
+	<content contentuid="hc0183dceg0c56g497egb44ag3f77e0204b89" version="1">Thunderclap</content>
+	<content contentuid="haf368d10g517ag4be8gad75gd47bef53dba2" version="1">Rush to a targeted enemy's or party member's location.</content>
 
-	<content contentuid="h622bf0cdg7febg49eag8ae7g57f5e86181b8" version="1">空鸣拳</content>
-	<content contentuid="h6187a476g3e05g49fdg9e0egcd4b681972a8" version="1">向目标所在方向发出直线范围物理攻击</content>
+	<content contentuid="h622bf0cdg7febg49eag8ae7g57f5e86181b8" version="1">Howling Fist</content>
+	<content contentuid="h6187a476g3e05g49fdg9e0egcd4b681972a8" version="1">Delivers an attack to all enemies in a straight line before you.</content>
 
-	<content contentuid="h5cb19cabg2feag4b45g87bfgb1fdba1b2579" version="1">斗气积累提高</content>
-	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">重击时大几率恢复一层斗气</content>
+	<content contentuid="h5cb19cabg2feag4b45g87bfgb1fdba1b2579" version="1">Deep Meditation</content>
+	<content contentuid="h1682a22eg4628g4b05ga22dg217025fc82c7" version="1">Grants a 80% chance that a chakra will open upon dealing critical damage with a weaponskill.</content>
 	<content contentuid="h61a3262dg996ag4acegbbffg44872cdeec20" version="1">斗气积累提高II</content>
 	<content contentuid="hbd881fecg6d8fg482fg99edg16a2e3b9b972" version="1">重击时恢复一层斗气</content>
 

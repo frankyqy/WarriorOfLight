@@ -63,13 +63,10 @@ type "PassiveData"
 data "DisplayName" "h3fab29e2g6061g4c22g8f30g4e4c458e4baa"
 data "Description" "hafa63c07gf7a7g484fga499g7cc2d222172f"
 data "Icon" "ICON_MNK_Enhanced_Greased_Lightning_2"
-data "Boosts" "ActionResource(BonusActionPoint,1,0)"
-data "StatsFunctorContext" "OnAttack"
-data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "DealDamage(1d10)"
+data "StatsFunctorContext" "OnCast;OnStatusRemoved"
+data "Conditions" "(not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and HasStringInSpellRoll('UnarmedAttack') and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased())"
+data "StatsFunctors" "IF(HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK_2_Q,100,1);IF(not HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK_2,100,1);IF(HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_2_Q,100,1);IF(not HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_2,100,1)"
 data "Properties" "Highlighted"
-
-
 
 new entry "Mantra"
 type "PassiveData"
@@ -78,7 +75,6 @@ data "Description" "h05a2d979g78b6g40cfgbe0egb2aed20c8d6e;1"
 data "StatsFunctorContext" "OnHealed"
 data "StatsFunctors" "RegainHitPoints(10)"
 data "Properties" "IsHidden"
-
 
 new entry "Perfect_Balance"
 type "PassiveData"
