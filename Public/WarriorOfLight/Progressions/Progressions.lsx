@@ -425,7 +425,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Freecure"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(a87710ee-a481-4e52-9959-6e2a8b86d69e,,,,AlwaysPrepared);"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
@@ -436,7 +436,7 @@
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(801f4bc3-5a59-40a0-8c25-dc3db537cb33,,,,AlwaysPrepared);"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="98fa1c67-ab6a-4b22-8102-1bc61a3e0bf1"/>
                 </node>
@@ -445,7 +445,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(6005456a-2f5b-47dc-907b-e300f2d422fc,,,,AlwaysPrepared);"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="7b95b7b9-8ad3-45e2-8cfe-db0a7710c192"/>
                 </node>
