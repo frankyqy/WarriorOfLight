@@ -31,6 +31,7 @@
 	<content contentuid="hbc3a86cbgc285g4571gaed7g6d576682ee5d" version="1">Grants healing over time effect to target.</content>
 
 	<content contentuid="hceba4263gce97g4f8ag95f7g7ae3d9cb6f53" version="1">Cure III</content>
+	<content contentuid="h70126406g32e0g4143gb6d7gc2eb0ab4cbad" version="1">Restores target HP and the HP of all nearby party members.</content>
 
 	<content contentuid="hf18e67ecg0fabg481cg9eecgc5f795b529bf" version="1">Freecure</content>
 	<content contentuid="he39bd79bg5404g486ag99c5g689a48b5c530" version="1">Grants a 15% chance that after casting Cure,you cast a Cure II for free.</content>
