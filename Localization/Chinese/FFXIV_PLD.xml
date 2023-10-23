@@ -52,8 +52,7 @@
 	<content contentuid="he39adcfegc1a4g4501g9582g2d268a404b68" version="1">获得对所有伤害的抗性</content>
 
 	<content contentuid="h996bf89cgd259g45f9gb7f0ga07681858cc6" version="1">厄运流转</content>
-	<content contentuid="h93fb94cagaf13g4094gab46ga5c2d0e2b60c" version="1">对自身周围的敌人发动范围物理攻击。</content>
-	<content contentuid="h0e2e36f1g28d7g476dga5e3ga9e73966cab1" version="1">骑士攻击残留的以太，每回合受到伤害</content>
+	<content contentuid="h0e2e36f1g28d7g476dga5e3ga9e73966cab1" version="1">每回合受到[1]伤害</content>
 
 	<content contentuid="h019fcda4ga5c2g4ce6g866fg8cb50640f787" version="1">壁垒</content>
 	<content contentuid="h82a0caeagc07eg4be2g89c9gbdbae1eb7951" version="1">减轻受到的所有伤害</content>

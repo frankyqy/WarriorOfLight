@@ -103,7 +103,7 @@
                     <attribute id="Level10" type="LSString" value="2d12"/>
                     <attribute id="Level11" type="LSString" value="3d10"/>
                     <attribute id="Level12" type="LSString" value="3d10"/>
-                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_AOE"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_PLD_AOE2"/>
                     <attribute id="UUID" type="guid" value="6ee23e55-1041-446b-a845-c1bf89feb58c"/>
                 </node>
 
