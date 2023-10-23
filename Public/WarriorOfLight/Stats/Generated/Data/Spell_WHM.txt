@@ -254,7 +254,7 @@ data "DisplayName" "hcc0ccdd6gc3dcg4f62g8432g3515133ff23c;2"
 data "SpellProperties" "RegainHitPoints(1d10+SpellCastingAbilityModifier);ApplyStatus(BOOST_Medica2,100,3)"
 data "TooltipDamageList" "RegainHitPoints(1d10+SpellCastingAbilityModifier)"
 data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:2"
-data "TooltipStatusApply" "ApplyStatus(BOOST_Medica2,100,5)"
+data "TooltipStatusApply" "ApplyStatus(BOOST_Medica2,100,3)"
 
 new entry "Shout_Medica2_3"
 type "SpellData"
