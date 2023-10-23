@@ -9,6 +9,15 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Projectile_Heavy_Shot') and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
 
+new entry "Bloodletter"
+type "PassiveData"
+data "DisplayName" "h3d097203g4969g48dega5a9g385b461fd293"
+data "Description" "h40fd6e94g419bg49bfgacdegc34b057ba754"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "StatsFunctors" "RestoreResource(SELF,Bloodletter_Gauge,1,0)"
+
+
 
 new entry "Venomous_Bite"
 type "PassiveData"
