@@ -20,3 +20,26 @@ data "StackId" "BOOST_Presence_of_Mind"
 data "Passives" "Presence_of_Mind"
 
 
+new entry "BOOST_Regen"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "ha4ba1375ge5f4g496fg8435gc8980c0a7a1d;1"
+data "Description" "ha4ba1375ge5f4g496fg8435gc8980c0a7a1d;1"
+data "Icon" "ICON_WHM_Regen_s"
+data "StackId" "BOOST_Regen"
+data "TickFunctors" "RegainHitPoints(2d6)"
+data "TickType" "StartTurn"
+
+
+new entry "BOOST_Freecure"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hf18e67ecg0fabg481cg9eecgc5f795b529bf;1"
+data "Description" "hbed67786g65ecg436dga5a0gea33686af98c;2"
+data "Icon" "ICON_WHM_Freecure_s"
+data "StackId" "BOOST_Freecure"
+data "RemoveConditions" "SpellId('Target_Cure2')"
+data "Boosts" "UnlockSpellVariant(SpellId('Target_Cure2') ,ModifyUseCosts(Replace, SpellSlot, 0, 0, SpellSlot), ModifyUseCosts(Replace, SpellSlotsGroup, 0, 0, SpellSlotsGroup))"
+data "RemoveEvents" "OnSpellCast"
+data "ManagedStatusEffectType" "Positive"
+

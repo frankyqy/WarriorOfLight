@@ -27,6 +27,15 @@
 	<content contentuid="h0b686ddeg4cebg44a8g92fbg96bd5c2b9b1d" version="1">为自身附加状态：神速咏唱。魔法额外指定一个目标</content>
 	<content contentuid="h41e88946g0fc5g4d4fg8fedga5ce86530cc5" version="1">魔法额外指定一个目标</content>
 
+	<content contentuid="ha4ba1375ge5f4g496fg8435gc8980c0a7a1d" version="1">再生</content>
+	<content contentuid="hbc3a86cbgc285g4571gaed7g6d576682ee5d" version="1">为目标附加持续恢复</content>
+
+	<content contentuid="hceba4263gce97g4f8ag95f7g7ae3d9cb6f53" version="1">愈疗</content>
+
+	<content contentuid="hf18e67ecg0fabg481cg9eecgc5f795b529bf" version="1">治疗效果提高</content>
+	<content contentuid="he39bd79bg5404g486ag99c5g689a48b5c530" version="1">为自身附加状态：救疗效果提高，下次咏唱救疗时不会消耗法术位</content>
+	<content contentuid="hbed67786g65ecg436dga5a0gea33686af98c" version="1">下次咏唱救疗时不会消耗法术位</content>
+
 
 
 </contentList>
