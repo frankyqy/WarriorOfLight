@@ -25,7 +25,7 @@ data "Icon" "ICON_MNK_Arm_of_the_Destroyer"
 data "Boosts" "UnlockSpell(Shout_Arm_of_the_Destroyer)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "(SpellId('Shout_Arm_of_the_Destroyer') or SpellId('Shout_Arm_of_the_Destroyer_F') or SpellId('Shout_Arm_of_the_Destroyer_PB')) and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form') or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)):DealDamage(10)
+data "StatsFunctors" "IF(HasStatus('BOOST_Opo-opo_Form') or HasStatus('BOOST_Formless_Fist',context.Source) or HasStatus('BOOST_Perfect_Balance',context.Source)):DealDamage(1d10)
 data "Properties" "Highlighted"
 
 
@@ -73,8 +73,18 @@ type "PassiveData"
 data "DisplayName" "h68e83b50g46cag4920gb766g0893c7d13b1a;1"
 data "Description" "h05a2d979g78b6g40cfgbe0egb2aed20c8d6e;1"
 data "StatsFunctorContext" "OnHealed"
-data "StatsFunctors" "RegainHitPoints(10)"
+data "StatsFunctors" "RegainHitPoints(1d6)"
 data "Properties" "IsHidden"
+
+new entry "Enhanced_Bootshine"
+type "PassiveData"
+data "DisplayName" "hc021f5c2g727eg4214g9981gcc15254f221d;1"
+data "Description" "hc021f5c2g727eg4214g9981gcc15254f221d;1"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "(SpellId('Target_Bootshine') or SpellId('Target_Bootshine_F') or SpellId('Target_Bootshine_PB')) and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(1d8)
+data "Properties" "Highlighted"
+
 
 new entry "Perfect_Balance"
 type "PassiveData"

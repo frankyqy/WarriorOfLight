@@ -21,14 +21,12 @@
 	<content contentuid="h44d4923dgd58cg461fgb82ag11411b216d53" version="1">双龙脚</content>
 	<content contentuid="he0845128gd9e3g4babgb6d2g1a304776d5ed" version="1">双龙脚（无相）</content>
 	<content contentuid="h4c721fbegd33ag4e67ga727g03c1ee83c9d8" version="1">双龙脚（震脚）</content>
-	<content contentuid="h4ed72a7aga87cg4acegae39g9015fec26a84" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：连击效果提高</content>
 	<content contentuid="hc021f5c2g727eg4214g9981gcc15254f221d" version="1">连击效果提高</content>
-	<content contentuid="h86678660g98a2g4763g8a3ag4e2ee5e10bf5" version="1">连击造成一个额外的伤害</content>
 
 	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">破坏神冲</content>
 	<content contentuid="ha7ff6437g3554g4407g9cf4g2d361620b418" version="1">破坏神冲（无相）</content>
 	<content contentuid="h46155b6fgc0f7g4b80gb59dg08e85c755c0b" version="1">破坏神冲（震脚）</content>
-	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。追加效果：盗龙身形。</content>
+	<content contentuid="haf50b157g968bg451cgae91g813c0df0afed" version="1">对自身周围的敌人发动范围物理攻击。</content>
 
 	<content contentuid="h4a9e6b8cgd6bfg40e9ga871g30d51d444347" version="1">破坏神脚</content>
 	<content contentuid="hb74b09a7g3ee6g41f6g83bagccb2b042af40" version="1">破坏神脚（无相）</content>
@@ -46,7 +44,6 @@
 	<content contentuid="hf91aac04ga721g4f15ga957g71eaf7435051" version="1">四面脚</content>
 	<content contentuid="h0b3c68efg1b74g46e5g86f5gf5e54549f698" version="1">四面脚（无相）</content>
 	<content contentuid="h8a26438dgf697g41e9g9a48g05d5288dae45" version="1">四面脚（震脚）</content>
-	<content contentuid="hbbbc8b50ga105g4256gbc43gc83209e2d302" version="1">对自身周围的敌人发动范围物理攻击。追加效果：猛豹身形、功力</content>
 
 	<content contentuid="h474dde0dg7d1cg42dfg838bg2f1707269507" version="1">功力</content>
 	<content contentuid="h4e896fd8g5000g441ag8eb4g98607bd1710e" version="1">攻击造成力场伤害[1]</content>

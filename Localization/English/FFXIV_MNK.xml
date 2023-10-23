@@ -18,12 +18,10 @@
 	<content contentuid="hd4ae836fg8704g4522gb9f0g49f6fd023424" version="1">Bootshine（Perfect Balance）</content>
 	<content contentuid="hdaa4ddb0ga45bg4376g92c8gecb9ccbc97c0" version="1">Delivers an attack.</content>
 
-	<content contentuid="h44d4923dgd58cg461fgb82ag11411b216d53" version="1">双龙脚</content>
-	<content contentuid="he0845128gd9e3g4babgb6d2g1a304776d5ed" version="1">双龙脚（Formless）</content>
-	<content contentuid="h4c721fbegd33ag4e67ga727g03c1ee83c9d8" version="1">双龙脚（Perfect Balance）</content>
-	<content contentuid="h4ed72a7aga87cg4acegae39g9015fec26a84" version="1">对目标发动物理攻击。追加效果：盗龙身形。“魔猿身形”中追加效果：连击效果提高</content>
-	<content contentuid="hc021f5c2g727eg4214g9981gcc15254f221d" version="1">连击效果提高</content>
-	<content contentuid="h86678660g98a2g4763g8a3ag4e2ee5e10bf5" version="1">连击造成一个额外的伤害</content>
+	<content contentuid="h44d4923dgd58cg461fgb82ag11411b216d53" version="1">Dragon Kick</content>
+	<content contentuid="he0845128gd9e3g4babgb6d2g1a304776d5ed" version="1">Dragon Kick（Formless）</content>
+	<content contentuid="h4c721fbegd33ag4e67ga727g03c1ee83c9d8" version="1">Dragon Kick（Perfect Balance）</content>
+	<content contentuid="hc021f5c2g727eg4214g9981gcc15254f221d" version="1">Grants Leaden Fist</content>
 
 	<content contentuid="hd7c15998g2c52g4992gbe82gffb8100efbc8" version="1">Arm of the Destroyer</content>
 	<content contentuid="ha7ff6437g3554g4407g9cf4g2d361620b418" version="1">Arm of the Destroyer（Formless）</content>
@@ -43,10 +41,9 @@
 	<content contentuid="hf6a62703gf9dcg4f2egb9efgc1eb434bab6c" version="1">Twin Snakes（Formless）</content>
 	<content contentuid="h06212180g57a7g4ae1ga8a7g3b0ba758c285" version="1">Twin Snakes（Perfect Balance）</content>
 
-	<content contentuid="hf91aac04ga721g4f15ga957g71eaf7435051" version="1">四面脚</content>
-	<content contentuid="h0b3c68efg1b74g46e5g86f5gf5e54549f698" version="1">四面脚（Formless）</content>
-	<content contentuid="h8a26438dgf697g41e9g9a48g05d5288dae45" version="1">四面脚（Perfect Balance）</content>
-	<content contentuid="hbbbc8b50ga105g4256gbc43gc83209e2d302" version="1">对自身周围的敌人发动范围物理攻击。追加效果：猛豹身形、功力</content>
+	<content contentuid="hf91aac04ga721g4f15ga957g71eaf7435051" version="1">Four-point Fury</content>
+	<content contentuid="h0b3c68efg1b74g46e5g86f5gf5e54549f698" version="1">Four-point Fury（Formless）</content>
+	<content contentuid="h8a26438dgf697g41e9g9a48g05d5288dae45" version="1">Four-point Fury（Perfect Balance）</content>
 
 	<content contentuid="h474dde0dg7d1cg42dfg838bg2f1707269507" version="1">Disciplined Fist</content>
 	<content contentuid="h4e896fd8g5000g441ag8eb4g98607bd1710e" version="1">Increases damage [1]</content>
@@ -85,13 +82,13 @@
 	<content contentuid="h61a3262dg996ag4acegbbffg44872cdeec20" version="1">斗气积累提高II</content>
 	<content contentuid="hbd881fecg6d8fg482fg99edg16a2e3b9b972" version="1">重击时恢复一层斗气</content>
 
-	<content contentuid="h68e83b50g46cag4920gb766g0893c7d13b1a" version="1">真言</content>
-	<content contentuid="h05a2d979g78b6g40cfgbe0egb2aed20c8d6e" version="1">受到的治疗效果提高</content>
-	<content contentuid="h7c9ae720g0a16g42d5g9020g32788c584526" version="1">为自身和周围队员附加状态：真言，自身所受的治疗效果提高真言，受到的治疗效果提高</content>
+	<content contentuid="h68e83b50g46cag4920gb766g0893c7d13b1a" version="1">Mantra</content>
+	<content contentuid="h05a2d979g78b6g40cfgbe0egb2aed20c8d6e" version="1">Increases HP recovery via healing actions for self and nearby party members.</content>
+	<content contentuid="h7c9ae720g0a16g42d5g9020g32788c584526" version="1">Increases HP recovery via healing actions</content>
 
 	<content contentuid="hf2cb3364g2b15g4c94g9a1agb733c9bd508c" version="1">Perfect Balance</content>
-	<content contentuid="hb9217cd3g10adg4215ga526g08febe7192a5" version="1">对自身附加3档的Perfect Balance状态,可以无视身形要求发动战技</content>
-	<content contentuid="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1">可以无视身形要求发动战技</content>
+	<content contentuid="hb9217cd3g10adg4215ga526g08febe7192a5" version="1">Grants 3 stacks of Perfect Balance, each stack allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
+	<content contentuid="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1">Allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
 
 	<content contentuid="h2821d2aagafc2g403bgb89dg0b7b862389f5" version="1">Perfect Balance效果提高</content>
 	<content contentuid="hd47c5c51gf45bg4dccg9840g70db8b38d188" version="1">自身发动魔猿身形、盗龙身形、猛豹身形的战技时，获得对应的脉轮</content>
