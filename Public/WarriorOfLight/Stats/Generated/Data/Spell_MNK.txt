@@ -394,7 +394,6 @@ new entry "Rush_Thunderclap_2"
 type "SpellData"
 data "SpellType" "Shout"
 using "Rush_Thunderclap"
-data "SpellProperties" ""
 data "SpellProperties" "RemoveStatus(SELF,BOOST_Rush_Thunderclap)"
 
 
@@ -402,7 +401,6 @@ new entry "Rush_Thunderclap_3"
 type "SpellData"
 data "SpellType" "Shout"
 using "Rush_Thunderclap"
-data "SpellProperties" ""
 data "SpellProperties" "RemoveStatus(SELF,BOOST_Rush_Thunderclap_2)"
 
 
