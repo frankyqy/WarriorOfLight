@@ -101,7 +101,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BRD_Lv_50"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Rain_of_Death;Shout_Battle_Voice"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Rain_of_Death"/>
                     <attribute id="UUID" type="guid" value="801f4bc3-5a59-40a0-8c25-dc3db537cb33"/>
                 </node>
                 <node id="SpellList">
