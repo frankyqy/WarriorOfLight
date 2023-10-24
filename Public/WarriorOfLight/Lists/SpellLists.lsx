@@ -106,7 +106,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BRD_Lv_55"/>
-                    <attribute id="Spells" type="LSString" value="Shout_the_Wanderer_Minuet"/>
+                    <attribute id="Spells" type="LSString" value="Shout_the_Wanderer_Minuet;Projectile_Empyreal_Arrow"/>
                     <attribute id="UUID" type="guid" value="6005456a-2f5b-47dc-907b-e300f2d422fc"/>
                 </node>
 

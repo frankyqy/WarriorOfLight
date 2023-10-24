@@ -193,8 +193,6 @@
                     <attribute id="Name" type="FixedString" value="FFXIV_MNK_Bonus"/>
                     <attribute id="UUID" type="guid" value="4e26d0a1-b125-4742-b98b-8180ab179704"/>
                 </node>
-
-
                 <node id="LevelMapSeries">
                     <attribute id="FallbackValue" type="LSString" value="3d4"/>
                     <attribute id="Level1" type="LSString" value="3d4"/>
@@ -211,6 +209,23 @@
                     <attribute id="Level12" type="LSString" value="4d12"/>
                     <attribute id="Name" type="FixedString" value="FFXIV_BRD_Target"/>
                     <attribute id="UUID" type="guid" value="8a2bb836-8d7e-45e6-9103-c35f4280cac8"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="4d6"/>
+                    <attribute id="Level1" type="LSString" value="4d6"/>
+                    <attribute id="Level2" type="LSString" value="4d6"/>
+                    <attribute id="Level3" type="LSString" value="4d8"/>
+                    <attribute id="Level4" type="LSString" value="4d8"/>
+                    <attribute id="Level5" type="LSString" value="4d10"/>
+                    <attribute id="Level6" type="LSString" value="4d10"/>
+                    <attribute id="Level7" type="LSString" value="4d12"/>
+                    <attribute id="Level8" type="LSString" value="4d12"/>
+                    <attribute id="Level9" type="LSString" value="5d10"/>
+                    <attribute id="Level10" type="LSString" value="5d12"/>
+                    <attribute id="Level11" type="LSString" value="5d12"/>
+                    <attribute id="Level12" type="LSString" value="6d12"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_BRD_Target2"/>
+                    <attribute id="UUID" type="guid" value="b43d5d3c-37b8-47e8-9034-1f5d750f3e72"/>
                 </node>
                 <node id="LevelMapSeries">
                     <attribute id="FallbackValue" type="LSString" value="2d4"/>

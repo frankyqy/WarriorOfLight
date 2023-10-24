@@ -51,7 +51,7 @@
 	<content contentuid="h2ac2b118g3d73g450ag97eag3f6955f98175" version="1">军神的赞美歌</content>
 	<content contentuid="hc97d0b65gff5cg489ag93a5gbe615b8c2f98" version="1">弹唱军神的赞美歌，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
 	<content contentuid="h3b102d88g9791g436cg9282gbfee4bc8cfef" version="1">放浪神的小步舞曲</content>
-	<content contentuid="hb400f011ga23fg4991g894agd83883f021c3" version="1">弹唱放浪神的小步舞曲，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
+	<content contentuid="hb400f011ga23fg4991g894agd83883f021c3" version="1">弹唱放浪神的小步舞曲，令周围50米内的队员投掷重击需要的点数-1。有几率附加诗心效果，用于释放完美音调。</content>
 
 
 	<content contentuid="hcaed876fg4487g42c6gb8c9g9dc2fd18a776" version="1">光阴神的礼赞凯歌</content>
@@ -69,7 +69,8 @@
 	<content contentuid="h73cdf7a3ge21fg4ce9g9320gc74162f04d90" version="1">触发重击所需的点数-1</content>
 
 	<content contentuid="h65493ebbg4a7eg4874g8a16ga52076b1999c" version="1">完美音调</content>
-	<content contentuid="h2b641502g27a9g4522gb495ge6266dfcabdc" version="1">对目标发动物理攻击。</content>
+
+	<content contentuid="h3897ecb6g504ag49f4gb00dg697fb2219896" version="1">九天连箭</content>
 
 
 

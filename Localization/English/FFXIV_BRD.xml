@@ -51,8 +51,8 @@
 
 	<content contentuid="h2ac2b118g3d73g450ag97eag3f6955f98175" version="1">Army's Paeon</content>
 	<content contentuid="hc97d0b65gff5cg489ag93a5gbe615b8c2f98" version="1">Grants Army's Paeon to self and all party members within 50m, it gained a +1d6 bonus to the damage you deal.80% chance to grant Repertoire, get additional ActionPoint. </content>
-	<content contentuid="h3b102d88g9791g436cg9282gbfee4bc8cfef" version="1">放浪神的小步舞曲</content>
-	<content contentuid="hb400f011ga23fg4991g894agd83883f021c3" version="1">弹唱放浪神的小步舞曲，令周围50米内的队员攻击伤害提高。有几率附加诗心效果，获得额外的动作。</content>
+	<content contentuid="h3b102d88g9791g436cg9282gbfee4bc8cfef" version="1">Wanderer's Minuet</content>
+	<content contentuid="hb400f011ga23fg4991g894agd83883f021c3" version="1">Grants the Wanderer's Minuet to self and all party members within 50m, need to roll a Critical Hit while attacking is reduced by 1.80% chance to grant Repertoire, to cast Pitch Perfect.</content>
 
 
 	<content contentuid="hcaed876fg4487g42c6gb8c9g9dc2fd18a776" version="1">Warden's Paean</content>
@@ -69,9 +69,9 @@
 	<content contentuid="h778800cdg5a5dg4c60gae0fgb04db4136b72" version="1">The number your party need to roll a Critical Hit while attacking is reduced by 1. This effect can stack.</content>
 	<content contentuid="h73cdf7a3ge21fg4ce9g9320gc74162f04d90" version="1">The number you need to roll a Critical Hit while attacking is reduced by 1.</content>
 
-	<content contentuid="h65493ebbg4a7eg4874g8a16ga52076b1999c" version="1">完美音调</content>
-	<content contentuid="h2b641502g27a9g4522gb495ge6266dfcabdc" version="1">对目标发动物理攻击。</content>
+	<content contentuid="h65493ebbg4a7eg4874g8a16ga52076b1999c" version="1">Pitch Perfect</content>
 
+	<content contentuid="h3897ecb6g504ag49f4gb00dg697fb2219896" version="1">Empyreal Arrow</content>
 
 
 </contentList>
