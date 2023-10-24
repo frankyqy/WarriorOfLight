@@ -447,7 +447,9 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Secret_of_the_Lily"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="7b95b7b9-8ad3-45e2-8cfe-db0a7710c192"/>

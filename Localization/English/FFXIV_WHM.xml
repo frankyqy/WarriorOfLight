@@ -45,6 +45,10 @@
 	<content contentuid="h124cf2a9gcec1g432fg89fag0c96792bc6db" version="1">Benediction</content>
 	<content contentuid="h4d1e1039g459cg4d11g81ecg44f39d8b5f0f" version="1">Restores all of a target's HP.</content>
 
+	<content contentuid="h998a04beg5859g4293g82begbaa565f249b9" version="1">Secret of the Lily</content>
+	<content contentuid="hd8f47384gfb81g4552gbddeg3d1820c9051a" version="1">When you roll initiative ,adds 3 Lily to your Healing Gauge</content>
 
+	<content contentuid="h65aa7bb6g0337g4d8agbef2g16699eed15ec" version="1">Lily</content>
+	<content contentuid="h41dae3e5gc3b9g41f0g849egf5f096b5a138" version="1">Afflatus Solace</content>
 
 </contentList>
