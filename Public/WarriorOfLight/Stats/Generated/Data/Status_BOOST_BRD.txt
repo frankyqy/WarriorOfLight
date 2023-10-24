@@ -54,7 +54,7 @@ new entry "BOOST_Repelling_Shot"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DISENGAGE"
-data "Boosts" "IgnoreLeaveAttackRange();UnlockSpell(Projectile_Repelling_Shot)"
+data "Boosts" "ActionResource(Movement, 10, 0);IgnoreLeaveAttackRange();UnlockSpell(Projectile_Repelling_Shot)"
 data "RemoveEvents" "OnCombatEnded"
 
 
