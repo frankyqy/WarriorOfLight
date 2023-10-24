@@ -166,6 +166,8 @@ type "SpellData"
 data "SpellType" "Zone"
 using "Zone_ConjureBarrage_Ranged"
 data "SpellContainerID" ""
+data "Level" ""
+data "SpellSchool" ""
 data "Icon" "ICON_BRD_Quick_Nock"
 data "DisplayName" "h8f02005dgba2fg435dg9bc0gc1858bccbb27;1"
 data "Description" "h6e6424b3g1bddg4a88ga183g240ea91e074d;1"
@@ -184,8 +186,6 @@ data "CycleConditions" "not Ally()"
 data "UseCosts" "ActionPoint:1"
 data "VerbalIntent" "Damage"
 data "WeaponTypes" "Ammunition"
-
-
 
 new entry "Shout_Mage_Ballad"
 type "SpellData"
