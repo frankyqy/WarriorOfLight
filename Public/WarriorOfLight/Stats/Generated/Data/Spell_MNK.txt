@@ -445,9 +445,9 @@ data "CastEffect" "1a966496-91e6-40b5-b76b-cb863c388ed2"
 data "TargetEffect" "c93e451d-fff8-4e92-aeff-d0b03faaa848"
 
 
-new entry "Target_Perfect_Balance"
+new entry "Shout_Perfect_Balance"
 type "SpellData"
-data "SpellType" "Target"
+data "SpellType" "Shout"
 data "SpellProperties" "ApplyStatus(BOOST_Perfect_Balance,100,5)"
 data "TargetConditions" "Self()"
 data "Icon" "ICON_MNK_Perfect_Balance"
