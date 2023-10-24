@@ -156,7 +156,7 @@
                     <attribute id="Level11" type="LSString" value="6d12"/>
                     <attribute id="Level12" type="LSString" value="6d12"/>
                     <attribute id="Name" type="FixedString" value="FFXIV_MNK_Target3"/>
-                    <attribute id="UUID" type="guid" value="99021257-a5c9-4128-94a1-f454aa7a80d2"/>
+                    <attribute id="UUID" type="guid" value="9c77a529-ac36-4f79-a05f-9d21b54edb9d"/>
                 </node>
 
                 <node id="LevelMapSeries">
