@@ -414,7 +414,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Stone"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Stone_2"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Stone_Mastery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(7432143b-f489-48ba-9eb8-e893a2681d2e,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
@@ -449,8 +449,9 @@
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Secret_of_the_Lily"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Secret_of_the_Lily;Stone_Mastery_2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(55a50189-11c4-4c00-8467-2845fbe2289f,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="7b95b7b9-8ad3-45e2-8cfe-db0a7710c192"/>
                 </node>

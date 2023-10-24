@@ -7,13 +7,21 @@
 	<content contentuid="h2bf31093g1582g4ab8gba80g9100eb7237f4" version="1">Stone</content>
 	<content contentuid="h9b7abf6eg135dg4bc5gb462g7154f2a42767" version="1">Deals Bludgeoning damage。</content>
 
+	<content contentuid="h47f7ce9cg9f23g41fagb281ga6982e204e55" version="1">Stone Mastery</content>
+	<content contentuid="hd0240fd0g8984g40f4gaca9gbb5f0f5d0c00" version="1">Upgrades Stone to Stone II.</content>
 	<content contentuid="ha9eab1c0g5113g4838ga1d3gda47026db087" version="1">Stone II</content>
+
+	<content contentuid="h88fbd5a1g7575g4152g8b53g56ff329536e7" version="1">Stone Mastery II</content>
+	<content contentuid="he32ac138g3a05g4afdga59ag3b6d5346ad1f" version="1">Upgrades Stone II to Stone III.</content>
+	<content contentuid="h53f3839ag3c6eg4ea9ga103g0f18375107c7" version="1">Stone III</content>
 
 	<content contentuid="hc132311fg5be1g4b12ga4c1gb737a77c2497" version="1">Cure</content>
 	<content contentuid="h82f86fe9gb215g415egb0a3g8cc534550023" version="1">Restores target's HP.</content>
 	<content contentuid="h3c35b533g0f7cg45cdgb226gbf22bf98c8a9" version="1">Cure II</content>
 
 	<content contentuid="h7cef7147g6640g4d32g9dabgc2a8dbd040a1" version="1">Aero</content>
+	<content contentuid="hff516fa8gaa99g4456ga4b8g17d1dba855ed" version="1">Aero Mastery</content>
+	<content contentuid="hf36a4d6cgb16ag49e5g9869gf81ad52fa889" version="1">Upgrades Aero to Aero II.</content>
 	<content contentuid="ha79bb557gd9f6g456dg87f3gc356a73a550b" version="1">Aero II</content>
 	<content contentuid="hea9bf9e2g6591g4906g9316g158c8b3b4dab" version="1">Deals Thunder damage。</content>
 	<content contentuid="h9f9c28fage0b1g4d84gbc32g5c4d76732629" version="1">Takes [1] per turn.</content>
@@ -50,5 +58,8 @@
 
 	<content contentuid="h65aa7bb6g0337g4d8agbef2g16699eed15ec" version="1">Lily</content>
 	<content contentuid="h41dae3e5gc3b9g41f0g849egf5f096b5a138" version="1">Afflatus Solace</content>
+
+	<content contentuid="hf38cf641g4442g4334g9edbgebc68e6a9056" version="1">Asylum</content>
+	<content contentuid="h468ad4b3g11a3g416bg9afbg42328449b680" version="1">Envelops a designated area in a veil of succor, granting healing over time to self and any party members who enter.</content>
 
 </contentList>

@@ -131,6 +131,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Medica2;Target_Benediction"/>
                     <attribute id="UUID" type="guid" value="133c850d-3c36-4549-a7bd-e3917a446e52"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_55"/>
+                    <attribute id="Spells" type="LSString" value="Target_Afflatus_Solace;Target_Asylum"/>
+                    <attribute id="UUID" type="guid" value="55a50189-11c4-4c00-8467-2845fbe2289f"/>
+                </node>
             </children>
         </node>
     </region>

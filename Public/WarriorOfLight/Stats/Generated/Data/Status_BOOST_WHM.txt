@@ -89,3 +89,27 @@ data "Boosts" "UnlockSpellVariant(SpellId('Target_Cure2') | SpellId('Target_Cure
 data "RemoveEvents" "OnSpellCast"
 data "ManagedStatusEffectType" "Positive"
 
+
+
+new entry "BOOST_Asylum_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hf38cf641g4442g4334g9edbgebc68e6a9056;1"
+data "Description" "hf38cf641g4442g4334g9edbgebc68e6a9056;2"
+data "Icon" "ICON_WHM_Asylum_a"
+data "StackId" "BOOST_Asylum_AURA"
+data "StackType" "Overwrite"
+data "AuraRadius" "15"
+data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(BOOST_Asylum, 1)"
+data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"
+
+new entry "BOOST_Asylum"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hf38cf641g4442g4334g9edbgebc68e6a9056;1"
+data "Description" "hbc3a86cbgc285g4571gaed7g6d576682ee5d;2"
+data "Icon" "ICON_WHM_Asylum_s"
+data "StackId" "BOOST_Asylum"
+data "StackType" "Overwrite"
+data "TickFunctors" "RegainHitPoints(1d8)"
+data "TickType" "StartTurn"
