@@ -447,7 +447,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(Lily_Gauge,3,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery"/>
                     <attribute id="PassivesAdded" type="LSString" value="Secret_of_the_Lily;Stone_Mastery_2"/>
