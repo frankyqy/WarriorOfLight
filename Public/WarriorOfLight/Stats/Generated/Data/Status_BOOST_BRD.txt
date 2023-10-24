@@ -135,22 +135,22 @@ data "StackId" "BOOST_Repertoire"
 data "Icon" "ICON_BRD_Army_Paeon_Repertoire"
 data "DisplayName" "hdabc075fg29a9g4eefgaaeag9868ec1819e6;2"
 data "Description" "h42b89411g1994g443egb010gd635712ab8ae;2"
-data "Boosts" "ActionResource(BonusActionPoint,1,0)"
+data "Boosts" "ActionResource(ActionPoint,1,0)"
 
 
 new entry "BOOST_Army_Paeon_R_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "BOOST_Army_Paeon_R"
-data "Boosts" "ActionResource(BonusActionPoint,1,0);ActionResource(ActionPoint,1,0)"
+data "Boosts" "ActionResource(ActionPoint,1,0)"
 data "Description" "h05a22757gddfag4d41g873dgff47f393e96d;2"
-
+data "Passives" "Army_Paeon_T2"
 
 new entry "BOOST_Army_Paeon_R_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "BOOST_Army_Paeon_R"
-data "Boosts" "ActionResource(BonusActionPoint,2,0);ActionResource(ActionPoint,1,0)"
+data "Boosts" "ActionResource(ActionPoint,2,0)"
 data "Description" "hb2d402c2g3f51g4b59g99abg27450f04a501;2"
 
 
@@ -158,9 +158,9 @@ new entry "BOOST_Army_Paeon_R_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "BOOST_Army_Paeon_R"
-data "Boosts" "ActionResource(BonusActionPoint,2,0);ActionResource(ActionPoint,2,0)"
+data "Boosts" "ActionResource(ActionPoint,2,0)"
 data "Description" "h3c0eb399g4462g48cfg9f61gb863d21fa7e1;2"
-
+data "Passives" "Army_Paeon_T4"
 
 
 new entry "BOOST_the_Wanderer_Minuet_R"
