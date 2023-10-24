@@ -16,13 +16,13 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_40"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Sentinel"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Sentinel;Target_Cover"/>
                     <attribute id="UUID" type="guid" value="1c5c9d95-e057-4385-b089-72e978a1253c"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_50"/>
                     <attribute id="Spells" type="LSString"
-                               value="Target_Cover;Shout_Circle_of_Scorn;Shout_Hallowed_Ground"/>
+                               value="Shout_Circle_of_Scorn;Shout_Hallowed_Ground"/>
                     <attribute id="UUID" type="guid" value="8c25d788-8cc6-4927-82c1-cedd50d6e0f9"/>
                 </node>
                 <node id="SpellList">
