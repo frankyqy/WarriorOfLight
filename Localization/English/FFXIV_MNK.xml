@@ -94,16 +94,15 @@
 	<content contentuid="hd47c5c51gf45bg4dccg9840g70db8b38d188" version="1">自身发动魔猿身形、盗龙身形、猛豹身形的战技时，获得对应的脉轮</content>
 
 
-	<content contentuid="h52909bd3gbbc7g4532ga1dag4060c69190c0" version="1">铁山靠精通</content>
-	<content contentuid="hdf85934cg29dag488bgaa22g9e76ceda91b5" version="1">铁山靠变为阴阳斗气斩</content>
+	<content contentuid="h52909bd3gbbc7g4532ga1dag4060c69190c0" version="1">Steel Peak Mastery</content>
+	<content contentuid="hdf85934cg29dag488bgaa22g9e76ceda91b5" version="1">Upgrades Steel Peak to The Forbidden Chakra.</content>
 
-	<content contentuid="hbea82345g4107g4a40g8bbag20c8dcfe6ac2" version="1">阴阳斗气斩</content>
-	<content contentuid="hd85988a8gc36dg4083ga9a8g9e65739b0652" version="1">对目标发动物理攻击</content>
+	<content contentuid="hbea82345g4107g4a40g8bbag20c8dcfe6ac2" version="1">The Forbidden Chakra</content>
 
-	<content contentuid="h7a66d4c8g0828g4449g89f1g969ca095dcb3" version="1">演武</content>
-	<content contentuid="h699eb56bg0b48g4feeg9834ge25875100061" version="1">为自身附加可以无视身形要求发动战技，同时触发追加效果的无相身形。</content>
-    <content contentuid="h3f19d96fg7502g4435g90f4ge409c0b4042c" version="1">无相身形</content>
-	<content contentuid="h2291e7cdg2d68g4676g85efgb80443c5912e" version="1">可以无视身形要求发动战技，同时触发追加效果</content>
+	<content contentuid="h7a66d4c8g0828g4449g89f1g969ca095dcb3" version="1">Form Shift</content>
+	<content contentuid="h699eb56bg0b48g4feeg9834ge25875100061" version="1">Grants Formless Fist to self, allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
+    <content contentuid="h3f19d96fg7502g4435g90f4ge409c0b4042c" version="1">Formless Fist</content>
+	<content contentuid="h2291e7cdg2d68g4676g85efgb80443c5912e" version="1">allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
 
 	<content contentuid="hfa813a78gb323g4c7fgb6d6ga0faad934893" version="1">苍气炮</content>
 	<content contentuid="h343d2ed6gc8aeg4920g8139g29a3ceaf46a5" version="1">对自身周围的敌人发动范围物理攻击</content>
