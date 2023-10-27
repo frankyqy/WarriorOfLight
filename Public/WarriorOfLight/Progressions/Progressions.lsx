@@ -61,7 +61,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,6,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1)"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Rage_of_Halone"/>
                     <attribute id="PassivesAdded" type="LSString" value="Chivalry;Rage_of_Halone_Mastery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
