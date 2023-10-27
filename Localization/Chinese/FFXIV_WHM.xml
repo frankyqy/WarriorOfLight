@@ -63,6 +63,13 @@
 	<content contentuid="hf38cf641g4442g4334g9edbgebc68e6a9056" version="1">庇护所</content>
 	<content contentuid="h468ad4b3g11a3g416bg9afbg42328449b680" version="1">以指定地点为中心产生治疗区域。恢复进入该区域的队员的体力。</content>
 
+	<content contentuid="h2c80721cg0e50g469dgb93ag52e4d3357e0e" version="1">法令</content>
+	<content contentuid="h8e52c905g07e0g491fg98a8gab401714a065" version="1">对周围的敌人发动光耀属性范围魔法攻击。恢复自身及周围队员的体力。恢复一个一环法术位。</content>
+
+	<content contentuid="h0fd3adacgf983g4783gae00g596c511c6bee" version="1">无中生有</content>
+	<content contentuid="hc42111d8gee7fg473eg8dfcg6ee5dce643a2" version="1">下一次发动魔法不消耗法术位。</content>
+
+	<content contentuid="h07556dd4gcfffg45f2gb00eg79162b29c0d0" version="1">神名</content>
 
 
 </contentList>

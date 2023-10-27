@@ -147,6 +147,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Afflatus_Solace;Target_Asylum"/>
                     <attribute id="UUID" type="guid" value="55a50189-11c4-4c00-8467-2845fbe2289f"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_60"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Assize;Shout_Thin_Air;Target_Tetragrammaton"/>
+                    <attribute id="UUID" type="guid" value="5d9f2290-8cf7-4a02-91bd-cf5865824d0f"/>
+                </node>
             </children>
         </node>
     </region>
