@@ -90,8 +90,8 @@
 	<content contentuid="hb9217cd3g10adg4215ga526g08febe7192a5" version="1">Grants 3 stacks of Perfect Balance, each stack allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
 	<content contentuid="h84f668e8g330ag488dg886cgb5b81a09bdbb" version="1">Allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
 
-	<content contentuid="h2821d2aagafc2g403bgb89dg0b7b862389f5" version="1">Perfect Balance效果提高</content>
-	<content contentuid="hd47c5c51gf45bg4dccg9840g70db8b38d188" version="1">自身发动魔猿身形、盗龙身形、猛豹身形的战技时，获得对应的脉轮</content>
+	<content contentuid="h2821d2aagafc2g403bgb89dg0b7b862389f5" version="1">Enhanced Perfect Balance</content>
+	<content contentuid="hd47c5c51gf45bg4dccg9840g70db8b38d188" version="1">When under the effect of Perfect Balance, grants Beast Chakra in accordance with the form normally required to execute weaponskills.</content>
 
 
 	<content contentuid="h52909bd3gbbc7g4532ga1dag4060c69190c0" version="1">Steel Peak Mastery</content>
@@ -104,37 +104,33 @@
     <content contentuid="h3f19d96fg7502g4435g90f4ge409c0b4042c" version="1">Formless Fist</content>
 	<content contentuid="h2291e7cdg2d68g4676g85efgb80443c5912e" version="1">allowing the execution of a weaponskill that requires a certain form, without being in that form.</content>
 
-	<content contentuid="hfa813a78gb323g4c7fgb6d6ga0faad934893" version="1">苍气炮</content>
-	<content contentuid="h343d2ed6gc8aeg4920g8139g29a3ceaf46a5" version="1">对自身周围的敌人发动范围物理攻击</content>
+	<content contentuid="hfa813a78gb323g4c7fgb6d6ga0faad934893" version="1">Elixir Field</content>
 
+	<content contentuid="h7b665740g380ag4846ga9e8g998a180dbd53" version="1">Flint Strike</content>
 
-	<content contentuid="h7b665740g380ag4846ga9e8g998a180dbd53" version="1">爆裂脚</content>
-	<content contentuid="h82075918g181dg44d8g9cccg9a7a1fad27c3" version="1">对自身周围的敌人发动范围物理攻击</content>
+	<content contentuid="h3073fe95g52a9g4e94g8913g7c488e06fd18" version="1">Celestial Revolution</content>
 
-	<content contentuid="h3073fe95g52a9g4e94g8913g7c488e06fd18" version="1">翻天脚</content>
-	<content contentuid="h91b0d1e8g4708g4f7bg8fc4gcf032b62477d" version="1">对目标发动物理攻击</content>
+	<content contentuid="h59eaa3cbg4472g4391g912eg76d8c1f9ab89" version="1">Tornado Kick</content>
+	<content contentuid="h1458f11bg848fg416bga7e1ga1fb884e6f57" version="1">Delivers an attack to target and all enemies nearby it</content>
+	<content contentuid="h93ccb6d9g7ad1g45c7ga91cga6a3e9c7f34a" version="1">Lunar Nadi</content>
+	<content contentuid="h8a1cad75g10a7g46cfg846eg36cb32e71fc1" version="1">Solar Nadi</content>
 
-	<content contentuid="h59eaa3cbg4472g4391g912eg76d8c1f9ab89" version="1">斗魂旋风脚</content>
-	<content contentuid="h1458f11bg848fg416bga7e1ga1fb884e6f57" version="1">对目标及其周围敌人发动范围物理攻击</content>
-	<content contentuid="h93ccb6d9g7ad1g45c7ga91cga6a3e9c7f34a" version="1">太阴斗气</content>
-	<content contentuid="h8a1cad75g10a7g46cfg846eg36cb32e71fc1" version="1">太阳斗气</content>
+	<content contentuid="h66b12e77g3b30g42afg996cg7dbd5ba550e3" version="1">Chakra</content>
+	<content contentuid="hf07884c9g30abg4321gb6f2gf6028043f01b" version="1">Raptor Chakra</content>
+	<content contentuid="h254c953fg3a3ag41b2g9cb0g4c911bf0abbe" version="1">Coeurl Chakra</content>
+	<content contentuid="hf5fe831ag115dg4dd8g80deg9a06b477dc9a" version="1">Opo-opo Chakra</content>
 
-	<content contentuid="h66b12e77g3b30g42afg996cg7dbd5ba550e3" version="1">脉轮</content>
-	<content contentuid="hf07884c9g30abg4321gb6f2gf6028043f01b" version="1">盗龙脉轮</content>
-	<content contentuid="h254c953fg3a3ag41b2g9cb0g4c911bf0abbe" version="1">猛豹脉轮</content>
-	<content contentuid="hf5fe831ag115dg4dd8g80deg9a06b477dc9a" version="1">魔猿脉轮</content>
+	<content contentuid="hcab7f3a9gb205g4a7ag8246g5ea07276a618" version="1">Raptor&Coeurl Chakra</content>
+	<content contentuid="he6d5719ag3c10g4af0ga107ge152b2a49e46" version="1">Coeurl&Opo-opo Chakra</content>
+	<content contentuid="h1d8ac327ga3f8g4922g9e29g0dc2d7d91903" version="1">Opo-opo&Raptor Chakra</content>
 
-	<content contentuid="hcab7f3a9gb205g4a7ag8246g5ea07276a618" version="1">龙豹脉轮</content>
-	<content contentuid="he6d5719ag3c10g4af0ga107ge152b2a49e46" version="1">豹猿脉轮</content>
-	<content contentuid="h1d8ac327ga3f8g4922g9e29g0dc2d7d91903" version="1">猿龙脉轮</content>
+	<content contentuid="hf91f3793g62f1g4708gbfafg7f3bd5737dbd" version="1">Double Raptor Chakra</content>
+	<content contentuid="h44247faega7bag4e8bg89cfgd193c438e3a8" version="1">Double Coeurl Chakra</content>
+	<content contentuid="h6885b125gcc8fg46c9ga187g0daa71ceb89b" version="1">Double Opo-opo Chakra</content>
 
-	<content contentuid="hf91f3793g62f1g4708gbfafg7f3bd5737dbd" version="1">双龙脉轮</content>
-	<content contentuid="h44247faega7bag4e8bg89cfgd193c438e3a8" version="1">双豹脉轮</content>
-	<content contentuid="h6885b125gcc8fg46c9ga187g0daa71ceb89b" version="1">双猿脉轮</content>
-
-	<content contentuid="h8982239eg15beg474ega31egf740aa3f66e6" version="1">太阴脉轮</content>
-	<content contentuid="h795a8385g84d8g427bgbf58geddff0b36a30" version="1">阴阳脉轮</content>
-	<content contentuid="hcf08da3bg1b62g4a70g9f8dga17587870bce" version="1">太阳脉轮</content>
+	<content contentuid="h8982239eg15beg474ega31egf740aa3f66e6" version="1">Lunar Chakra</content>
+	<content contentuid="h795a8385g84d8g427bgbf58geddff0b36a30" version="1">Solar Chakra</content>
+	<content contentuid="hcf08da3bg1b62g4a70g9f8dga17587870bce" version="1">Lunar or Solar Chakra</content>
 
 	<content contentuid="hdff40e44g574bg4b9cgbe5fg255b8868649a" version="1">金刚极意</content>
 	<content contentuid="ha6ac16bcga97fg4ea3ga2f0g2357e07087ef" version="1">为自身附加状态：金刚极意。所受的伤害减轻。受到伤害后每回合恢复一定HP</content>
