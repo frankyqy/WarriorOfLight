@@ -62,8 +62,9 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Rage_of_Halone"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Divine_Veil;Clemency;Chivalry;Rage_of_Halone_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Chivalry;Rage_of_Halone_Mastery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(60a74396-2b45-472f-b538-b9ccce5af445,2,1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
                     <attribute id="UUID" type="guid" value="3e1fa587-8d98-4418-bd86-e6328939ec05"/>
                 </node>

@@ -59,26 +59,23 @@
 
 	<content contentuid="hc0c56028gf48ag4ef8g8180gbb8d75a3d8ed" version="1">Goring Blade</content>
 
-	<content contentuid="h34fe03b6gfca3g4f97ga376g0a0b84386e1d" version="1">深仁厚泽</content>
-	<content contentuid="hf7b9a1d1g83d9g4489gac28gba35abe46416" version="1">恢复目标的体力</content>
+	<content contentuid="h34fe03b6gfca3g4f97ga376g0a0b84386e1d" version="1">Clemency</content>
+	<content contentuid="hf7b9a1d1g83d9g4489gac28gba35abe46416" version="1">Restores target's HP.Restores to self 50% of HP restored to target if target is a party member.</content>
 
 	<content contentuid="h3587f122g04e5g4913g907cg355b051759f0" version="1">Hallowed Ground</content>
 	<content contentuid="h13923e9eg44eag47eag8b25g19cc146c6371" version="1">Renders you impervious to most attacks.</content>
 
-	<content contentuid="h6ba0595bg197dg4b27gb0d9gfd9ea0531040" version="1">骑士精神</content>
-	<content contentuid="h8e5ef310g774bg4d3dgb590g08513e5efc9d" version="1">暴乱剑与深奥之灵命中后获得额外的忠义值</content>
+	<content contentuid="h6ba0595bg197dg4b27gb0d9gfd9ea0531040" version="1">Chivalry</content>
+	<content contentuid="h8e5ef310g774bg4d3dgb590g08513e5efc9d" version="1">Restores SpellSlot when using Riot Blade or Spirits Within.</content>
 
-	<content contentuid="h5213ff97g19f5g4dd6g84e0g345825f175c9" version="1">圣光幕帘</content>
-	<content contentuid="hfd9ccb47g4d0cg4caag979ega76d7843efb9" version="1">为自身和周围的队友设置圣光的帷幕，提升最大生命值</content>
+	<content contentuid="h5213ff97g19f5g4dd6g84e0g345825f175c9" version="1">Divine Veil</content>
+	<content contentuid="hfd9ccb47g4d0cg4caag979ega76d7843efb9" version="1">Creates a barrier around self and all party members near you that absorbs damage equivalent to 20% of their maximum HP.</content>
+	<content contentuid="h245de099g0da9g445cg91bbg122cbc9402f2" version="1">absorbs damage equivalent to 20% of their maximum HP.</content>
 
-	<content contentuid="h12b6763agd7a5g4ce9ga209gf636354bbbb4" version="1">防护罩</content>
-	<content contentuid="h245de099g0da9g445cg91bbg122cbc9402f2" version="1">提升最大生命值</content>
+	<content contentuid="h69c03cf8g9cecg4756g9734gc4a1bd575267" version="1">Rage of Halone Mastery</content>
+	<content contentuid="hfc872e96gcf39g41bcga0ddg512fa88d568d" version="1">Upgrades Rage of Halone to Royal Authority.</content>
 
-	<content contentuid="h69c03cf8g9cecg4756g9734gc4a1bd575267" version="1">战女神之怒精通</content>
-	<content contentuid="hfc872e96gcf39g41bcga0ddg512fa88d568d" version="1">你的剑术大成，你学会了战女神之怒的进阶招式王权剑</content>
-
-	<content contentuid="h8eb3505cgf7fbg4ac2g94b9gc294417755a7" version="1">王权剑</content>
-	<content contentuid="h88c56b27g94afg4398g8a81ge991226fa1de" version="1">对目标发动物理攻击。</content>
+	<content contentuid="h8eb3505cgf7fbg4ac2g94b9gc294417755a7" version="1">Royal Authority</content>
 
 	<content contentuid="h1143737cgf51cg4562ga73bg0636ba582cea" version="1">神圣魔法精通</content>
 	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">你的剑术与神圣魔法融汇贯通，在施展王权剑后获得神圣魔法精通效果，可以提高圣灵和圣环的伤害</content>

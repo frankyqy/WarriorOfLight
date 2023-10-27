@@ -31,6 +31,12 @@
                     <attribute id="UUID" type="guid" value="0412662b-e665-4bff-a95c-93f5006cd1d7"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_60"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Divine_Veil;Target_Clemency"/>
+                    <attribute id="UUID" type="guid" value="60a74396-2b45-472f-b538-b9ccce5af445"/>
+                </node>
+
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_65"/>
                     <attribute id="Spells" type="LSString" value="Target_Intervention;Target_Holy_Spirit"/>
                     <attribute id="UUID" type="guid" value="57abd596-8508-44b6-86aa-0bbac8a4cd60"/>
