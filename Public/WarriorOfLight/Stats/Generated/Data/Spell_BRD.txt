@@ -455,7 +455,6 @@ data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_BRD_Target)*2, MainRang
 data "TooltipStatusApply" ""
 data "CastSound" "Spell_Cast_Damage_DistractingStrikeRanged_LTBD"
 data "CastTextEvent" "Cast"
-data "HitCosts" "SuperiorityDie:1"
 data "SpellAnimation" "73afb4e5-8cfe-4479-95cf-16889597fee3,,;9583ecee-cf6c-4735-86db-7ebf1df15eae,,;de006e3f-70fb-4eb7-a98d-d845d15b20e8,,;50696db7-d931-4734-915d-32d038ba99a5,,;6ec808e1-e128-44ef-9361-a713bf86de8f,,;,,;f920a0a6-f257-4ce4-8d17-2dcaa7bb7bbb,,;,,;,,"
 data "DualWieldingSpellAnimation" "73afb4e5-8cfe-4479-95cf-16889597fee3,,;45bcbbd4-f9ca-4b19-88c2-822c5e2b0d8b,,;466e7470-712f-4a67-8ef1-5908a20b0449,,;c1713221-163b-4bae-95de-e6681d665c76,,;6ec808e1-e128-44ef-9361-a713bf86de8f,,;,,;f920a0a6-f257-4ce4-8d17-2dcaa7bb7bbb,,;,,;,,"
 data "VerbalIntent" "Damage"
