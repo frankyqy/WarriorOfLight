@@ -73,5 +73,9 @@
 
 	<content contentuid="h3897ecb6g504ag49f4gb00dg697fb2219896" version="1">Empyreal Arrow</content>
 
+	<content contentuid="h7b60e84fgb456g4bffga50cgb4367064005b" version="1">Iron Jaws</content>
+	<content contentuid="hde25358bg1ac6g4392gbb95g15fd4157f1d7" version="1">Delivers an attack. If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset.35% chance of becoming Straight Shot Ready</content>
+
+	<content contentuid="h287f6037gd1f0g4d4cgaa8bgf161dd2b0f8b" version="1">Sidewinder</content>
 
 </contentList>

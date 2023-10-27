@@ -115,6 +115,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_the_Wanderer_Minuet;Projectile_Empyreal_Arrow"/>
                     <attribute id="UUID" type="guid" value="6005456a-2f5b-47dc-907b-e300f2d422fc"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_60"/>
+                    <attribute id="Spells" type="LSString" value="Target_Iron_Jaws;Projectile_Sidewinder"/>
+                    <attribute id="UUID" type="guid" value="dc801c11-d11d-4cc4-9ce7-dd8aa4851111"/>
+                </node>
 
 
                 <node id="SpellList">
