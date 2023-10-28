@@ -111,7 +111,7 @@ data "DisplayName" "h2821d2aagafc2g403bgb89dg0b7b862389f5"
 data "Description" "hd47c5c51gf45bg4dccg9840g70db8b38d188"
 data "Icon" "ICON_MNK_Enhanced_Perfect_Balance"
 data "Conditions" "SpellId('Target_Bootshine_PB') or SpellId('Target_Dragon_Kick_PB') or SpellId('Shout_Arm_of_the_Destroyer_PB') or SpellId('Target_True_Strike_PB') or SpellId('Target_Twin_Snakes_PB') or SpellId('Shout_Four-point_Fury_PB') or SpellId('Target_Snap_Punch_PB') or SpellId('Target_Demolish_PB') or SpellId('Shout_Rockbreaker_PB')"
-data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance);IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):ApplyStatus(BOOST_Formless_Fist,100,5)"
+data "StatsFunctors" "IF(not HasActionResource('Perfect_Balance_Gauge',1,0,false)):RemoveStatus(BOOST_Perfect_Balance)"
 data "StatsFunctorContext" "OnCast"
 
 
