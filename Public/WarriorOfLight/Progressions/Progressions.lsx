@@ -477,6 +477,8 @@
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery_2"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Stone_Mastery_3"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="2d6c009c-7029-49f0-a9f8-66a0165fe48a"/>
                 </node>

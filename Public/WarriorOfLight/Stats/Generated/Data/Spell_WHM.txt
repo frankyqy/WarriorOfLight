@@ -47,6 +47,19 @@ data "SpellFail" "DealDamage(4d6/2,Bludgeoning,Magical)"
 data "TooltipDamageList" "DealDamage(3d6,Bludgeoning,Magical)"
 
 
+new entry "Target_Stone_4"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Stone"
+data "Icon" "ICON_WHM_Stone_3"
+data "DisplayName" "he73ac34fg0749g4ff4ga345gdd596ef46e0f;1"
+data "SpellSuccess" "DealDamage(5d8,Bludgeoning,Magical)"
+data "SpellFail" "DealDamage(5d8/2,Bludgeoning,Magical)"
+data "TooltipDamageList" "DealDamage(5d8,Bludgeoning,Magical)"
+
+
+
+
 new entry "Target_Cure"
 type "SpellData"
 data "SpellType" "Target"
