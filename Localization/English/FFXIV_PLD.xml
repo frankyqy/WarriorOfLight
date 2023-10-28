@@ -77,18 +77,18 @@
 
 	<content contentuid="h8eb3505cgf7fbg4ac2g94b9gc294417755a7" version="1">Royal Authority</content>
 
-	<content contentuid="h1143737cgf51cg4562ga73bg0636ba582cea" version="1">神圣魔法精通</content>
-	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">你的剑术与神圣魔法融汇贯通，在施展王权剑后获得神圣魔法精通效果，可以提高圣灵和圣环的伤害</content>
-	<content contentuid="h006d04a5gfad2g462fgbfb2ga24e7312b642" version="1">提高圣灵和圣环的伤害</content>
+	<content contentuid="h1143737cgf51cg4562ga73bg0636ba582cea" version="1">Divine Magic Mastery</content>
+	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">Royal Authority combo Grants Divine Might Divine Might Effect: Allows next Holy Spirit or Holy Circle to be increased. </content>
+	<content contentuid="h006d04a5gfad2g462fgbfb2ga24e7312b642" version="1">Allows next Holy Spirit or Holy Circle to be increased. </content>
 
 	<content contentuid="h24e5b74dg047cg4170g915dg1c633341d3dd" version="1">神圣魔法精通II</content>
 	<content contentuid="h0f7420e9gecf0g4ea7ga232g446d5e4077f6" version="1">圣灵、圣环、悔罪可恢复体力</content>
 
-	<content contentuid="h03e3a217g3865g49a8g909ag38f1f6e659e3" version="1">干预</content>
-	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">指定一名队员，令其护甲上升，受到的伤害减少</content>
+	<content contentuid="h03e3a217g3865g49a8g909ag38f1f6e659e3" version="1">Intervention</content>
+	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">Reduces target party member's damage.Increases damage reduction if Rampart or Sentinel are active</content>
 
-	<content contentuid="h00ac4d3ag7434g4afcgbd22g807b33805ccf" version="1">圣灵</content>
-	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">对目标发动光耀属性魔法攻击</content>
+	<content contentuid="h00ac4d3ag7434g4afcgbd22g807b33805ccf" version="1">Holy Spirit</content>
+	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">Deals Radiant damage.</content>
 
 	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">圣环</content>
 	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">对自身周围的敌人发动光耀属性范围魔法攻击</content>
