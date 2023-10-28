@@ -7,7 +7,7 @@ data "Properties" "Highlighted;ForceShowInCC"
 data "Boosts" "UnlockSpell(Projectile_Heavy_Shot)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "(SpellId('Projectile_Heavy_Shot') | SpellId('Target_Iron_Jaws')) and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
+data "StatsFunctors" "IF(SpellId('Target_Iron_Jaws') and RollDieAgainstDC(DiceType.d20, 13)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5);IF(SpellId('Projectile_Heavy_Shot') and RollDieAgainstDC(DiceType.d20, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
 
 new entry "Bloodletter"
 type "PassiveData"
