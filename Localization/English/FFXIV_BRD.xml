@@ -78,4 +78,12 @@
 
 	<content contentuid="h287f6037gd1f0g4d4cgaa8bgf161dd2b0f8b" version="1">Sidewinder</content>
 
+	<content contentuid="h2df093f2g24cfg4d51gb21eg7e4b88cdc2c8" version="1">Bite Mastery</content>
+	<content contentuid="hf4aa4dd7g9b10g417ega4f1g97eb7405b545" version="1">Venomous Bite and Windbite are upgraded to Caustic Bite and Stormbite respectively.</content>
+	<content contentuid="h3f496545g7917g44a6g8fdbga0fd3e048c19" version="1">Caustic Bite</content>
+	<content contentuid="h2b95b5d1ga706g43e9gb752g5f6a0cc883e0" version="1">Stormbite</content>
+
+	<content contentuid="h9e18e552g552bg449fgbbfcga054e3a971a9" version="1">Troubadour</content>
+	<content contentuid="h96a567ceg6727g4cbcg8bc1g7c983f24e56b" version="1">Reduces damage taken by self and nearby party members </content>
+
 </contentList>

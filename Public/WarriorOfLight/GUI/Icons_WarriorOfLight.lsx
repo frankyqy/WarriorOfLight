@@ -1202,49 +1202,49 @@
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Bite_Mastery"/>
                     <attribute id="U1" type="float" value="0.34375"/>
                     <attribute id="U2" type="float" value="0.375"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Caustic_Bite"/>
                     <attribute id="U1" type="float" value="0.375"/>
                     <attribute id="U2" type="float" value="0.40625"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Stormbite"/>
                     <attribute id="U1" type="float" value="0.40625"/>
                     <attribute id="U2" type="float" value="0.4375"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Caustic"/>
                     <attribute id="U1" type="float" value="0.4375"/>
                     <attribute id="U2" type="float" value="0.46875"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Stormbite_s"/>
                     <attribute id="U1" type="float" value="0.46875"/>
                     <attribute id="U2" type="float" value="0.5"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_PLD_Troubadour"/>
                     <attribute id="U1" type="float" value="0.5"/>
                     <attribute id="U2" type="float" value="0.53125"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_PLD_Troubadour_s"/>
                     <attribute id="U1" type="float" value="0.53125"/>
                     <attribute id="U2" type="float" value="0.5625"/>
                     <attribute id="V1" type="float" value="0.15625"/>

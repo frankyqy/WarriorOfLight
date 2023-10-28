@@ -120,6 +120,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Iron_Jaws;Projectile_Sidewinder"/>
                     <attribute id="UUID" type="guid" value="dc801c11-d11d-4cc4-9ce7-dd8aa4851111"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_65"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Troubadour"/>
+                    <attribute id="UUID" type="guid" value="b57230cb-3358-4cbd-bca9-2e606c76f8d1"/>
+                </node>
 
 
                 <node id="SpellList">

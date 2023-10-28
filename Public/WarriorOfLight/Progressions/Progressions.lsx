@@ -336,7 +336,9 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Bite_Mastery"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Venomous_Bite;Windbite"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b57230cb-3358-4cbd-bca9-2e606c76f8d1,2,1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="7781ee51-d8af-41c4-be60-ed519eac28bd"/>
                 </node>
