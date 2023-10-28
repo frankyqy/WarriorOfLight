@@ -26,6 +26,10 @@ data "Description" "h2097e75bge2c7g4a97g9416g1fa7eac3f273"
 data "Icon" "ICON_BRD_Venomous_Bite"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Venomous_Bite)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasStatus('BOOST_Venom',context.Target) and SpellId('Target_Iron_Jaws')"
+data "StatsFunctors" "ApplyStatus(BOOST_Venom,100,8)"
+
 
 new entry "Windbite"
 type "PassiveData"
@@ -34,6 +38,10 @@ data "Description" "hbe5dd4aag8fb5g4cd4g8eafgf9bde0a40f90"
 data "Icon" "ICON_BRD_Windbite"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Windbite)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasStatus('BOOST_Windbite',context.Target) and SpellId('Target_Iron_Jaws')"
+data "StatsFunctors" "ApplyStatus(BOOST_Windbite,100,8)"
+
 
 new entry "Quick_Nock"
 type "PassiveData"
@@ -100,4 +108,19 @@ data "Icon" "ICON_BRD_Barrage"
 data "EnabledConditions" "HasStatus('BOOST_Barrage', context.Source)"
 data "EnabledContext" "OnCastResolved"
 data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') ,ModifyNumberOfTargets(AdditiveBase,2,true))"
+
+new entry "Iron_Jaws_Venom"
+type "PassiveData"
+data "DisplayName" "h7b60e84fgb456g4bffga50cgb4367064005b;1"
+data "Description" "hde25358bg1ac6g4392gbb95g15fd4157f1d7;2"
+data "Icon" "ICON_BRD_Iron_Jaws"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "SpellId('Target_Iron_Jaws')"
+data "StatsFunctors" "ApplyStatus(SELF,BOOST_Venom,100,8)"
+
+new entry "Iron_Jaws_Windbite"
+type "PassiveData"
+using "Iron_Jaws_Windbite"
+data "StatsFunctors" "ApplyStatus(SELF,BOOST_Windbite,100,8)"
+
 
