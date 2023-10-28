@@ -139,7 +139,7 @@
 
                 <node id="Progression"> FFXIV_MNK LV1
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(MediumArmor);Proficiency(LightArmor);ActionResource(Spiteful_Spirit_Gauge,5,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="FFXIV_MNK"/>
                     <attribute id="PassivesAdded" type="LSString" value="Greased_Lightning;Steel_Peak"/>
