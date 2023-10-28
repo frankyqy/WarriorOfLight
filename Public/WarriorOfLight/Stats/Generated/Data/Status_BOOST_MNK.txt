@@ -264,7 +264,7 @@ data "StackId" "BOOST_Riddle_of_Earth"
 data "DisplayName" "hdff40e44g574bg4b9cgbe5fg255b8868649a;1"
 data "Description" "h3dfb2157g1d58g4291g896fgc1d04df94063;1"
 data "Icon" "ICON_MNK_Riddle_of_Earth_s"
-data "Boosts" "DamageReduction(All,Flat,2d10+9)"
+data "Boosts" "DamageReduction(All,Flat,2d10)"
 data "RemoveEvents" "OnDamage"
 data "OnRemoveFunctors" "ApplyStatus(BOOST_Earth_Reply,100,3);"
 
