@@ -89,11 +89,13 @@
 	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">Reduces target party member's damage.Increases damage reduction if Rampart or Sentinel are active</content>
 
 	<content contentuid="h00ac4d3ag7434g4afcgbd22g807b33805ccf" version="1">Holy Spirit</content>
-	<content contentuid="h40f30522g41edg4766gbb10gb37f035aa3af" version="1">Holy Spirit（Divine）</content>
-	<content contentuid="h4c2c089eg93f8g4481ga970g0922d4dc02b4" version="1">Holy Spirit（Requiescat）</content>
+	<content contentuid="h40f30522g41edg4766gbb10gb37f035aa3af" version="1">Holy Spirit(Divine)</content>
+	<content contentuid="h4c2c089eg93f8g4481ga970g0922d4dc02b4" version="1">Holy Spirit(Requiescat)</content>
 	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">Deals Radiant damage.</content>
 
 	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">Holy Circle</content>
+	<content contentuid="hb5e0b8e7gfc8fg474ag88dbg8d30604c414a" version="1">Holy Circle(Divine)</content>
+	<content contentuid="h4941205eg8a73g4220g8efegf5fb000505b8" version="1">Holy Circle(Requiescat)</content>
 	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">Deals Radiant damage to all nearby enemies.</content>
 
 	<content contentuid="h76d1a974g18c6g43d8g95a8g0e7424a0dfa7" version="1">Requiescat</content>
