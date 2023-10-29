@@ -348,7 +348,7 @@
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Empyreal_Arrow;Straight_Shot_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Empyreal_Arrow_Mage_Ballad;Enhanced_Empyreal_Arrow_Army_Paeon;Enhanced_Empyreal_Arrow_the_Wanderer_Minuet;Straight_Shot_Mastery"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(d0f5ea03-1bfe-40d5-b395-6b520b24c4d0,2,1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="95fbcb61-665d-427d-89d4-98518bbc8c2a"/>

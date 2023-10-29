@@ -107,16 +107,6 @@ data "EnabledConditions" "HasStatus('BOOST_Barrage', context.Source)"
 data "EnabledContext" "OnCastResolved"
 data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') ,ModifyNumberOfTargets(AdditiveBase,2,true))"
 
-new entry "Iron_Jaws_Venom"
-type "PassiveData"
-data "DisplayName" "h7b60e84fgb456g4bffga50cgb4367064005b;1"
-data "Description" "hde25358bg1ac6g4392gbb95g15fd4157f1d7;2"
-data "Icon" "ICON_BRD_Iron_Jaws"
-data "StatsFunctorContext" "OnDamage"
-data "Conditions" "SpellId('Target_Iron_Jaws')"
-data "StatsFunctors" "ApplyStatus(SELF,BOOST_Venom,100,8)"
-
-
 
 new entry "Bite_Mastery"
 type "PassiveData"
@@ -130,15 +120,31 @@ data "Conditions" "(HasStatus('BOOST_Stormbite',context.Target) | HasStatus('BOO
 data "StatsFunctors" "IF(HasStatus('BOOST_Stormbite',context.Target)):ApplyStatus(BOOST_Stormbite,100,9);IF(HasStatus('BOOST_Caustic',context.Target)):ApplyStatus(BOOST_Caustic,100,9)"
 
 
-new entry "Enhanced_Empyreal_Arrow"
+new entry "Enhanced_Empyreal_Arrow_Mage_Ballad"
 type "PassiveData"
 data "DisplayName" "h67646cd3g21e6g4672gb93ag3b2de12fad45"
 data "Description" "h6ebc7834g2dccg411dg8cedg5073b7844cb3"
 data "Icon" "ICON_BRD_Enhanced_Empyreal_Arrow"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Projectile_Empyreal_Arrow')"
-data "StatsFunctors" "IF(HasStatus('BOOST_Mage_Ballad', context.Source)):RestoreResource(SELF,Bloodletter_Gauge,1,0);IF(HasStatus('BOOST_Army_Paeon', context.Source) and not HasStatus('BOOST_Army_Paeon_R', context.Source) and not HasStatus('BOOST_Army_Paeon_R_2', context.Source) and not HasStatus('BOOST_Army_Paeon_R_3', context.Source) and not HasStatus('BOOST_Army_Paeon_R_4', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R,100,-1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_2, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_2', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_3, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_3', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_4, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
+data "Conditions" "SpellId('Projectile_Empyreal_Arrow') and HasStatus('BOOST_Mage_Ballad', context.Source)"
+data "StatsFunctors" "RestoreResource(SELF,Bloodletter_Gauge,1,0);IF(HasStatus('BOOST_Army_Paeon', context.Source) and not HasStatus('BOOST_Army_Paeon_R', context.Source) and not HasStatus('BOOST_Army_Paeon_R_2', context.Source) and not HasStatus('BOOST_Army_Paeon_R_3', context.Source) and not HasStatus('BOOST_Army_Paeon_R_4', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R,100,-1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_2, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_2', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_3, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_3', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_4, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
+
+
+new entry "Enhanced_Empyreal_Arrow_Army_Paeon"
+type "PassiveData"
+using "Enhanced_Empyreal_Arrow"
+data "Properties" "IsHidden"
+data "Conditions" "SpellId('Projectile_Empyreal_Arrow') and HasStatus('BOOST_Army_Paeon', context.Source)"
+data "StatsFunctors" "IF(not HasStatus('BOOST_Army_Paeon_R', context.Source) and not HasStatus('BOOST_Army_Paeon_R_2', context.Source) and not HasStatus('BOOST_Army_Paeon_R_3', context.Source) and not HasStatus('BOOST_Army_Paeon_R_4', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R,100,-1);IF(HasStatus('BOOST_Army_Paeon_R', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_2, 100, -1);IF(HasStatus('BOOST_Army_Paeon_R_2', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_3, 100, -1);IF(HasStatus('BOOST_Army_Paeon_R_3', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_4, 100, -1)"
+
+new entry "Enhanced_Empyreal_Arrow_the_Wanderer_Minuet"
+type "PassiveData"
+using "Enhanced_Empyreal_Arrow"
+data "Properties" "IsHidden"
+data "Conditions" "SpellId('Projectile_Empyreal_Arrow') and HasStatus('BOOST_the_Wanderer_Minuet', context.Source)"
+data "StatsFunctors" "IF(not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
+
 
 new entry "Straight_Shot_Mastery"
 type "PassiveData"
