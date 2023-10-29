@@ -198,3 +198,7 @@ data "StatusType" "BOOST"
 using "BOOST_Blood_Lily"
 data "Icon" "ICON_WHM_Blood_Lily_3"
 data "Boosts" "UnlockSpell(Target_Afflatus_Misery)"
+data "RemoveEvents" "OnSpellCast"
+data "RemoveConditions" "SpellId('Target_Afflatus_Misery')"
+
+
