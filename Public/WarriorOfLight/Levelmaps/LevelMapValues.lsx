@@ -228,6 +228,24 @@
                     <attribute id="UUID" type="guid" value="b43d5d3c-37b8-47e8-9034-1f5d750f3e72"/>
                 </node>
                 <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="5d6"/>
+                    <attribute id="Level1" type="LSString" value="5d6"/>
+                    <attribute id="Level2" type="LSString" value="5d6"/>
+                    <attribute id="Level3" type="LSString" value="5d8"/>
+                    <attribute id="Level4" type="LSString" value="5d8"/>
+                    <attribute id="Level5" type="LSString" value="5d10"/>
+                    <attribute id="Level6" type="LSString" value="5d10"/>
+                    <attribute id="Level7" type="LSString" value="5d12"/>
+                    <attribute id="Level8" type="LSString" value="5d12"/>
+                    <attribute id="Level9" type="LSString" value="6d12"/>
+                    <attribute id="Level10" type="LSString" value="6d12"/>
+                    <attribute id="Level11" type="LSString" value="7d12"/>
+                    <attribute id="Level12" type="LSString" value="7d12"/>
+                    <attribute id="Name" type="FixedString" value="FFXIV_BRD_Target3"/>
+                    <attribute id="UUID" type="guid" value="1273a2f8-9ed3-4903-a02c-c8c16d505bc9"/>
+                </node>
+
+                <node id="LevelMapSeries">
                     <attribute id="FallbackValue" type="LSString" value="2d4"/>
                     <attribute id="Level1" type="LSString" value="2d4"/>
                     <attribute id="Level2" type="LSString" value="2d4"/>

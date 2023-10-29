@@ -9,6 +9,7 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "(SpellId('Projectile_Heavy_Shot') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Caustic_Bite') | SpellId('Projectile_Stormbite')) and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "IF(SpellId('Target_Iron_Jaws') and RollDieAgainstDC(DiceType.d20, 13)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5);IF((SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Caustic_Bite') | SpellId('Projectile_Stormbite')) and RollDieAgainstDC(DiceType.d20, 16)):ApplyStatus(SELF, BOOST_Straight_Shot_Ready, 100, 5)"
 
+
 new entry "Bloodletter"
 type "PassiveData"
 data "DisplayName" "h3d097203g4969g48dega5a9g385b461fd293"
@@ -93,7 +94,6 @@ data "Description" "hb400f011ga23fg4991g894agd83883f021c3"
 data "Icon" "ICON_BRD_the_Wanderer_Minuet"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') | SpellId('Zone_Quick_Nock') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Sidewinder')"
-data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R, 100, -1)"
 data "StatsFunctors" "IF(not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
 
 
@@ -130,3 +130,28 @@ data "Conditions" "(HasStatus('BOOST_Stormbite',context.Target) | HasStatus('BOO
 data "StatsFunctors" "IF(HasStatus('BOOST_Stormbite',context.Target)):ApplyStatus(BOOST_Stormbite,100,9);IF(HasStatus('BOOST_Caustic',context.Target)):ApplyStatus(BOOST_Caustic,100,9)"
 
 
+new entry "Enhanced_Empyreal_Arrow"
+type "PassiveData"
+data "DisplayName" "h67646cd3g21e6g4672gb93ag3b2de12fad45"
+data "Description" "h6ebc7834g2dccg411dg8cedg5073b7844cb3"
+data "Icon" "ICON_BRD_Enhanced_Empyreal_Arrow"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Projectile_Empyreal_Arrow')"
+data "StatsFunctors" "IF(HasStatus('BOOST_Mage_Ballad', context.Source)):RestoreResource(SELF,Bloodletter_Gauge,1,0);IF(HasStatus('BOOST_Army_Paeon', context.Source) and not HasStatus('BOOST_Army_Paeon_R', context.Source) and not HasStatus('BOOST_Army_Paeon_R_2', context.Source) and not HasStatus('BOOST_Army_Paeon_R_3', context.Source) and not HasStatus('BOOST_Army_Paeon_R_4', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R,100,-1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_2, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_2', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_3, 100, -1);IF(HasStatus('BOOST_Army_Paeon', context.Source) and HasStatus('BOOST_Army_Paeon_R_3', context.Source)):ApplyStatus(SELF, BOOST_Army_Paeon_R_4, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet', context.Source) and HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
+
+new entry "Straight_Shot_Mastery"
+type "PassiveData"
+data "DisplayName" "hbf63d3cbgce0fg4fafgb1f4gfa13019492a3"
+data "Description" "he13ac0efg3bfbg4b7agbec6gcff44710077c"
+data "Icon" "ICON_BRD_Straight_Shot_Mastery"
+data "Properties" "Highlighted;ForceShowInCC"
+
+new entry "Nature_Minne"
+type "PassiveData"
+data "DisplayName" "h7603b707g0096g4ad9g9cf6gfbf5e50641cb"
+data "Description" "h27956729g5ef4g4735g9859gdbe458ec85bb"
+data "Icon" "ICON_BRD_Nature_Minne"
+data "StatsFunctorContext" "OnHealed"
+data "StatsFunctors" "RegainHitPoints(1d8)"
+data "Properties" "IsHidden"
