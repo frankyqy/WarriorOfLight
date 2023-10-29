@@ -85,7 +85,7 @@
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Requiescat;Passage_of_Arms"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8d1456d1-eeca-4dec-813a-efd7af28bba8,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
                     <attribute id="UUID" type="guid" value="e63a53c7-ab6b-4573-a5cd-d7218799d19b"/>
                 </node>

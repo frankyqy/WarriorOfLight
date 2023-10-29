@@ -41,6 +41,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Intervention;Target_Holy_Spirit"/>
                     <attribute id="UUID" type="guid" value="57abd596-8508-44b6-86aa-0bbac8a4cd60"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="PLD_Lv_70"/>
+                    <attribute id="Spells" type="LSString" value="Target_Requiescat;Shout_Passage_of_Arms"/>
+                    <attribute id="UUID" type="guid" value="8d1456d1-eeca-4dec-813a-efd7af28bba8"/>
+                </node>
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="PLD_Lv_75"/>

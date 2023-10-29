@@ -111,24 +111,6 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "(SpellId('Target_Royal_Authority')) and HasDamageEffectFlag(DamageFlags.Hit)"
 data "StatsFunctors" "ApplyStatus(SELF,BOOST_Divine_Magic_Mastery,100,5)"
 
-new entry "Requiescat"
-type "PassiveData"
-data "DisplayName" "h76d1a974g18c6g43d8g95a8g0e7424a0dfa7"
-data "Description" "he8cfb534g038bg4ae1ga275g49e41c03936b"
-data "Icon" "ICON_PLD_Requiescat"
-data "Boosts" "UnlockSpell(Target_Requiescat)"
-data "StatsFunctorContext" "OnActionResourcesChanged"
-data "Conditions" "not HasActionResource('Requiescat_Gauge',1,0,false,false,context.Source)"
-data "StatsFunctors" "RemoveStatus(BOOST_Requiescat)"
-
-
-
-new entry "Passage_of_Arms"
-type "PassiveData"
-data "DisplayName" "hb03ecca7ge635g44a6gba26ga81777f740ad"
-data "Description" "hc9461d31gc253g4a96gbc10g870b26ee6a22"
-data "Icon" "ICON_PLD_Passage_of_Arms"
-data "Boosts" "UnlockSpell(Shout_Passage_of_Arms)"
 
 new entry "Enhanced_Prominence"
 type "PassiveData"
