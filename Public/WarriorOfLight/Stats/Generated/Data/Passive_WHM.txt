@@ -28,8 +28,8 @@ new entry "Stone_Mastery_3"
 type "PassiveData"
 data "DisplayName" "h88fbd5a1g7575g4152g8b53g56ff329536e7"
 data "Description" "he32ac138g3a05g4afdga59ag3b6d5346ad1f"
-data "Icon" "ICON_WHM_Stone_Mastery_2"
-data "Boosts" "UnlockSpell(Target_Stone_3)"
+data "Icon" "ICON_WHM_Stone_Mastery_3"
+data "Boosts" "UnlockSpell(Target_Stone_4)"
 data "Properties" "Highlighted"
 
 
