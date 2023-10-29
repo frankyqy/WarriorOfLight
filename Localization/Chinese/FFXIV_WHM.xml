@@ -19,6 +19,10 @@
 	<content contentuid="he32ac138g3a05g4afdga59ag3b6d5346ad1f" version="1">垒石变为崩石</content>
 	<content contentuid="he73ac34fg0749g4ff4ga345gdd596ef46e0f" version="1">崩石</content>
 
+	<content contentuid="h6523e8c3g74d4g485agaeb7gd13904b42c51" version="1">飞石精通IV</content>
+	<content contentuid="h989ef69cgbb34g438cgb905g19932dc538bf" version="1">崩石变为闪耀</content>
+	<content contentuid="h502a7fd5g378fg4c92gbab4gd0598a2e39b8" version="1">闪耀</content>
+
 	<content contentuid="hc132311fg5be1g4b12ga4c1gb737a77c2497" version="1">治疗</content>
 	<content contentuid="h82f86fe9gb215g415egb0a3g8cc534550023" version="1">恢复目标的HP。</content>
 	<content contentuid="h3c35b533g0f7cg45cdgb226gbf22bf98c8a9" version="1">救疗</content>
@@ -27,6 +31,9 @@
 	<content contentuid="hff516fa8gaa99g4456ga4b8g17d1dba855ed" version="1">疾风精通</content>
 	<content contentuid="hf36a4d6cgb16ag49e5g9869gf81ad52fa889" version="1">疾风变为烈风</content>
 	<content contentuid="ha79bb557gd9f6g456dg87f3gc356a73a550b" version="1">烈风</content>
+	<content contentuid="h9ae35e11g4603g4085g9eb8g885dad97cfdc" version="1">疾风精通II</content>
+	<content contentuid="h06312b8bg0dc3g4024ga149g463ae5470504" version="1">疾风变为天辉</content>
+	<content contentuid="h023e3a68g7d83g4696gb62fg6f7d7bbf0d0b" version="1">天辉</content>
 	<content contentuid="hea9bf9e2g6591g4906g9316g158c8b3b4dab" version="1">对目标发动雷鸣魔法攻击。</content>
 	<content contentuid="h9f9c28fage0b1g4d84gbc32g5c4d76732629" version="1">每回合受到[1]伤害</content>
 
@@ -64,6 +71,11 @@
 	<content contentuid="h65aa7bb6g0337g4d8agbef2g16699eed15ec" version="1">治疗百合</content>
 	<content contentuid="h41dae3e5gc3b9g41f0g849egf5f096b5a138" version="1">安慰之心</content>
 
+	<content contentuid="h4ec0d6b1g102eg48b2g85e3gf5672c2739e5" version="1">血百合</content>
+
+	<content contentuid="he497dbd0g2ff2g4800ga441g71d37f12a5dc" version="1">苦难之心</content>
+	<content contentuid="h178059afgfad0g426fg9b21gde84e237ae04" version="1">对目标及其周围的敌人发动光耀属性范围魔法攻击</content>
+
 	<content contentuid="hf38cf641g4442g4334g9edbgebc68e6a9056" version="1">庇护所</content>
 	<content contentuid="h468ad4b3g11a3g416bg9afbg42328449b680" version="1">以指定地点为中心产生治疗区域。恢复进入该区域的队员的体力。</content>
 
@@ -81,6 +93,9 @@
 
 	<content contentuid="h7067922egdfd0g4d28gb8d6g563e55f80d78" version="1">全大赦</content>
 	<content contentuid="h17c46d1cg5eb5g4e08gb427gb735faa55562" version="1">为自身与周围队员附加全大赦状态。在状态中使用医治、愈疗、医济、狂喜之心，会使目标产生额外的恢复效果</content>
+
+	<content contentuid="h5a471ec4g5c7fg471aga4cdg041cfb419dd0" version="1">安慰之心效果提高</content>
+	<content contentuid="h961a6f3fgb98bg4590g8fa3g3bfd5b079e31" version="1">安慰之心对自身附加血百合状态</content>
 
 
 </contentList>

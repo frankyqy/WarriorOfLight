@@ -498,9 +498,9 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="Aero_Mastery"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Aero_Mastery_2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Aero_Mastery;Stone_Mastery_3"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Aero_Mastery_2;Stone_Mastery_4;Transcendent_Afflatus"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="6da72f3d-11c7-473c-8e42-0ed03726af39"/>
                 </node>

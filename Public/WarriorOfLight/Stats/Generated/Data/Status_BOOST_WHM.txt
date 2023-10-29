@@ -20,6 +20,17 @@ data "StackId" "BOOST_Aero"
 data "TickFunctors" "DealDamage(2d6, Thunder)"
 
 
+new entry "BOOST_Dia"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BOOST_Aero"
+data "DisplayName" "h023e3a68g7d83g4696gb62fg6f7d7bbf0d0b;1"
+data "DescriptionParams" "DealDamage(3d6, Radiant)"
+data "Icon" "ICON_WHM_Dia_s"
+data "StackId" "BOOST_Aero"
+data "TickFunctors" "DealDamage(3d6, Radiant)"
+
+
 new entry "BOOST_Presence_of_Mind"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -164,3 +175,26 @@ data "Description" "h17c46d1cg5eb5g4e08gb427gb735faa55562;3"
 data "Icon" "ICON_WHM_Plenary_Indulgence_s"
 data "StackId" "BOOST_Plenary_Indulgence"
 data "Passives" "Plenary_Indulgence"
+
+
+new entry "BOOST_Blood_Lily"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h4ec0d6b1g102eg48b2g85e3gf5672c2739e5;2"
+data "Description" "h4ec0d6b1g102eg48b2g85e3gf5672c2739e5;3"
+data "Icon" "ICON_WHM_Blood_Lily"
+data "StackId" "BOOST_Blood_Lily"
+
+new entry "BOOST_Blood_Lily_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BOOST_Blood_Lily"
+data "Icon" "ICON_WHM_Blood_Lily_2"
+
+
+new entry "BOOST_Blood_Lily_3"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BOOST_Blood_Lily"
+data "Icon" "ICON_WHM_Blood_Lily_3"
+data "Boosts" "UnlockSpell(Target_Afflatus_Misery)"

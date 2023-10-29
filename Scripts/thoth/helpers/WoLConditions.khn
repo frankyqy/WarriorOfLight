@@ -1,3 +1,20 @@
 function PLDActionCheck()
     return SpellId('Target_Fast_Blade') | SpellId('Target_Riot_Blade') | SpellId('Target_Royal_Authority') | SpellId('Shout_Total_Eclipse') | SpellId('Shout_Prominence') | SpellId('Target_Goring_Blade') | SpellId('Target_Clemency') | SpellId('Target_Holy_Spirit') | SpellId('Target_Holy_Spirit_Divine') | SpellId('Target_Holy_Spirit_Requiescat')
 end
+
+function IsBloodLilyGaugeEqualThan(value)
+    local isGreater = ConditionResult(value < 5)
+    if (value == 3) then
+        return HasStatus('BOOST_Blood_Lily_3', context.Source)
+    end
+    if (value == 2) then
+        return HasStatus('BOOST_Blood_Lily_2', context.Source)
+    end
+    if (value == 1) then
+        return HasStatus('BOOST_Blood_Lily', context.Source)
+    end
+    if (value == 0) then
+        return ~HasStatus('BOOST_Blood_Lily_3', context.Source) & ~HasStatus('BOOST_Blood_Lily_2', context.Source) & ~HasStatus('BOOST_Blood_Lily', context.Source)
+    end
+    return ConditionResult(false)
+end

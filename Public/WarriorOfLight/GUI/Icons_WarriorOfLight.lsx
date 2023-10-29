@@ -1832,7 +1832,7 @@
                     <attribute id="V2" type="float" value="0.28125"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Dia_s"/>
                     <attribute id="U1" type="float" value="0.15625"/>
                     <attribute id="U2" type="float" value="0.1875"/>
                     <attribute id="V1" type="float" value="0.25"/>
@@ -2280,28 +2280,28 @@
                     <attribute id="V2" type="float" value="0.34375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Aero_Mastery_2"/>
                     <attribute id="U1" type="float" value="0.15625"/>
                     <attribute id="U2" type="float" value="0.1875"/>
                     <attribute id="V1" type="float" value="0.3125"/>
                     <attribute id="V2" type="float" value="0.34375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Stone_Mastery_4"/>
                     <attribute id="U1" type="float" value="0.1875"/>
                     <attribute id="U2" type="float" value="0.21875"/>
                     <attribute id="V1" type="float" value="0.3125"/>
                     <attribute id="V2" type="float" value="0.34375"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Glare"/>
                     <attribute id="U1" type="float" value="0.21875"/>
                     <attribute id="U2" type="float" value="0.25"/>
                     <attribute id="V1" type="float" value="0.3125"/>
                     <attribute id="V2" type="float" value="0.34375"/>
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Dia"/>
                     <attribute id="U1" type="float" value="0.25"/>
                     <attribute id="U2" type="float" value="0.28125"/>
                     <attribute id="V1" type="float" value="0.3125"/>
