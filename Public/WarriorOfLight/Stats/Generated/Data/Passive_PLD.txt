@@ -192,6 +192,17 @@ data "StatsFunctorContext" "OnCast"
 data "Conditions" "(SpellId('Target_Holy_Spirit') or SpellId('Shout_Holy_Circle') or SpellId('Target_Confiteor'))"
 
 
+new entry "Requiescat"
+type "PassiveData"
+data "DisplayName" "h24e5b74dg047cg4170g915dg1c633341d3dd"
+data "Description" "h0f7420e9gecf0g4ea7ga232g446d5e4077f6"
+data "Icon" "ICON_PLD_Divine_Magic_Mastery_2"
+data "Properties" "Highlighted;ForceShowInCC"
+data "StatsFunctors" "UseActionResource(SpellSlot,1,1)"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "(SpellId('Target_Holy_Spirit_Requiescat') or SpellId('Shout_Holy_Circle_Requiescat'))"
+data "Properties" "IsHidden"
+
 new entry "PLD_Melee_Mastery"
 type "PassiveData"
 data "DisplayName" "h264ba657g0c3eg4dddg9223g033d5f75ad9d"

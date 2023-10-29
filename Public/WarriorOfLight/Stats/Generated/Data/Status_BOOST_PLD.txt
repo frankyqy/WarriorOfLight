@@ -372,7 +372,7 @@ data "Icon" "ICON_PLD_Divine_Magic_Mastery_s"
 data "StackId" "BOOST_Divine_Magic_Mastery"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "RemoveEvents" "OnSpellCast"
-data "RemoveConditions" "SpellId('Target_Holy_Spirit_Divine')"
+data "RemoveConditions" "SpellId('Target_Holy_Spirit_Divine') | SpellId('Shout_Holy_Circle_Divine')"
 
 
 new entry "BOOST_Requiescat"
@@ -387,6 +387,7 @@ data "StatusGroups" "SG_RemoveOnRespec"
 data "OnRemoveFunctors" "UseActionResource(Requiescat_Gauge,100%,0)"
 data "RemoveConditions" "not HasActionResource('Requiescat_Gauge', 1, 0, false, false, context.Source)"
 data "RemoveEvents" "OnTurn;OnSpellCast"
+data "Passives" "Requiescat"
 
 new entry "EXTRA_ATTACK_PLD"
 type "StatusData"
