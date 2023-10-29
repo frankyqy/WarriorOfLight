@@ -489,8 +489,9 @@
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4692517e-140d-481a-9af7-613126fed8fb,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="de84fe24-d18b-4fe3-be2b-1d1e104cd489"/>
                 </node>

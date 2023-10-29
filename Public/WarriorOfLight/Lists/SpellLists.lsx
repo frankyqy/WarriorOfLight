@@ -162,6 +162,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Assize;Shout_Thin_Air;Target_Tetragrammaton"/>
                     <attribute id="UUID" type="guid" value="5d9f2290-8cf7-4a02-91bd-cf5865824d0f"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_70"/>
+                    <attribute id="Spells" type="LSString" value="Target_Divine_Benison;Shout_Plenary_Indulgence"/>
+                    <attribute id="UUID" type="guid" value="4692517e-140d-481a-9af7-613126fed8fb"/>
+                </node>
             </children>
         </node>
     </region>

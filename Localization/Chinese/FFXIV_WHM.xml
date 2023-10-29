@@ -75,5 +75,12 @@
 
 	<content contentuid="h07556dd4gcfffg45f2gb00eg79162b29c0d0" version="1">神名</content>
 
+	<content contentuid="h9994de07g2e0bg4dc4g8f1cg045e27a79d87" version="1">神祝祷</content>
+	<content contentuid="h75a602abgcab2g4d90gb441g275d53325a84" version="1">为自身或一名队员附加能够抵御一定伤害的防护罩</content>
+	<content contentuid="hd5868bfbg986fg4987g9d5dga426ffc0398b" version="1">抵御一定伤害的防护罩</content>
+
+	<content contentuid="h7067922egdfd0g4d28gb8d6g563e55f80d78" version="1">全大赦</content>
+	<content contentuid="h17c46d1cg5eb5g4e08gb427gb735faa55562" version="1">为自身与周围队员附加全大赦状态。在状态中使用医治、愈疗、医济、狂喜之心，会使目标产生额外的恢复效果</content>
+
 
 </contentList>
