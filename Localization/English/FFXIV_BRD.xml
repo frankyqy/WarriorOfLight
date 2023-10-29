@@ -92,4 +92,10 @@
 	<content contentuid="hbf63d3cbgce0fg4fafgb1f4gfa13019492a3" version="1">Straight Shot Mastery</content>
 	<content contentuid="he13ac0efg3bfbg4b7agbec6gcff44710077c" version="1">Upgrades Straight Shot to Refulgent Arrow.</content>
 	<content contentuid="he27523edge854g4764g9a0cg9bd5bdcf9fba" version="1">Refulgent Arrow</content>
+
+	<content contentuid="hfec23a4dg115fg424dg8897gb321f6f42164" version="1">Enhanced Quick Nock</content>
+	<content contentuid="h3dd6fa9fg9183g459cg82aeg541cee4103a5" version="1">Adds to Quick Nock a 35% chance that you will become Shadowbite Ready.</content>
+
+	<content contentuid="hf9b744e9g1142g4458gb18eg646b22a8bd58" version="1">Shadowbite</content>
+	<content contentuid="h573a9523g34d4g4072g90d6g6df0bdca515b" version="1">Shadowbite Ready</content>
 </contentList>

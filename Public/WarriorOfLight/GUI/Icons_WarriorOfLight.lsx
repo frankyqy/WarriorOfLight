@@ -1286,21 +1286,21 @@
                     <attribute id="V2" type="float" value="0.1875"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Enhanced_Quick_Nock"/>
                     <attribute id="U1" type="float" value="0.71875"/>
                     <attribute id="U2" type="float" value="0.75"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Shadowbite"/>
                     <attribute id="U1" type="float" value="0.75"/>
                     <attribute id="U2" type="float" value="0.78125"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>	
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_BRD_Shadowbite_Ready"/>
                     <attribute id="U1" type="float" value="0.78125"/>
                     <attribute id="U2" type="float" value="0.8125"/>
                     <attribute id="V1" type="float" value="0.15625"/>
