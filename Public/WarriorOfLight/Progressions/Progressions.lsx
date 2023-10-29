@@ -475,6 +475,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,4)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery_2"/>
