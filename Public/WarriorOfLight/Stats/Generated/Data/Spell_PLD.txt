@@ -553,12 +553,11 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Holy_Spirit"
 data "DisplayName" "h40f30522g41edg4766gbb10gb37f035aa3af;1"
-data "UseCosts" "SpellSlotsGroup:1:1:1"
 data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+2d10,Radiant,Magical)"
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+2d10,Radiant,Magical)"
 data "RequirementConditions" "not HasStatus('BOOST_Requiescat') and HasStatus('BOOST_Divine_Magic_Mastery')"
-
+data "UseCosts" "SpellSlotsGroup:1:1:1"
 
 new entry "Target_Holy_Spirit_Requiescat"
 type "SpellData"
@@ -569,7 +568,7 @@ data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Ma
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2+1d10,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Magical)"
 data "AmountOfTargets" "2"
-data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:2:1:1"
+data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:1:1:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
 
 

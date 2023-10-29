@@ -387,4 +387,4 @@ data "Boosts" "ActionResource(Requiescat_Gauge,4,0);UnlockSpell(Target_Holy_Spir
 data "StatusGroups" "SG_RemoveOnRespec"
 data "OnRemoveFunctors" "UseActionResource(Requiescat_Gauge,100%,0)"
 data "RemoveConditions" "not HasActionResource('Requiescat_Gauge', 1, 0, false, false, context.Source)"
-data "RemoveEvents" "OnTurn"
+data "RemoveEvents" "OnTurn;OnSpellCast"
