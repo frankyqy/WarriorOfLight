@@ -117,8 +117,8 @@ type "PassiveData"
 data "DisplayName" "h7f94eb3bg40a9g4a25gb650ge8daf27015ad"
 data "Description" "h8957eb24gdac0g4275gaf0egccc83bd47d6d"
 data "Icon" "ICON_PLD_Enhanced_Prominence"
-data "Conditions" "(SpellId('Shout_Prominence')) and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "ApplyStatus(SELF,BOOST_Divine_Magic_Mastery,100,5);RestoreResource(SELF, Oath_Gauge, 20, 0)"
+data "Conditions" "SpellId('Shout_Prominence')"
+data "StatsFunctors" "ApplyStatus(SELF,BOOST_Divine_Magic_Mastery,100,5);RestoreResource(SELF, SpellSlot,1,1)"
 data "StatsFunctorContext" "OnAttack"
 
 

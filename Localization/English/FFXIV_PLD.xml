@@ -78,7 +78,8 @@
 	<content contentuid="h8eb3505cgf7fbg4ac2g94b9gc294417755a7" version="1">Royal Authority</content>
 
 	<content contentuid="h1143737cgf51cg4562ga73bg0636ba582cea" version="1">Divine Magic Mastery</content>
-	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">Royal Authority combo Grants Divine Might Divine Might Effect: Allows next Holy Spirit or Holy Circle to be increased. </content>
+	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">Royal Authority combo Grants Divine Might Effect: Allows next Holy Spirit or Holy Circle to be increased. </content>
+	<content contentuid="hac18f16fg8815g4d2cg8708g5497a9190e7b" version="1">Divine Might</content>
 	<content contentuid="h006d04a5gfad2g462fgbfb2ga24e7312b642" version="1">Allows next Holy Spirit or Holy Circle to be increased. </content>
 
 	<content contentuid="h24e5b74dg047cg4170g915dg1c633341d3dd" version="1">神圣魔法精通II</content>
@@ -92,8 +93,8 @@
 	<content contentuid="h4c2c089eg93f8g4481ga970g0922d4dc02b4" version="1">Holy Spirit（Requiescat）</content>
 	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">Deals Radiant damage.</content>
 
-	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">圣环</content>
-	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">对自身周围的敌人发动光耀属性范围魔法攻击</content>
+	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">Holy Circle</content>
+	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">Deals Radiant damage to all nearby enemies.</content>
 
 	<content contentuid="h76d1a974g18c6g43d8g95a8g0e7424a0dfa7" version="1">Requiescat</content>
 	<content contentuid="he8cfb534g038bg4ae1ga275g49e41c03936b" version="1">Deals Necrosis damage</content>
@@ -104,14 +105,14 @@
 	<content contentuid="hc9461d31gc253g4a96gbc10g870b26ee6a22" version="1">Block incoming attacks.Reduces party members's damage taken.</content>
 	<content contentuid="h2e54dbfeg76d5g477cg9402gecef23c03d85" version="1">Heavy Arms</content>
 
-	<content contentuid="h7b6df3c3gec01g457ag9bc7g212bf69981a1" version="1">调停</content>
-	<content contentuid="he5242f92geb53g4e0agbfaeg0d092ade94f6" version="1">冲向目标并发动物理攻击，</content>
+	<content contentuid="h7b6df3c3gec01g457ag9bc7g212bf69981a1" version="1">Intervene</content>
+	<content contentuid="he5242f92geb53g4e0agbfaeg0d092ade94f6" version="1">Rushes target and delivers an attack</content>
 
-	<content contentuid="h7f94eb3bg40a9g4a25gb650ge8daf27015ad" version="1">日珥斩效果提高</content>
-	<content contentuid="h8957eb24gdac0g4275gaf0egccc83bd47d6d" version="1">你的剑术圆满，在面对多个敌人时也能调整好自己的以太，以提高之后的神圣魔法的威力。日珥斩命中后获得神圣魔法精通效果</content>
+	<content contentuid="h7f94eb3bg40a9g4a25gb650ge8daf27015ad" version="1">Enhanced Prominence</content>
+	<content contentuid="h8957eb24gdac0g4275gaf0egccc83bd47d6d" version="1">Restores 1 SpellSlot and Grants Divine Might after successfully completing a combo with Prominence:</content>
 
-	<content contentuid="hcafc1e7fgbe3dg4d9dgb492g251d086e83e0" version="1">盾阵效果提高</content>
-	<content contentuid="h89175ae5ga7f0g4e27g8c3ag867130c28a26" version="1">你能展开更多的以太盾牌构成盾阵。你使用的盾阵效果延长了一回合</content>
+	<content contentuid="hcafc1e7fgbe3dg4d9dgb492g251d086e83e0" version="1">Enhanced Sheltron</content>
+	<content contentuid="h89175ae5ga7f0g4e27g8c3ag867130c28a26" version="1">Extends the duration of Sheltron to 1 turn.</content>
 
 	<content contentuid="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1">忠义之剑</content>
 	<content contentuid="hb9aa17a7g00edg458cg8963g38d1c8e4f637" version="1">你的剑术已入化境，在王权剑命中后获得3层忠义之剑，用以施展赎罪剑</content>
