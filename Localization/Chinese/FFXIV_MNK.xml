@@ -149,14 +149,12 @@
 	<content contentuid="h42446924g6e67g48f2g938age1a0ee436762" version="1">自身与周围队员发动战技与魔法时，20%几率为自身附加1档斗气</content>
 
 	<content contentuid="hb3900393ga777g46faga3efgbeacab7630d5" version="1">疾风极意</content>
-	<content contentuid="h8d63ee44g59fdg4d71ga6f7g77e3249112a7" version="1">为自身附加状态：疾风极意。获得一个动作</content>
-	<content contentuid="heff970dbg7eb4g483ag9d1cgae002a4d04a6" version="1">获得一个动作</content>
+	<content contentuid="h8d63ee44g59fdg4d71ga6f7g77e3249112a7" version="1">获得一个动作和一个附加动作</content>
 
 	<content contentuid="h3b15ed95g8389g4dc6gbcdeg8a2267e4488f" version="1">空鸣拳精通</content>
 	<content contentuid="h1995757cg3aa3g48b4g905ag144025e44f7c" version="1">空鸣拳变为万象斗气圈</content>
 
 	<content contentuid="h91746c26gc136g4bd1g8b37g3c4867c544ab" version="1">万象斗气圈</content>
-	<content contentuid="h01eae69fgec34g47a2ga585g84750141d060" version="1">向目标发动直线范围物理攻击。</content>
 
 	<content contentuid="heb8aa700g5207g475eg8ba1g645976fd8aa3" version="1">无我</content>
 	<content contentuid="hc5aa2c7dg94acg43e2g92abg64513793af1b" version="1">获得无相身形，以及五层斗气。</content>
