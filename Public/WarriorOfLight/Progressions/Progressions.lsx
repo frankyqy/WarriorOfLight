@@ -75,7 +75,7 @@
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,3,1)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Divine_Magic_Mastery;Divine_Magic_Mastery_Buff"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Divine_Magic_Mastery"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(57abd596-8508-44b6-86aa-0bbac8a4cd60,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
                     <attribute id="UUID" type="guid" value="a8d29589-5f11-4bee-a098-d63b3942235e"/>

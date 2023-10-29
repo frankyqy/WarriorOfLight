@@ -88,21 +88,21 @@
 	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">Reduces target party member's damage.Increases damage reduction if Rampart or Sentinel are active</content>
 
 	<content contentuid="h00ac4d3ag7434g4afcgbd22g807b33805ccf" version="1">Holy Spirit</content>
+	<content contentuid="h40f30522g41edg4766gbb10gb37f035aa3af" version="1">Holy Spirit（Divine）</content>
+	<content contentuid="h4c2c089eg93f8g4481ga970g0922d4dc02b4" version="1">Holy Spirit（Requiescat）</content>
 	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">Deals Radiant damage.</content>
 
 	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">圣环</content>
 	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">对自身周围的敌人发动光耀属性范围魔法攻击</content>
 
-	<content contentuid="h76d1a974g18c6g43d8g95a8g0e7424a0dfa7" version="1">安魂祈祷</content>
-	<content contentuid="hda525728gbfb5g46afga9b8g280d067b9f88" version="1">你已熟稔魔法的使用。你学会了能使你的神圣魔法变强的方法。</content>
-	<content contentuid="he8cfb534g038bg4ae1ga275g49e41c03936b" version="1">对目标发动魔法攻击，获得3层安魂祈祷。可以使圣灵和圣环的威力上升</content>
-	<content contentuid="h13dc8a5cg7381g45bdg858egcbf20d354f5e" version="1">可以使圣灵和圣环的威力上升</content>
+	<content contentuid="h76d1a974g18c6g43d8g95a8g0e7424a0dfa7" version="1">Requiescat</content>
+	<content contentuid="he8cfb534g038bg4ae1ga275g49e41c03936b" version="1">Deals Necrosis damage</content>
+	<content contentuid="h13dc8a5cg7381g45bdg858egcbf20d354f5e" version="1">Holy Spirit or Holy Circle, all Confiteor combo actions and spells to be increased.</content>
 
 
-	<content contentuid="hb03ecca7ge635g44a6gba26ga81777f740ad" version="1">武装戍卫</content>
-	<content contentuid="hc9461d31gc253g4a96gbc10g870b26ee6a22" version="1">向自身周围展开防护领域，使自身受到的伤害降低。范围内的队员护甲上升，受到的伤害减少</content>
-	<content contentuid="h2e54dbfeg76d5g477cg9402gecef23c03d85" version="1">武装</content>
-	<content contentuid="hb7354ee7gfc41g4710gb544g90d564762bcb" version="1">护甲上升，受到的伤害减少</content>
+	<content contentuid="hb03ecca7ge635g44a6gba26ga81777f740ad" version="1">Passage of Arms</content>
+	<content contentuid="hc9461d31gc253g4a96gbc10g870b26ee6a22" version="1">Block incoming attacks.Reduces party members's damage taken.</content>
+	<content contentuid="h2e54dbfeg76d5g477cg9402gecef23c03d85" version="1">Heavy Arms</content>
 
 	<content contentuid="h7b6df3c3gec01g457ag9bc7g212bf69981a1" version="1">调停</content>
 	<content contentuid="he5242f92geb53g4e0agbfaeg0d092ade94f6" version="1">冲向目标并发动物理攻击，</content>
