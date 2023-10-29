@@ -565,11 +565,11 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_Holy_Spirit"
 data "DisplayName" "h4c2c089eg93f8g4481ga970g0922d4dc02b4;1"
-data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:2:1:1"
 data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Magical)"
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2+1d10,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Magical)"
 data "AmountOfTargets" "2"
+data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:2:1:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
 
 
