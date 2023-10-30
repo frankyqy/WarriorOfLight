@@ -6,6 +6,8 @@
 
 	<content contentuid="h4e247f44g442fg4be1ga9cdgac2ab45cc8d6" version="1">Heavy Shot</content>
 	<content contentuid="h6ca83f94gcd3bg4123g95a9g91dcbe80a354" version="1">Delivers an attack.20% chance of becoming Straight Shot Ready</content>
+	<content contentuid="ha4860a21g62eag4196g882bg3285765b29ea" version="1">Burst Shot</content>
+	<content contentuid="h54c73c7dgf2d2g49e9gb730gd9aa569f505c" version="1">Delivers an attack.35% chance of becoming Straight Shot Ready</content>
 
 	<content contentuid="haac9a27dg136cg4ffdg9eb7g35edf6b382ce" version="1">Straight Shot</content>
 	<content contentuid="h82c6227dg13ceg42bega5b6gdd911600a65c" version="1">Delivers an attack.</content>
@@ -98,4 +100,18 @@
 
 	<content contentuid="hf9b744e9g1142g4458gb18eg646b22a8bd58" version="1">Shadowbite</content>
 	<content contentuid="h573a9523g34d4g4072g90d6g6df0bdca515b" version="1">Shadowbite Ready</content>
+
+	<content contentuid="h72782c5ag0357g4bdbgbafcg07bcc49bdee7" version="1">Bite Mastery II</content>
+	<content contentuid="h114b1c84g0e45g4df0g84ffg750b0ed00ef3" version="1">Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance that you will become Straight Shot Ready.</content>
+
+	<content contentuid="ha7d3be00g5f2ag42e5g8c78g7425b42e61c2" version="1">Heavy Shot Mastery</content>
+	<content contentuid="h748558f6g7226g4128g977ag859517c527aa" version="1">Upgrades Heavy Shot to Burst Shot.</content>
+
+	<content contentuid="hb022c31aga6c8g486agb903g6abd2be0b6be" version="1">Enhanced Army's Paeon</content>
+	<content contentuid="h9b79dabag7d4dg4a0bgb063g2184d3699acf" version="1">While under the effect of Army's Paeon with at least one stack of Repertoire, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse.Allowing the effect of Army's Paeon and accumulated stacks of Repertoire to expire without singing Mage's Ballad or the Wanderer's Minuet will grant Army's Ethos.</content>
+	<content contentuid="ha184fceeg5086g4042gb4bbgd55de8cd42d3" version="1">Army's Muse</content>
+
+	<content contentuid="hc6909af6g082dg4d4dg885agddd35bd46ec1" version="1">Soul Voice</content>
+	<content contentuid="h7ad38bc1g3f58g4cc7gad08g5fed9c35f5f9" version="1">Increases Soul Voice Gauge by 5 each time Repertoire is granted.</content>
+
 </contentList>

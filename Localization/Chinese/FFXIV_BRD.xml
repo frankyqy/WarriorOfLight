@@ -6,6 +6,8 @@
 
 	<content contentuid="h4e247f44g442fg4be1ga9cdgac2ab45cc8d6" version="1">强力射击</content>
 	<content contentuid="h6ca83f94gcd3bg4123g95a9g91dcbe80a354" version="1">对目标发动物理攻击。20%为自身附加状态：直线射击预备。</content>
+	<content contentuid="ha4860a21g62eag4196g882bg3285765b29ea" version="1">爆发射击</content>
+	<content contentuid="h54c73c7dgf2d2g49e9gb730gd9aa569f505c" version="1">对目标发动物理攻击。35%为自身附加状态：直线射击预备。</content>
 
 	<content contentuid="haac9a27dg136cg4ffdg9eb7g35edf6b382ce" version="1">直线射击</content>
 	<content contentuid="h82c6227dg13ceg42bega5b6gdd911600a65c" version="1">对目标发动物理攻击。</content>
@@ -101,6 +103,22 @@
 
 	<content contentuid="hf9b744e9g1142g4458gb18eg646b22a8bd58" version="1">影噬箭</content>
 	<content contentuid="h573a9523g34d4g4072g90d6g6df0bdca515b" version="1">影噬箭准备</content>
+
+	<content contentuid="h72782c5ag0357g4bdbgbafcg07bcc49bdee7" version="1">咬蚀精通II</content>
+	<content contentuid="h114b1c84g0e45g4df0g84ffg750b0ed00ef3" version="1">狂风蚀箭、烈毒咬箭、伶牙俐齿命中时（发动几率35%）对自身附加直线射击预备状态</content>
+
+	<content contentuid="ha7d3be00g5f2ag42e5g8c78g7425b42e61c2" version="1">强力射击精通</content>
+	<content contentuid="h748558f6g7226g4128g977ag859517c527aa" version="1">强力射击变为爆发射击</content>
+
+	<content contentuid="hb022c31aga6c8g486agb903g6abd2be0b6be" version="1">军神的赞美歌效果提高</content>
+	<content contentuid="h9b79dabag7d4dg4a0bgb063g2184d3699acf" version="1">军神的赞美歌状态中且身上有诗心时，使用贤者的叙事谣或放浪神的小步舞曲会对自身附加军神的加护状态。军神的赞美歌状态中且身上有诗心时，如果没有使用贤者的叙事谣或放浪神的小步舞曲，则在军神的赞美歌状态自动结束时对自身附加军神的契约状态。</content>
+	<content contentuid="ha184fceeg5086g4042gb4bbgd55de8cd42d3" version="1">军神的加护</content>
+
+	<content contentuid="hc6909af6g082dg4d4dg885agddd35bd46ec1" version="1">灵魂之声</content>
+	<content contentuid="h7ad38bc1g3f58g4cc7gad08g5fed9c35f5f9" version="1">对自身附加诗心状态时，获得5点灵魂之声量值</content>
+
+	<content contentuid="h7d5c8c0cg9114g4355gad08gb4c6abf6233b" version="1">绝峰箭</content>
+	<content contentuid="h4ef23c3egf3dcg4b78gb97dg513f603488c4" version="1">向目标所在方向发出直线范围物理攻击</content>
 
 
 </contentList>

@@ -368,8 +368,10 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="FFXIV_BRD"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Soul_Voice_Gauge,100,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Heavier_Shot"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Bite_Mastery_2;Heavier_Shot_Mastery;Enhanced_Army_Paeon;Soul_Voice"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="2a1415f8-07bf-4061-a439-6d9927c7af9a"/>
                     <attribute id="UUID" type="guid" value="3f6d1513-f7ba-4b06-90ae-18e1d4dd43ee"/>
