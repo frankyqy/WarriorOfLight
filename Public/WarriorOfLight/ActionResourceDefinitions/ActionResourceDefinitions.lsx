@@ -33,7 +33,7 @@
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h63dea372g636cg4b62g9814g38ff77e1a2ae" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1"/>
                     <attribute id="DiceType" type="uint32" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1"/>
                     <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_0_Error"/>

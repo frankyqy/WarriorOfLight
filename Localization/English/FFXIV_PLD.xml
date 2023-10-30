@@ -116,19 +116,17 @@
 	<content contentuid="hcafc1e7fgbe3dg4d9dgb492g251d086e83e0" version="1">Enhanced Sheltron</content>
 	<content contentuid="h89175ae5ga7f0g4e27g8c3ag867130c28a26" version="1">Extends the duration of Sheltron to 1 turn.</content>
 
-	<content contentuid="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1">忠义之剑</content>
-	<content contentuid="hb9aa17a7g00edg458cg8963g38d1c8e4f637" version="1">你的剑术已入化境，在王权剑命中后获得3层忠义之剑，用以施展赎罪剑</content>
-	<content contentuid="h63dea372g636cg4b62g9814g38ff77e1a2ae" version="1">用以施展赎罪剑</content>
+	<content contentuid="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1">Sword Oath</content>
+	<content contentuid="hb9aa17a7g00edg458cg8963g38d1c8e4f637" version="1">Grants three stacks of Sword Oath after successfully completing a combo with Royal Authority.</content>
 
-	<content contentuid="h4454a5eeg820fg4041ga638geac8c1c55612" version="1">安魂祈祷效果提高</content>
-	<content contentuid="h3f62b2f5gdd51g4a71gaf7bg784c67123169" version="1">你完全掌控的神圣魔法的使用，在安魂祈祷后，你可以施展威力强大的魔法悔罪。</content>
+	<content contentuid="h4454a5eeg820fg4041ga638geac8c1c55612" version="1">Enhanced Requiescat</content>
+	<content contentuid="h3f62b2f5gdd51g4a71gaf7bg784c67123169" version="1">Grants the effect of Confiteor Ready upon landing Requiescat.</content>
 
-	<content contentuid="hb05f8b08gc142g4c84gbdbfgaacc5d9220c2" version="1">赎罪剑</content>
-	<content contentuid="hd82544c0gd8afg4b06g8d48g4d96cabbeb34" version="1">对目标发动物理攻击</content>
+	<content contentuid="hb05f8b08gc142g4c84gbdbfgaacc5d9220c2" version="1">Atonement</content>
 
-	<content contentuid="hfff61c2ag80eeg45c9g8cadga4caf9062323" version="1">悔罪</content>
-	<content contentuid="hd15db05egc809g42c9gb382g09d8f4766db2" version="1">对目标及其周围的敌人发动光耀属性范围魔法攻击</content>
-	<content contentuid="hada54fa1gfa2cg403bg94c0gb1d40ef83239" version="1">悔罪预备</content>
+	<content contentuid="hfff61c2ag80eeg45c9g8cadga4caf9062323" version="1">Confiteor</content>
+	<content contentuid="hd15db05egc809g42c9gb382g09d8f4766db2" version="1">Deals Radiant damage to target and all enemies nearby it.</content>
+	<content contentuid="hada54fa1gfa2cg403bg94c0gb1d40ef83239" version="1">Confiteor Ready</content>
 
 	<content contentuid="h927e7560g1c99g47cag8712gf8078bb2d078" version="1">盾阵精通</content>
 	<content contentuid="h559782eag1231g40bbg84ffgbf9cc5af6e5e" version="1">你对神圣魔法的运用更上一层楼，盾阵变为圣盾阵</content>

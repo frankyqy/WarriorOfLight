@@ -61,7 +61,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,3,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,4,1)"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Rage_of_Halone"/>
                     <attribute id="PassivesAdded" type="LSString" value="Chivalry;Rage_of_Halone_Mastery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -83,6 +83,7 @@
                 <node id="Progression"> FFXIV_PLD LV8
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8d1456d1-eeca-4dec-813a-efd7af28bba8,1,0,,,,AlwaysPrepared)"/>
@@ -93,6 +94,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="Enhanced_Prominence;Enhanced_Sheltron"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(1563a05b-91bb-47c8-ae76-ca8c6abeeafd,1,0,,,,AlwaysPrepared)"/>
