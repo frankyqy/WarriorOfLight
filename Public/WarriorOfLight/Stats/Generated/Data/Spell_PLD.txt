@@ -522,6 +522,7 @@ new entry "Shout_Passage_of_Arms"
 type "SpellData"
 data "SpellType" "Shout"
 data "TargetConditions" "Self()"
+data "Cooldown" "OncePerShortRest"
 data "Icon" "ICON_PLD_Passage_of_Arms"
 data "DisplayName" "hb03ecca7ge635g44a6gba26ga81777f740ad;1"
 data "Description" "hc9461d31gc253g4a96gbc10g870b26ee6a22;3"
@@ -711,6 +712,7 @@ data "DamageType" "Radiant"
 new entry "Target_Holy_Spirit"
 type "SpellData"
 data "SpellType" "Target"
+data "SpellContainerID" "Target_Holy_Spirit_Container"
 data "Level" "1"
 data "TargetRadius" "25"
 data "SpellRoll" "not SavingThrow(Ability.Charisma, SourceSpellDC())"
@@ -739,6 +741,16 @@ data "DamageType" "Radiant"
 data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
 
 
+new entry "Target_Holy_Spirit_Container"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Holy_Spirit"
+data "SpellContainerID" ""
+data "ContainerSpells" "Target_Holy_Spirit;Target_Holy_Spirit_Divine;Target_Holy_Spirit_Requiescat"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful;IsLinkedSpellContainer"
+
+
+
 new entry "Target_Holy_Spirit_Divine"
 type "SpellData"
 data "SpellType" "Target"
@@ -749,7 +761,7 @@ data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2,Radiant,Magical)
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+2d10,Radiant,Magical)"
 data "RequirementConditions" "not HasStatus('BOOST_Requiescat') and HasStatus('BOOST_Divine_Magic_Mastery')"
 data "UseCosts" "SpellSlotsGroup:1:1:1"
-data "RootSpellID" "Target_Holy_Spirit"
+
 
 new entry "Target_Holy_Spirit_Requiescat"
 type "SpellData"
@@ -762,16 +774,15 @@ data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radia
 data "AmountOfTargets" "2"
 data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:1:1:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
-data "RootSpellID" "Target_Holy_Spirit"
-
 
 
 new entry "Shout_Holy_Circle"
 type "SpellData"
 data "SpellType" "Shout"
+data "SpellContainerID" "Shout_Holy_Circle_Container"
 data "Level" "1"
 data "AreaRadius" "5"
-data "SpellRoll" "not SavingThrow(Ability.Constitution, SourceSpellDC())"
+data "SpellRoll" "not SavingThrow(Ability.Charisma, SourceSpellDC())"
 data "SpellProperties" ""
 data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier,Radiant,Magical)"
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)/2,Radiant,Magical)"
@@ -780,12 +791,12 @@ data "Icon" "ICON_PLD_Holy_Circle"
 data "DisplayName" "ha6207ae9g9e13g459ag978bg8e2edc8954d1;1"
 data "Description" "h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2;6"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier,Radiant,Magical)"
+data "TooltipAttackSave" "Charisma"
 data "CastSound" "Action_Cast_RadianceOfTheDawn"
 data "TargetSound" "Action_Impact_RadianceOfTheDawn"
 data "CastTextEvent" "Cast"
 data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
 data "SpellAnimation" "2f0d97b9-4a1f-4bf3-a3c2-32efb563d601,,;,,;70ddfd63-fc3f-45f4-b067-75389b85d540,,;90face3a-6607-4b3d-87e6-c6090b069160,,;57e449b3-b712-4508-afcf-f2e91dc473f6,,;,,;84f3727f-aabc-4e34-bf31-c6cd0160bec9,,;,,;,,"
-data "VerbalIntent" "Healing"
 data "SpellStyleGroup" "Class"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful"
 data "HitAnimationType" "MagicalNonDamage"
@@ -793,6 +804,15 @@ data "PrepareEffect" "33d4ba61-8c76-4138-ac49-c33d279fb9c9"
 data "CastEffect" "11b177e1-ccd8-495d-ad9a-5547a138f540"
 data "TargetEffect" "78ab57f2-edce-4697-8be4-7bf7c2e76f92"
 data "DamageType" "Radiant"
+
+
+new entry "Shout_Holy_Circle_Container"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Holy_Circle"
+data "SpellContainerID" ""
+data "ContainerSpells" "Shout_Holy_Circle;Shout_Holy_Circle_Divine;Shout_Holy_Circle_Requiescat"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful;IsLinkedSpellContainer"
 
 
 new entry "Shout_Holy_Circle_Divine"
@@ -805,7 +825,7 @@ data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)/2,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier+2d10,Radiant,Magical)"
 data "RequirementConditions" "not HasStatus('BOOST_Requiescat') and HasStatus('BOOST_Divine_Magic_Mastery')"
 data "UseCosts" "SpellSlotsGroup:1:1:1"
-data "RootSpellID" "Shout_Holy_Circle"
+
 
 new entry "Shout_Holy_Circle_Requiescat"
 type "SpellData"
@@ -818,5 +838,5 @@ data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)*2+2*SpellCasti
 data "AmountOfTargets" "2"
 data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:1:1:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
-data "RootSpellID" "Shout_Holy_Circle"
+
 
