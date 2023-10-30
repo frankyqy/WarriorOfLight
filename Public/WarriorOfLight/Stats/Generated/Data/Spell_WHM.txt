@@ -551,7 +551,7 @@ data "PrepareEffect" "33d4ba61-8c76-4138-ac49-c33d279fb9c9"
 data "CastEffect" "11b177e1-ccd8-495d-ad9a-5547a138f540"
 data "TargetEffect" "78ab57f2-edce-4697-8be4-7bf7c2e76f92"
 data "DamageType" "Radiant"
-
+data "SpellFlags" "HasVerbalComponent;IsSpell;RangeIgnoreVerticalThreshold"
 
 new entry "Target_Benediction"
 type "SpellData"
@@ -696,6 +696,7 @@ data "DisplayName" "h07556dd4gcfffg45f2gb00eg79162b29c0d0;1"
 data "SpellProperties" "RegainHitPoints(6d8+ClassLevel(FFXIV_WHM)+SpellCastingAbilityModifier)"
 data "TooltipDamageList" "RegainHitPoints(6d8+ClassLevel(FFXIV_WHM)+SpellCastingAbilityModifier)"
 data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "HasVerbalComponent"
 
 new entry "Target_Divine_Benison"
 type "SpellData"
