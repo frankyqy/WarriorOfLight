@@ -70,6 +70,7 @@
 
 	<content contentuid="h65aa7bb6g0337g4d8agbef2g16699eed15ec" version="1">治疗百合</content>
 	<content contentuid="h41dae3e5gc3b9g41f0g849egf5f096b5a138" version="1">安慰之心</content>
+	<content contentuid="h537cbe7eg648eg456fg9bc2gc88a311c6ac5" version="1">狂喜之心</content>
 
 	<content contentuid="h4ec0d6b1g102eg48b2g85e3gf5672c2739e5" version="1">血百合</content>
 
@@ -96,6 +97,13 @@
 
 	<content contentuid="h5a471ec4g5c7fg471aga4cdg041cfb419dd0" version="1">安慰之心效果提高</content>
 	<content contentuid="h961a6f3fgb98bg4590g8fa3g3bfd5b079e31" version="1">安慰之心对自身附加血百合状态</content>
+
+	<content contentuid="h1f5fe681gdd7bg49acg9325g60df15b50a35" version="1">庇护所效果提高</content>
+	<content contentuid="h2cf6af78g0395g4692gb9e7gb59c4ccb68cb" version="1">为庇护所区域内的自身和队员所受的体力恢复效果提高</content>
+
+	<content contentuid="h0b11e6f6g543eg49d6g9906g98c5a4e8df5e" version="1">节制</content>
+	<content contentuid="h27ed348bg12fbg4e81gb6efg2db0305a522a" version="1">自身发动治疗魔法的治疗量提高，自身与50米以内的队员受到的伤害减轻</content>
+	<content contentuid="h9d2bf57ag4c87g4693gba6dgb6838368a94d" version="1">受到的伤害减轻</content>
 
 
 </contentList>

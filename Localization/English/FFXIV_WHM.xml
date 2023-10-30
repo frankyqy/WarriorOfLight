@@ -69,6 +69,7 @@
 
 	<content contentuid="h65aa7bb6g0337g4d8agbef2g16699eed15ec" version="1">Lily</content>
 	<content contentuid="h41dae3e5gc3b9g41f0g849egf5f096b5a138" version="1">Afflatus Solace</content>
+	<content contentuid="h537cbe7eg648eg456fg9bc2gc88a311c6ac5" version="1">Afflatus Rapture</content>
 
 	<content contentuid="h4ec0d6b1g102eg48b2g85e3gf5672c2739e5" version="1">Blood Lily</content>
 
@@ -95,4 +96,12 @@
 
 	<content contentuid="h5a471ec4g5c7fg471aga4cdg041cfb419dd0" version="1">Transcendent Afflatus</content>
 	<content contentuid="h961a6f3fgb98bg4590g8fa3g3bfd5b079e31" version="1">Adds a Blood Lily to the Healing Gauge that blooms after three uses of Afflatus Solace or Afflatus Rapture.</content>
+
+	<content contentuid="h1f5fe681gdd7bg49acg9325g60df15b50a35" version="1">Enhanced Asylum</content>
+	<content contentuid="h2cf6af78g0395g4692gb9e7gb59c4ccb68cb" version="1">Adds an additional effect to Asylum that increases HP recovery via healing actions </content>
+
+	<content contentuid="h0b11e6f6g543eg49d6g9906g98c5a4e8df5e" version="1">Temperance</content>
+	<content contentuid="h27ed348bg12fbg4e81gb6efg2db0305a522a" version="1">Increases healing magic potency, while reducing damage taken by self and all party members within a radius of 50m</content>
+	<content contentuid="h9d2bf57ag4c87g4693gba6dgb6838368a94d" version="1">reducing damage taken</content>
+
 </contentList>

@@ -172,6 +172,12 @@
                     <attribute id="Spells" type="LSString" value="Target_Divine_Benison;Shout_Plenary_Indulgence"/>
                     <attribute id="UUID" type="guid" value="4692517e-140d-481a-9af7-613126fed8fb"/>
                 </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_80"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Afflatus_Rapture;Shout_Temperance"/>
+                    <attribute id="UUID" type="guid" value="b57fc60f-02a8-4d64-a9dd-b7f21aee4477"/>
+                </node>
             </children>
         </node>
     </region>
