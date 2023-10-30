@@ -143,7 +143,7 @@ data "Icon" "ICON_MNK_Enhanced_Greased_Lightning_3"
 data "Boosts" "ActionResource(BonusActionPoint,1,0)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "DealDamage(1d10);IF(HasStatus('BOOST_Disciplined_Fist',context.Source)):DealDamage(1d6)"
+data "StatsFunctors" "IF(HasStatus('BOOST_Disciplined_Fist',context.Source)):DealDamage(LevelMapValue(FFXIV_MNK_Bonus))"
 data "Properties" "Highlighted"
 
 

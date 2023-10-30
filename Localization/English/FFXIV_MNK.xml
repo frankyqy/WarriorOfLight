@@ -10,8 +10,8 @@
 	<content contentuid="h38940831g9d79g41d2g8065g4a21023f7b76" version="1">You can make one additional attacks after attacking without weapon.</content>
 	<content contentuid="h3fab29e2g6061g4c22g8f30g4e4c458e4baa" version="1">Enhanced Greased Lightning II</content>
 	<content contentuid="hafa63c07gf7a7g484fga499g7cc2d222172f" version="1">You can make two additional attacks after attacking without weapon.</content>
-	<content contentuid="hc50957c7g1dbag402fg8fd2gfff02c904aaf" version="1">疾风迅雷效果提高III</content>
-	<content contentuid="h50d41f04geae3g471ag81ecgffa7aec6b509" version="1">功力效果伤害提升。获得一个额外的附加动作</content>
+	<content contentuid="hc50957c7g1dbag402fg8fd2gfff02c904aaf" version="1">Enhanced Greased Lightning III</content>
+	<content contentuid="h50d41f04geae3g471ag81ecgffa7aec6b509" version="1">Get a BonusActionPoint.Also improves Disciplined Fist's damage.</content>
 
 	<content contentuid="h7542cd48g4d88g430fg8c2agc7476d3c0678" version="1">Bootshine</content>
 	<content contentuid="h5a2c19e9g167ag4660g8ed2g4f2201c88615" version="1">Bootshine（Formless）</content>
@@ -155,13 +155,12 @@
 
 	<content contentuid="h91746c26gc136g4bd1g8b37g3c4867c544ab" version="1">Enlightenment</content>
 
-	<content contentuid="heb8aa700g5207g475eg8ba1g645976fd8aa3" version="1">无我</content>
-	<content contentuid="hc5aa2c7dg94acg43e2g92abg64513793af1b" version="1">获得无相身形，以及五层斗气。</content>
+	<content contentuid="heb8aa700g5207g475eg8ba1g645976fd8aa3" version="1">Anatman</content>
+	<content contentuid="hc5aa2c7dg94acg43e2g92abg64513793af1b" version="1">Get Disciplined Fist and Formless Fist.</content>
 
-
-	<content contentuid="he70c4102g9482g4ae4gb6ebg81fcfe89b22c" version="1">六合星导脚</content>
-	<content contentuid="hda5273a0gf811g46f8g9983g0a7dbeccfff8" version="1">对目标发动物理攻击。为自身附加提高自身的移动速度的状态</content>
-	<content contentuid="hb0f1928dg0358g40f5g911cgb8dbfcc08d24" version="1">提高自身的移动速度</content>
+	<content contentuid="he70c4102g9482g4ae4gb6ebg81fcfe89b22c" version="1">Six-sided Star</content>
+	<content contentuid="hda5273a0gf811g46f8g9983g0a7dbeccfff8" version="1">Delivers an attack.Increases movement.</content>
+	<content contentuid="hb0f1928dg0358g40f5g911cgb8dbfcc08d24" version="1">Increases movement</content>
 
 	<content contentuid="h5d211578gf7f5g4ed2gb103g30b17a9d0392" version="1">破坏神冲精通</content>
 	<content contentuid="h0ff76f15gc986g41ddgab49g80030ab8143c" version="1">破坏神冲变为破坏神脚</content>
