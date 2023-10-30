@@ -2,169 +2,120 @@
 <contentList>
 	<content contentuid="hfb0a7363ge6f8g45b6ga917gb0be7c16583c" version="1">骑士</content>
 	<content contentuid="h760dee74g1898g4d9cg8ee1g8697281d807c" version="1">这些称作骑士的男女将眼花缭乱的剑术和坚固的盾牌防卫结合在一起，组成了无懈可击的战斗方式。身穿华丽银甲的骑士无畏地投入战斗，时刻准备为自己的君主献出生命。成为骑士意味着要保卫他人，选择这条道路的冒险者将成为团队防御的中流砥柱与坚固基石。</content>
-
 	<content contentuid="h4bbc72eagc8b6g4970gaf64g127c5fed7077" version="1">防护精通</content>
 	<content contentuid="h7b0a3d7dg219eg4513gbb65gfa98c7aac85e" version="1">降低受到的所有伤害[1]。在回合开始时，若装备有盾牌，盾牌将获得投掷后返回手中的效果。</content>
-
 	<content contentuid="h0ee23ab0ga261g43d3gac48g8374c6421442" version="1">钢铁信念</content>
 	<content contentuid="hc76493b4g8368g41c1gaddbg9cd3ba34dc3a" version="1">以你的队友为目标而进行的攻击掷骰有劣势。</content>
-
 	<content contentuid="he6de00f0g56a8g4e58g8d2fg8e42dfa30324" version="1">先锋剑</content>
 	<content contentuid="h00314a1fgd04cg488dg9ad4gabda41ac2c6c" version="1">对目标发动物理攻击</content>
 	<content contentuid="h07614019gd1b4g4e73gb87fgc638ea6a1eef" version="1">暴乱剑</content>
 	<content contentuid="h47eab422gcde3g4aa6gab33g0ad73c64e7cc" version="1">战女神之怒</content>
 	<content contentuid="h13f67779g37d1g4f4dg91b4g98fe3587b800" version="1">暴乱剑之后追加战女神之怒</content>
-
 	<content contentuid="h763c0f15gc594g4e1cgba9ag1a4c5869e7da" version="1">先锋剑连击</content>
 	<content contentuid="h6eade540gc2b2g443bga706gd704b47bf6ce" version="1">暴乱剑连击</content>
-
 	<content contentuid="h0083d1fcg79b3g42aeg8dadg98a67e9f22aa" version="1">深奥之灵</content>
-
 	<content contentuid="h675942f0gd138g42f6g940eg78b3e61a18e8" version="1">全蚀斩</content>
 	<content contentuid="h91a1484eg7b6bg474aga294g63208a657376" version="1">对自身周围的敌人发动范围物理攻击。</content>
 	<content contentuid="h445c473dgcbacg42f5gaf6fg3a41cbe18af0" version="1">日珥斩</content>
 	<content contentuid="h07db63a2g75b6g4cd4ga0c4ged2f5234fc85" version="1">全蚀斩之后追加日珥斩连击</content>
-
 	<content contentuid="ha4c63d51gff9fg410egbb87g4705dd2af4c3" version="1">全蚀斩连击</content>
-
 	<content contentuid="hf992e897g0b3bg40cbg8449gf9a167012023" version="1">战逃反应</content>
 	<content contentuid="h7b4c1ca8g7724g4f18gb86cg010a8e99a2f0" version="1">提升物理伤害[1]</content>
-
 	<content contentuid="h81114ab7g07feg4013g8792ge664d3d34127" version="1">忠义精通</content>
 	<content contentuid="h61f366b3gdef9g414eg97c2gb2c84bb7c1fd" version="1">解锁忠义量谱。物理攻击命中时获得5点忠义量值。</content>
 	<content contentuid="hf5df7fe1gbd96g4199g89c1g6a064ad63a49" version="1">忠义量谱</content>
-
 	<content contentuid="h2d751a20gb71fg4df6g8439g473a26c5fdd3" version="1">盾牌猛击</content>
-
 	<content contentuid="hd53c8069gbac1g4207g86b4gd50dcfc98043" version="1">投盾</content>
 	<content contentuid="hd9fb265bgcd81g45b1g96bbg691e37b32e27" version="1">投掷你的盾牌，吸引敌人来攻击你。</content>
-
 	<content contentuid="h2d1b5eb9ga64ag4f9cgbea9g60b18c622d9d" version="1">盾阵</content>
 	<content contentuid="h845ccfbbgff2eg42f9g8a2fg2e2a8f4db124" version="1">受到的伤害减少。</content>
-
 	<content contentuid="h77126a00ge29fg4c47g9ff2g49834488d3ca" version="1">预警</content>
-
 	<content contentuid="hecd3cb2eg689dg4d4cg9121g5e0a9ee78b2f" version="1">保护</content>
 	<content contentuid="ha9e28847g7d67g4990gb887g0c00b64f27cc" version="1">替目标队员承受来自敌人的攻击</content>
 	<content contentuid="he39ad328ga680g40f3gb75cg542e7191f02d" version="1">暂时不会承担伤害</content>
-
 	<content contentuid="hcf79a2c5g1500g4aa1g85ebg944b4637095a" version="1">被保护</content>
 	<content contentuid="he39adcfegc1a4g4501g9582g2d268a404b68" version="1">获得对所有伤害的抗性</content>
-
 	<content contentuid="h996bf89cgd259g45f9gb7f0ga07681858cc6" version="1">厄运流转</content>
 	<content contentuid="h0e2e36f1g28d7g476dga5e3ga9e73966cab1" version="1">每回合受到[1]伤害</content>
-
 	<content contentuid="h019fcda4ga5c2g4ce6g866fg8cb50640f787" version="1">壁垒</content>
 	<content contentuid="h82a0caeagc07eg4be2g89c9gbdbae1eb7951" version="1">受到攻击必定发动格挡</content>
-
 	<content contentuid="hc0c56028gf48ag4ef8g8180gbb8d75a3d8ed" version="1">沥血剑</content>
-
 	<content contentuid="h34fe03b6gfca3g4f97ga376g0a0b84386e1d" version="1">深仁厚泽</content>
 	<content contentuid="hf7b9a1d1g83d9g4489gac28gba35abe46416" version="1">恢复目标的体力。对小队队员发动该技能时，自身受到一半的恢复效果。</content>
-
 	<content contentuid="h3587f122g04e5g4913g907cg355b051759f0" version="1">神圣领域</content>
 	<content contentuid="h13923e9eg44eag47eag8b25g19cc146c6371" version="1">无敌</content>
-
 	<content contentuid="h6ba0595bg197dg4b27gb0d9gfd9ea0531040" version="1">骑士精神</content>
 	<content contentuid="h8e5ef310g774bg4d3dgb590g08513e5efc9d" version="1">暴乱剑与深奥之灵命中后恢复法术位</content>
-
 	<content contentuid="h5213ff97g19f5g4dd6g84e0g345825f175c9" version="1">圣光幕帘</content>
 	<content contentuid="hfd9ccb47g4d0cg4caag979ega76d7843efb9" version="1">为自身和周围的队友设置圣光的帷幕，提升他们最大生命值20%</content>
 	<content contentuid="h245de099g0da9g445cg91bbg122cbc9402f2" version="1">提升最大生命值20%</content>
-
 	<content contentuid="h69c03cf8g9cecg4756g9734gc4a1bd575267" version="1">战女神之怒精通</content>
 	<content contentuid="hfc872e96gcf39g41bcga0ddg512fa88d568d" version="1">战女神之怒变为王权剑。</content>
-
 	<content contentuid="h8eb3505cgf7fbg4ac2g94b9gc294417755a7" version="1">王权剑</content>
-
 	<content contentuid="h1143737cgf51cg4562ga73bg0636ba582cea" version="1">神圣魔法精通</content>
 	<content contentuid="h58405012g1662g406dg9158g9d84b5d552c5" version="1">王权剑追加神圣魔法精通效果：下次发动圣灵或圣环效果提高</content>
 	<content contentuid="hac18f16fg8815g4d2cg8708g5497a9190e7b" version="1">神圣魔法效果提高</content>
 	<content contentuid="h006d04a5gfad2g462fgbfb2ga24e7312b642" version="1">下次发动圣灵或圣环效果提高</content>
-
 	<content contentuid="h24e5b74dg047cg4170g915dg1c633341d3dd" version="1">神圣魔法精通II</content>
 	<content contentuid="h0f7420e9gecf0g4ea7ga232g446d5e4077f6" version="1">圣灵、圣环、悔罪可恢复体力</content>
-
 	<content contentuid="h03e3a217g3865g49a8g909ag38f1f6e659e3" version="1">干预</content>
 	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">指定一名队员，令其受到的伤害减少。若存在盾阵或预警效果，伤害进一步减少</content>
-
 	<content contentuid="h00ac4d3ag7434g4afcgbd22g807b33805ccf" version="1">圣灵</content>
 	<content contentuid="h40f30522g41edg4766gbb10gb37f035aa3af" version="1">圣灵（神圣）</content>
 	<content contentuid="h4c2c089eg93f8g4481ga970g0922d4dc02b4" version="1">圣灵（安魂祈祷）</content>
 	<content contentuid="h1bcdb70ag7653g4b3ega059gb28985f5516d" version="1">对目标发动光耀属性魔法攻击</content>
-
 	<content contentuid="ha6207ae9g9e13g459ag978bg8e2edc8954d1" version="1">圣环</content>
 	<content contentuid="hb5e0b8e7gfc8fg474ag88dbg8d30604c414a" version="1">圣环（神圣）</content>
 	<content contentuid="h4941205eg8a73g4220g8efegf5fb000505b8" version="1">圣环（安魂祈祷）</content>
 	<content contentuid="h6e6ff17fg5bbfg4dedgbd54g3f30fa3372d2" version="1">对自身周围的敌人发动光耀属性范围魔法攻击</content>
-
 	<content contentuid="h76d1a974g18c6g43d8g95a8g0e7424a0dfa7" version="1">安魂祈祷</content>
 	<content contentuid="he8cfb534g038bg4ae1ga275g49e41c03936b" version="1">对目标发动黯蚀魔法攻击。</content>
 	<content contentuid="h13dc8a5cg7381g45bdg858egcbf20d354f5e" version="1">圣灵和圣环、悔罪及其后续连击技能效果提高。</content>
-
-
 	<content contentuid="hb03ecca7ge635g44a6gba26ga81777f740ad" version="1">武装戍卫</content>
 	<content contentuid="hc9461d31gc253g4a96gbc10g870b26ee6a22" version="1">自身的格挡发动率变为100%，范围内的队员受到的伤害减轻</content>
 	<content contentuid="h2e54dbfeg76d5g477cg9402gecef23c03d85" version="1">武装</content>
-
 	<content contentuid="h7b6df3c3gec01g457ag9bc7g212bf69981a1" version="1">调停</content>
 	<content contentuid="he5242f92geb53g4e0agbfaeg0d092ade94f6" version="1">冲向目标并发动物理攻击，</content>
-
 	<content contentuid="h7f94eb3bg40a9g4a25gb650ge8daf27015ad" version="1">日珥斩效果提高</content>
 	<content contentuid="h8957eb24gdac0g4275gaf0egccc83bd47d6d" version="1">日珥斩追加效果：神圣魔法效果提高并恢复1个法术位</content>
-
 	<content contentuid="hcafc1e7fgbe3dg4d9dgb492g251d086e83e0" version="1">盾阵效果提高</content>
 	<content contentuid="h89175ae5ga7f0g4e27g8c3ag867130c28a26" version="1">盾阵效果延长了一回合</content>
-
 	<content contentuid="hd8a371e6g5698g4bafga5f5g1733f67cb2e7" version="1">忠义之剑</content>
 	<content contentuid="hb9aa17a7g00edg458cg8963g38d1c8e4f637" version="1">对自身附加3阶段的忠义之剑状态</content>
-
 	<content contentuid="h4454a5eeg820fg4041ga638geac8c1c55612" version="1">安魂祈祷效果提高</content>
 	<content contentuid="h3f62b2f5gdd51g4a71gaf7bg784c67123169" version="1">对自身附加悔罪预备状态</content>
-
 	<content contentuid="hb05f8b08gc142g4c84gbdbfgaacc5d9220c2" version="1">赎罪剑</content>
-
 	<content contentuid="hfff61c2ag80eeg45c9g8cadga4caf9062323" version="1">悔罪</content>
 	<content contentuid="hd15db05egc809g42c9gb382g09d8f4766db2" version="1">对目标及其周围的敌人发动光耀属性范围魔法攻击</content>
 	<content contentuid="hada54fa1gfa2cg403bg94c0gb1d40ef83239" version="1">悔罪预备</content>
-
 	<content contentuid="h927e7560g1c99g47cag8712gf8078bb2d078" version="1">盾阵精通</content>
 	<content contentuid="h559782eag1231g40bbg84ffgbf9cc5af6e5e" version="1">你对神圣魔法的运用更上一层楼，盾阵变为圣盾阵</content>
 	<content contentuid="h3c9d1e1cgab12g418eg83a5g5dc65b7d4335" version="1">干预效果提高</content>
 	<content contentuid="h54fe929fgd475g4b38g999aga774bc98eb0a" version="1">你对神圣魔法的运用更上一层楼，干预的持续时间延长一回合，并追加骑士的坚守和骑士的加护效果</content>
-
 	<content contentuid="h9a95698fg2419g407agbdc5g25b7d2726c56" version="1">圣盾阵</content>
 	<content contentuid="hbeb5dbc6g0399g47cdgb232gb5fa1561f50c" version="1">护甲上升，受到的伤害减少，每回合恢复</content>
 	<content contentuid="h06cb6242g0649g4670g8218g895e57bcb4ba" version="1">骑士的坚守</content>
 	<content contentuid="h58fa46aega630g4babgbb4egb26912cff7ad" version="1">护甲上升，受到的伤害减少</content>
 	<content contentuid="h1b80fc31gac2ag44b7gb516ga2027746be51" version="1">骑士的加护</content>
 	<content contentuid="ha7679c10g87bbg436bga596g5dbcce26c089" version="1">每回合恢复</content>
-
 	<content contentuid="h264ba657g0c3eg4dddg9223g033d5f75ad9d" version="1">技能威力提高</content>
 	<content contentuid="h5a95f00cg9a52g49f2g9039g56879e2deb9e" version="1">你对神圣魔法的运用更上一层楼，你的剑术和魔法的威力都有所提升。</content>
-
 	<content contentuid="haf5838efgd66ag4384g988fgc2727ea1bb8d" version="1">深奥之灵精通</content>
 	<content contentuid="h72b886fdg7961g4967g945cgfbe706d41ba8" version="1">你对神圣魔法的运用更上一层楼，深奥之灵变为能攻击范围目标的偿赎剑</content>
-
 	<content contentuid="hd5386b73gd9dag40d9gb8ceg3a6db38edba7" version="1">偿赎剑</content>
 	<content contentuid="h907ae038gd342g4a9bga0d0g337140f3eb6b" version="1">对目标及其周围敌人发动范围物理攻击，获得额外的忠义值</content>
-
 	<content contentuid="h9e1cfb9dg7538g4538gbc9bg64d365143b0f" version="1">圣光幕帘效果提高</content>
 	<content contentuid="hf4da1a9agd9a0g4476ga70egb1949aec182a" version="1">你对神圣魔法的运用更上一层楼，圣光幕帘发动时为目标恢复体力</content>
-
 	<content contentuid="hf62f31ebgb46bg425fgbdb8gf5b26a3f9899" version="1">信念之剑预备中</content>
 	<content contentuid="h16beb3e2g908fg4e07g92a9g4c543c4ca718" version="1">可发动信念之剑</content>
 	<content contentuid="hcf05d587g79d3g4963gb41eg2507e9d2136a" version="1">信念之剑连击</content>
 	<content contentuid="h20ee0ceeg1980g41d6g84e6gf28875832868" version="1">信念之剑连击准备</content>
 	<content contentuid="h0243972cg8bc5g41f0gaf08g362e84995d77" version="1">真理之剑连击</content>
 	<content contentuid="h7702484dg34a7g4826g80bdg15c65bc642ab" version="1">真理之剑连击准备</content>
-
 	<content contentuid="h1d8893eeg03ffg4381g824agb7f2c02db93d" version="1">信念之剑</content>
 	<content contentuid="h3ef2ed59g6adag430cgb32agc6e43b04b62a" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
 	<content contentuid="h3ef2ed59g6adag430cgb32agc6e43b04b62a" version="1">真理之剑</content>
 	<content contentuid="hf14e007agb5a8g4919gae35g21d39ac0e958" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
 	<content contentuid="hd057e9c7g9a7bg40b7g8b62g35c828153702" version="1">真理之剑</content>
 	<content contentuid="h08ec7f51gcd2bg4bbfg844fge1f8483c0f21" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
-
-
 </contentList>
