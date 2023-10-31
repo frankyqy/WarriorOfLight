@@ -148,7 +148,7 @@ data "Icon" "ICON_BRD_Enhanced_Empyreal_Arrow"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "HasStatus('BOOST_Mage_Ballad_AURA', context.Source) and SpellId('Projectile_Empyreal_Arrow')"
-data "StatsFunctors" "RestoreResource(SELF,Bloodletter_Gauge,1,0)"
+data "StatsFunctors" "ApplyStatus(BOOST_Mage_Ballad_R,100,-1)"
 
 
 new entry "Enhanced_Empyreal_Arrow_Army_Paeon"

@@ -19,9 +19,9 @@ function IsBloodLilyGaugeEqualThan(value)
     return ConditionResult(false)
 end
 
-function BRDRepertoireActionCheck() {
+function BRDRepertoireActionCheck()
     return SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') | SpellId('Zone_Quick_Nock') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Sidewinder') | SpellId('Projectile_Caustic_Bite Projectile_Stormbite') | SpellId('Projectile_Refulgent_Arrow') | SpellId('Projectile_Shadowbite') | SpellId('Projectile_Burst_Shot') | SpellId('Zone_Apex_Arrow')
-}
+end
 
 
 
