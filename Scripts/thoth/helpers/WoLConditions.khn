@@ -1,5 +1,5 @@
 function PLDActionCheck()
-    return SpellId('Target_Fast_Blade') | SpellId('Target_Riot_Blade') | SpellId('Target_Royal_Authority') | SpellId('Shout_Total_Eclipse') | SpellId('Shout_Prominence') | SpellId('Target_Goring_Blade') | SpellId('Target_Clemency') | SpellId('Target_Holy_Spirit') | SpellId('Target_Holy_Spirit_Divine') | SpellId('Target_Holy_Spirit_Requiescat') | SpellId('Shout_Holy_Circle') | SpellId('Shout_Holy_Circle_Divine') | SpellId('Shout_Holy_Circle_Requiescat') | SpellId('Target_Atonement')
+    return SpellId('Target_Fast_Blade') | SpellId('Target_Riot_Blade') | SpellId('Target_Royal_Authority') | SpellId('Shout_Total_Eclipse') | SpellId('Shout_Prominence') | SpellId('Target_Goring_Blade') | SpellId('Target_Clemency') | SpellId('Target_Holy_Spirit') | SpellId('Target_Holy_Spirit_Divine') | SpellId('Target_Holy_Spirit_Requiescat') | SpellId('Shout_Holy_Circle') | SpellId('Shout_Holy_Circle_Divine') | SpellId('Shout_Holy_Circle_Requiescat') | SpellId('Target_Atonement') | SpellId('Target_Confiteor')
 end
 
 function IsBloodLilyGaugeEqualThan(value)
