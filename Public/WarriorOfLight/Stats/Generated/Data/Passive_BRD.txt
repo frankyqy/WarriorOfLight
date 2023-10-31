@@ -67,7 +67,7 @@ data "DisplayName" "hea149bcbg0a7ag4cb1ga563gda844e240b37"
 data "Description" "h161e5ca6g92adg40c0gad5dgdd4736d0f1ce"
 data "Icon" "ICON_BRD_Mage_Ballad"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') | SpellId('Zone_Quick_Nock') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Sidewinder')"
+data "Conditions" "BRDRepertoireActionCheck()"
 data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(BOOST_Mage_Ballad_R,100,-1)"
 
 
@@ -77,7 +77,7 @@ data "DisplayName" "h2ac2b118g3d73g450ag97eag3f6955f98175"
 data "Description" "hc97d0b65gff5cg489ag93a5gbe615b8c2f98"
 data "Icon" "ICON_BRD_Army_Paeon"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') | SpellId('Zone_Quick_Nock') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Sidewinder')"
+data "Conditions" "BRDRepertoireActionCheck()"
 data "StatsFunctors" "IF(not HasStatus('BOOST_Army_Paeon_R', context.Source) and not HasStatus('BOOST_Army_Paeon_R_2', context.Source) and not HasStatus('BOOST_Army_Paeon_R_3', context.Source) and not HasStatus('BOOST_Army_Paeon_R_4', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R,100,-1);IF(HasStatus('BOOST_Army_Paeon_R', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R_2, 100, -1);IF(HasStatus('BOOST_Army_Paeon_R_2', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R_3, 100, -1);IF(HasStatus('BOOST_Army_Paeon_R_3', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_Army_Paeon_R_4, 100, -1)"
 
 new entry "Army_Paeon_T2"
@@ -104,7 +104,7 @@ data "DisplayName" "h3b102d88g9791g436cg9282gbfee4bc8cfef"
 data "Description" "hb400f011ga23fg4991g894agd83883f021c3"
 data "Icon" "ICON_BRD_the_Wanderer_Minuet"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite') | SpellId('Zone_Quick_Nock') | SpellId('Target_Iron_Jaws') | SpellId('Projectile_Sidewinder')"
+data "Conditions" "BRDRepertoireActionCheck()"
 data "StatsFunctors" "IF(not HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and not HasStatus('BOOST_the_Wanderer_Minuet_R_3', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R,100,-1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_2, 100, -1);IF(HasStatus('BOOST_the_Wanderer_Minuet_R_2', context.Source) and RollDieAgainstDC(DiceType.d20,4)):ApplyStatus(SELF, BOOST_the_Wanderer_Minuet_R_3, 100, -1)"
 
 
