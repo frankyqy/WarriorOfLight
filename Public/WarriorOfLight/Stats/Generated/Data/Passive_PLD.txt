@@ -158,7 +158,7 @@ type "PassiveData"
 data "DisplayName" "h4454a5eeg820fg4041ga638geac8c1c55612"
 data "Description" "h3f62b2f5gdd51g4a71gaf7bg784c67123169"
 data "Icon" "ICON_PLD_Enhanced_Requiescat"
-data "Conditions" "(SpellId('Target_Requiescat')) and HasDamageEffectFlag(DamageFlags.Hit)"
+data "Conditions" "SpellId('Target_Requiescat')"
 data "StatsFunctors" "ApplyStatus(SELF,BOOST_Confiteor_Ready,100,5)"
 data "StatsFunctorContext" "OnAttack"
 
