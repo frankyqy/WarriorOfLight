@@ -313,6 +313,8 @@ data "Icon" "ICON_BRD_Battle_Voice_s"
 data "SoundLoop" "MAG_Status_HarpersSingingSword_BlessingAura"
 data "StackId" "BOOST_Battle_Voice"
 data "Boosts" "ReduceCriticalAttackThreshold(1)"
+data "RemoveEvents" "OnStatusRemoved"
+data "RemoveConditions" "not HasStatus('BOOST_Mage_Ballad_AURA') or not HasStatus('BOOST_Army_Paeon_AURA') or not HasStatus('BOOST_the_Wanderer_Minuet_AURA')"
 
 
 
