@@ -599,7 +599,7 @@ data "Level" "0"
 data "Icon" "ICON_WHM_Afflatus_Rapture"
 data "SpellSchool" "Evocation"
 data "DisplayName" "h537cbe7eg648eg456fg9bc2gc88a311c6ac5;1"
-data "Icon" "ICON_WHM_Afflatus_Solace"
+data "Icon" "ICON_WHM_Afflatus_Rapture"
 data "UseCosts" "ActionPoint:1;Lily_Gauge:1"
 data "RootSpellID" ""
 
