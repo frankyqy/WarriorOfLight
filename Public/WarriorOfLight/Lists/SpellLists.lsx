@@ -137,7 +137,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="BRD_Lv_80"/>
-                    <attribute id="Spells" type="LSString" value="Zone_Apex_Arrow"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Apex_Arrow_Container"/>
                     <attribute id="UUID" type="guid" value="230d21be-c015-49fb-99bb-afeebfe0751c"/>
                 </node>
 

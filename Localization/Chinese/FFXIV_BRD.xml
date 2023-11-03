@@ -113,6 +113,7 @@
 	<content contentuid="hb022c31aga6c8g486agb903g6abd2be0b6be" version="1">军神的赞美歌效果提高</content>
 	<content contentuid="h9b79dabag7d4dg4a0bgb063g2184d3699acf" version="1">军神的赞美歌状态中且身上有诗心时，使用贤者的叙事谣或放浪神的小步舞曲会对自身附加军神的加护状态。军神的赞美歌状态中且身上有诗心时，如果没有使用贤者的叙事谣或放浪神的小步舞曲，则在军神的赞美歌状态自动结束时对自身附加军神的契约状态。</content>
 	<content contentuid="ha184fceeg5086g4042gb4bbgd55de8cd42d3" version="1">军神的加护</content>
+	<content contentuid="hac679cbcg1e66g4c7aga863g6b24dba46f23" version="1">军神的契约</content>
 
 	<content contentuid="hc6909af6g082dg4d4dg885agddd35bd46ec1" version="1">灵魂之声</content>
 	<content contentuid="h7ad38bc1g3f58g4cc7gad08g5fed9c35f5f9" version="1">对自身附加诗心状态时，获得5点灵魂之声量值</content>
