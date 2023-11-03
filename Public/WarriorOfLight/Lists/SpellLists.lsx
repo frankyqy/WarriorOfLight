@@ -135,6 +135,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Nature_Minne"/>
                     <attribute id="UUID" type="guid" value="d0f5ea03-1bfe-40d5-b395-6b520b24c4d0"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="BRD_Lv_80"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Apex_Arrow"/>
+                    <attribute id="UUID" type="guid" value="230d21be-c015-49fb-99bb-afeebfe0751c"/>
+                </node>
 
 
                 <node id="SpellList">
