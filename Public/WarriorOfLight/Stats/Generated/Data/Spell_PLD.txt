@@ -609,7 +609,7 @@ data "PrepareLoopSound" "Spell_Loop_Damage_FlameStrike_L4to5"
 data "CastSound" "Spell_Cast_Damage_FlameStrike_L4to5"
 data "TargetSound" "Spell_Impact_Damage_FlameStrike_L4to5"
 data "CastTextEvent" "Cast"
-data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1;Requiescat_Gauge:1"
 data "SpellAnimation" "3ff87abf-1ea1-4c32-aadf-c822d74c7dc0,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;eadedcce-d01b-4fbb-a1ae-d218f13aa5d6,,;,,;,,"
 data "VerbalIntent" "Damage"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful;CanAreaDamageEvade"
@@ -751,7 +751,7 @@ data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+2d10,Radiant,Ma
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+2d10,Radiant,Magical)"
 data "RequirementConditions" "not HasStatus('BOOST_Requiescat') and HasStatus('BOOST_Divine_Magic_Mastery')"
-data "UseCosts" "SpellSlotsGroup:1:1:1"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
 
 
 new entry "Target_Holy_Spirit_Requiescat"
@@ -762,8 +762,7 @@ data "DisplayName" "h4c2c089eg93f8g4481ga970g0922d4dc02b4;1"
 data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Magical)"
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)/2+1d10,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_Target3)+3d10,Radiant,Magical)"
-data "AmountOfTargets" "2"
-data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:1:1:1"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1;Requiescat_Gauge:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
 
 
@@ -815,7 +814,7 @@ data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbility
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)/2,Radiant,Magical)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier+2d10,Radiant,Magical)"
 data "RequirementConditions" "not HasStatus('BOOST_Requiescat') and HasStatus('BOOST_Divine_Magic_Mastery')"
-data "UseCosts" "SpellSlotsGroup:1:1:1"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
 
 
 new entry "Shout_Holy_Circle_Requiescat"
@@ -823,11 +822,10 @@ type "SpellData"
 data "SpellType" "Shout"
 using "Shout_Holy_Circle"
 data "DisplayName" "h4941205eg8a73g4220g8efegf5fb000505b8;1"
-data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)*2+2*SpellCastingAbilityModifier+3d10,Radiant,Magical)"
+data "SpellSuccess" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier+3d10,Radiant,Magical)"
 data "SpellFail" "DealDamage(LevelMapValue(FFXIV_PLD_AOE),Radiant,Magical)"
-data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)*2+2*SpellCastingAbilityModifier+3d10,Radiant,Magical)"
-data "AmountOfTargets" "2"
-data "UseCosts" "ActionPoint:1;Requiescat_Gauge:2;SpellSlotsGroup:1:1:1"
+data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_PLD_AOE)+SpellCastingAbilityModifier+3d10,Radiant,Magical)"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1;Requiescat_Gauge:1"
 data "RequirementConditions" "HasStatus('BOOST_Requiescat')"
 
 
