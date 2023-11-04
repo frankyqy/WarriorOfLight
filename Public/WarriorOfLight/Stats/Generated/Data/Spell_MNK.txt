@@ -303,7 +303,6 @@ new entry "Shout_Shadow_of_the_Destroyer_F"
 type "SpellData"
 data "SpellType" "Target"
 using "Shout_Shadow_of_the_Destroyer"
-data "UseCosts" "BonusActionPoint:1"
 data "DisplayName" "hb74b09a7g3ee6g41f6g83bagccb2b042af40;3"
 data "RequirementConditions" "HasStatus('BOOST_Formless_Fist')"
 
