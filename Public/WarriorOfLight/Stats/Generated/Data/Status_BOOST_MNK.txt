@@ -91,7 +91,7 @@ data "DisplayName" "hf2cb3364g2b15g4c94g9a1agb733c9bd508c;1"
 data "Description" "h84f668e8g330ag488dg886cgb5b81a09bdbb;1"
 data "Icon" "ICON_MNK_Perfect_Balance_s"
 data "StackId" "BOOST_Formless_Fist"
-data "Boosts" "ActionResource(Perfect_Balance_Gauge,3,0);UnlockSpell(Target_Bootshine_PB); UnlockSpell(Target_Dragon_Kick_PB);UnlockSpell(Shout_Arm_of_the_Destroyer_PB);UnlockSpell(Target_True_Strike_PB);UnlockSpell(Target_Twin_Snakes_PB);UnlockSpell(Shout_Four-point_Fury_PB);UnlockSpell(Target_Snap_Punch_PB);UnlockSpell(Target_Demolish_PB);UnlockSpell(Shout_Rockbreaker_PB)"
+data "Boosts" "ActionResource(Perfect_Balance_Gauge,3,0);UnlockSpell(Target_Bootshine_PB); UnlockSpell(Target_Dragon_Kick_PB);UnlockSpell(Target_True_Strike_PB);UnlockSpell(Target_Twin_Snakes_PB);UnlockSpell(Shout_Four-point_Fury_PB);UnlockSpell(Target_Snap_Punch_PB);UnlockSpell(Target_Demolish_PB);UnlockSpell(Shout_Rockbreaker_PB);IF(not HasPassive('Arm_of_the_Destroyer_Mastery',context.Source)):UnlockSpell(Shout_Arm_of_the_Destroyer_PB);IF(HasPassive('Arm_of_the_Destroyer_Mastery',context.Source)):UnlockSpell(Shout_Shadow_of_the_Destroyer_PB)"
 
 
 new entry "BOOST_Formless_Fist"
@@ -101,7 +101,7 @@ data "DisplayName" "h3f19d96fg7502g4435g90f4ge409c0b4042c;1"
 data "Description" "h2291e7cdg2d68g4676g85efgb80443c5912e;1"
 data "Icon" "ICON_MNK_Formless_Fist"
 data "StackId" "BOOST_Formless_Fist"
-data "Boosts" "UnlockSpell(Target_Bootshine_F); UnlockSpell(Target_Dragon_Kick_F);UnlockSpell(Shout_Arm_of_the_Destroyer_F);UnlockSpell(Target_True_Strike_F);UnlockSpell(Target_Twin_Snakes_F);UnlockSpell(Shout_Four-point_Fury_F);UnlockSpell(Target_Snap_Punch_F);UnlockSpell(Target_Demolish_F);UnlockSpell(Shout_Rockbreaker_F)"
+data "Boosts" "UnlockSpell(Target_Bootshine_F); UnlockSpell(Target_Dragon_Kick_F);UnlockSpell(Target_True_Strike_F);UnlockSpell(Target_Twin_Snakes_F);UnlockSpell(Shout_Four-point_Fury_F);UnlockSpell(Target_Snap_Punch_F);UnlockSpell(Target_Demolish_F);UnlockSpell(Shout_Rockbreaker_F);IF(not HasPassive('Arm_of_the_Destroyer_Mastery',context.Source)):UnlockSpell(Shout_Arm_of_the_Destroyer_F);IF(HasPassive('Arm_of_the_Destroyer_Mastery',context.Source)):UnlockSpell(Shout_Shadow_of_the_Destroyer_F)"
 data "RemoveEvents" "OnSpellCast"
 data "RemoveConditions" "SpellId('Target_Bootshine_F') or SpellId('Target_Dragon_Kick_F') or SpellId('Shout_Arm_of_the_Destroyer_F') or SpellId('Target_True_Strike_F') or SpellId('Target_Twin_Snakes_F') or SpellId('Shout_Four-point_Fury_F') or SpellId('Target_Snap_Punch_F') or SpellId('Target_Demolish_F') or SpellId('Shout_Rockbreaker_F')"
 
