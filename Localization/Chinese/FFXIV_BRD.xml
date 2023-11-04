@@ -128,4 +128,19 @@
 	<content contentuid="hc66ec05agff7eg4fd5gb417g3afe3b98d73e" version="1">失血箭效果提高</content>
 	<content contentuid="h17c8b1e9g238cg4bf5ga97eg5fceebde70fa" version="1">失血箭与死亡箭雨的积蓄次数增加到3次</content>
 
+	<content contentuid="h94955e50gd7beg4f3agbb65g1dd3298e4e29" version="1">绝峰箭效果提高</content>
+	<content contentuid="ha7f821e4gdd25g4205gb4f4g27aca51c0d12" version="1">灵魂之声80点以上时发动绝峰箭，对自身附加爆破箭预备状态</content>
+
+	<content contentuid="hd2824297gb86dg4529gbc0dg354a53787a53" version="1">爆破箭预备</content>
+
+	<content contentuid="h3881241ag2397g45a8gae87gc14a539ae3fa" version="1">战歌效果提高</content>
+	<content contentuid="h470e41ceg0f1ag4dc0gb19ag32b8c3bcf13c" version="1">发动贤者的叙事谣、军神的赞美歌、放浪神的小步舞曲时，对自身附加对应的尾声标识</content>
+
+	<content contentuid="h3ddac4e0ge742g403cga32fg305502cd3e2f" version="1">贤者尾声</content>
+	<content contentuid="h067d510ag4261g42ffgbafbgd245536dd073" version="1">军神尾声</content>
+	<content contentuid="h39e0f2ebg6fcdg46c2gb024gec1b1a63f3e9" version="1">放浪神尾声</content>
+
+	<content contentuid="h4e192e30g6b1fg450bg9a6fga223c71556ae" version="1">光明神的最终乐章</content>
+	<content contentuid="hf9492181g06fdg4ac6gb58cg4235da19adcc" version="1">自身与周围队员发动攻击造成的伤害提高</content>
+
 </contentList>

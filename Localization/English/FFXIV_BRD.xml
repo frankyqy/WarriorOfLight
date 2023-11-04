@@ -125,4 +125,19 @@
 	<content contentuid="hc66ec05agff7eg4fd5gb417g3afe3b98d73e" version="1">Enhanced Bloodletter</content>
 	<content contentuid="h17c8b1e9g238cg4bf5ga97eg5fceebde70fa" version="1">Allows a third charge of Bloodletter.</content>
 
+	<content contentuid="h94955e50gd7beg4f3agbb65g1dd3298e4e29" version="1">Enhanced Apex Arrow</content>
+	<content contentuid="ha7f821e4gdd25g4205gb4f4g27aca51c0d12" version="1">Grants Blast Arrow Ready upon executing Apex Arrow after the Soul Voice Gauge has reached 80 or higher.</content>
+
+	<content contentuid="hd2824297gb86dg4529gbc0dg354a53787a53" version="1">Blast Arrow Ready</content>
+
+	<content contentuid="h3881241ag2397g45a8gae87gc14a539ae3fa" version="1">Minstrel's Coda</content>
+	<content contentuid="h470e41ceg0f1ag4dc0gb19ag32b8c3bcf13c" version="1">Grants Mage's Coda, Army's Coda, or Wanderer's Coda upon singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet respectively.</content>
+
+	<content contentuid="h3ddac4e0ge742g403cga32fg305502cd3e2f" version="1">Mage's Coda</content>
+	<content contentuid="h067d510ag4261g42ffgbafbgd245536dd073" version="1">Army's Coda</content>
+	<content contentuid="h39e0f2ebg6fcdg46c2gb024gec1b1a63f3e9" version="1">Wanderer's Coda</content>
+
+	<content contentuid="h4e192e30g6b1fg450bg9a6fga223c71556ae" version="1">Radiant Finale</content>
+	<content contentuid="hf9492181g06fdg4ac6gb58cg4235da19adcc" version="1">Increases damage dealt by self and nearby party members.</content>
+
 </contentList>

@@ -225,3 +225,23 @@ data "Description" "h17c8b1e9g238cg4bf5ga97eg5fceebde70fa"
 data "Icon" "ICON_BRD_Enhanced_Bloodletter"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Bloodletter_Gauge,1,0)"
+
+
+new entry "Enhanced_Apex_Arrow"
+type "PassiveData"
+data "DisplayName" "h94955e50gd7beg4f3agbb65g1dd3298e4e29"
+data "Description" "ha7f821e4gdd25g4205gb4f4g27aca51c0d12"
+data "Icon" "ICON_BRD_Enhanced_Apex_Arrow"
+data "Properties" "Highlighted;ForceShowInCC"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Zone_Apex_Arrow_4') | SpellId('Zone_Apex_Arrow_5')"
+data "StatsFunctors" "ApplyStatus(SELF, BOOST_Blast_Arrow_Ready, 100, 5)"
+
+new entry "Minstrel_Coda"
+type "PassiveData"
+data "DisplayName" "h3881241ag2397g45a8gae87gc14a539ae3fa"
+data "Description" "h470e41ceg0f1ag4dc0gb19ag32b8c3bcf13c"
+data "Icon" "ICON_BRD_Minstrel_Coda"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "UnlockSpell(Shout_Radiant_Finale)"
+
