@@ -525,8 +525,8 @@
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery_4;Holy"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Glare_Mastery;Holy_Mastery"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="b5652857-c1dd-4f2e-97e6-1a6c7613b781"/>
                 </node>
@@ -535,7 +535,7 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Glare_Mastery"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="7864ea4e-0772-493f-ba6a-735b7259cc15"/>
                 </node>

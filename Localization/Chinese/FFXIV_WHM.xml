@@ -22,6 +22,8 @@
 	<content contentuid="h6523e8c3g74d4g485agaeb7gd13904b42c51" version="1">飞石精通IV</content>
 	<content contentuid="h989ef69cgbb34g438cgb905g19932dc538bf" version="1">崩石变为闪耀</content>
 	<content contentuid="h502a7fd5g378fg4c92gbab4gd0598a2e39b8" version="1">闪耀</content>
+	<content contentuid="h215c8d29ga17ag4c86g8d49g4a9f34827989" version="1">对目标发动光耀属性魔法攻击</content>
+	<content contentuid="ha2fa1e88g57e1g4f24g90b0g52c36d706907" version="1">闪灼</content>
 
 	<content contentuid="hc132311fg5be1g4b12ga4c1gb737a77c2497" version="1">治疗</content>
 	<content contentuid="h82f86fe9gb215g415egb0a3g8cc534550023" version="1">恢复目标的HP。</content>
@@ -61,6 +63,7 @@
 
 	<content contentuid="hf4917b0fg40dag4f7bg839agb563f4ed7b1d" version="1">神圣</content>
 	<content contentuid="h23a7e70fg77adg4be2g83dbge4e4ee0ff5c7" version="1">对自身周围的敌人发动光耀属性范围魔法攻击。</content>
+	<content contentuid="hd496dddag53b1g436fg9d40ge7f9dcfab58a" version="1">豪圣</content>
 
 	<content contentuid="h124cf2a9gcec1g432fg89fag0c96792bc6db" version="1">天赐祝福</content>
 	<content contentuid="h4d1e1039g459cg4d11g81ecg44f39d8b5f0f" version="1">令目标体力完全恢复。</content>
@@ -104,6 +107,12 @@
 	<content contentuid="h0b11e6f6g543eg49d6g9906g98c5a4e8df5e" version="1">节制</content>
 	<content contentuid="h27ed348bg12fbg4e81gb6efg2db0305a522a" version="1">自身发动治疗魔法的治疗量提高，自身与50米以内的队员受到的伤害减轻</content>
 	<content contentuid="h9d2bf57ag4c87g4693gba6dgb6838368a94d" version="1">受到的伤害减轻</content>
+
+	<content contentuid="hd709c455g1f56g4dc3gb00agb929678778a3" version="1">闪耀精通</content>
+	<content contentuid="h342ed8d9g83aag4b88g9fd9gdedc760f9958" version="1">闪耀变为闪灼</content>
+
+	<content contentuid="h5a551da3g52f4g43b7g8fb2g52904723d17e" version="1">神圣精通</content>
+	<content contentuid="h0b36a8e7ge4a6g4c05ga760g338ea7ac3818" version="1">神圣变为豪圣</content>
 
 
 </contentList>

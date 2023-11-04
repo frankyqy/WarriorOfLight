@@ -5,7 +5,7 @@
 	<content contentuid="h71da5300g101dg4877g9567g1fcefd224ac8" version="1">Those who would walk the path of the white mage are healers without peer, possessed of the power to deliver comrades from the direst of afflictions—even the icy grip of death itself.</content>
 
 	<content contentuid="h2bf31093g1582g4ab8gba80g9100eb7237f4" version="1">Stone</content>
-	<content contentuid="h9b7abf6eg135dg4bc5gb462g7154f2a42767" version="1">Deals Bludgeoning damage。</content>
+	<content contentuid="h9b7abf6eg135dg4bc5gb462g7154f2a42767" version="1">Deals Bludgeoning damage.</content>
 
 	<content contentuid="h47f7ce9cg9f23g41fagb281ga6982e204e55" version="1">Stone Mastery</content>
 	<content contentuid="hd0240fd0g8984g40f4gaca9gbb5f0f5d0c00" version="1">Upgrades Stone to Stone II.</content>
@@ -22,6 +22,8 @@
 	<content contentuid="h6523e8c3g74d4g485agaeb7gd13904b42c51" version="1">Stone Mastery IV</content>
 	<content contentuid="h989ef69cgbb34g438cgb905g19932dc538bf" version="1">Upgrades Stone IV to Glare.</content>
 	<content contentuid="h502a7fd5g378fg4c92gbab4gd0598a2e39b8" version="1">Glare</content>
+	<content contentuid="h215c8d29ga17ag4c86g8d49g4a9f34827989" version="1">Deals Radiant damage.</content>
+	<content contentuid="ha2fa1e88g57e1g4f24g90b0g52c36d706907" version="1">Glare III</content>
 
 	<content contentuid="hc132311fg5be1g4b12ga4c1gb737a77c2497" version="1">Cure</content>
 	<content contentuid="h82f86fe9gb215g415egb0a3g8cc534550023" version="1">Restores target's HP.</content>
@@ -60,6 +62,7 @@
 
 	<content contentuid="hf4917b0fg40dag4f7bg839agb563f4ed7b1d" version="1">Holy</content>
 	<content contentuid="h23a7e70fg77adg4be2g83dbge4e4ee0ff5c7" version="1">Deals Radiant damage to all nearby enemies.</content>
+	<content contentuid="hd496dddag53b1g436fg9d40ge7f9dcfab58a" version="1">Holy III</content>
 
 	<content contentuid="h124cf2a9gcec1g432fg89fag0c96792bc6db" version="1">Benediction</content>
 	<content contentuid="h4d1e1039g459cg4d11g81ecg44f39d8b5f0f" version="1">Restores all of a target's HP.</content>
@@ -103,5 +106,11 @@
 	<content contentuid="h0b11e6f6g543eg49d6g9906g98c5a4e8df5e" version="1">Temperance</content>
 	<content contentuid="h27ed348bg12fbg4e81gb6efg2db0305a522a" version="1">Increases healing magic potency, while reducing damage taken by self and all party members within a radius of 50m</content>
 	<content contentuid="h9d2bf57ag4c87g4693gba6dgb6838368a94d" version="1">reducing damage taken</content>
+
+	<content contentuid="hd709c455g1f56g4dc3gb00agb929678778a3" version="1">Glare Mastery</content>
+	<content contentuid="h342ed8d9g83aag4b88g9fd9gdedc760f9958" version="1">Upgrades Glare to Glare III.</content>
+
+	<content contentuid="h5a551da3g52f4g43b7g8fb2g52904723d17e" version="1">Holy Mastery</content>
+	<content contentuid="h0b36a8e7ge4a6g4c05ga760g338ea7ac3818" version="1">Upgrades Holy to Holy III.</content>
 
 </contentList>
