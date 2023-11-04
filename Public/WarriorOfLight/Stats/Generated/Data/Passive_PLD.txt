@@ -215,7 +215,7 @@ type "PassiveData"
 data "DisplayName" "h9e1cfb9dg7538g4538gbc9bg64d365143b0f"
 data "Description" "hf4da1a9agd9a0g4476ga70egb1949aec182a"
 data "Icon" "ICON_PLD_Enhanced_Divine_Veil"
-data "StatsFunctors" "TARGET:RegainHitPoints(8d10+SpellCastingAbilityModifier)"
+data "StatsFunctors" "TARGET:RegainHitPoints(4d10+SpellCastingAbilityModifier)"
 data "StatsFunctorContext" "OnCast"
 data "Conditions" "(SpellId('Shout_Divine_Veil'))"
 
