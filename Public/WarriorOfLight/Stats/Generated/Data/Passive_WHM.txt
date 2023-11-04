@@ -177,5 +177,5 @@ data "DisplayName" "h09dca4f7gebb3g4678g8e24gaa88fce727eb;2"
 data "Description" "hdf980d9fg01c1g44ceg81bdga6102309a909;2"
 data "Icon" "ICON_WHM_Liturgy_of_the_Bell"
 data "StatsFunctorContext" "OnDamage"
-data "StatsFunctors" "UseSpell(SELF,Shout_Liturgy_of_the_Bell,true,true,true)"
+data "StatsFunctors" "UseSpell(SELF,Shout_Liturgy_of_the_Bell,true,true,true);UseActionResource(Liturgy_Of_The_Bell_Gauge,1)"
 
