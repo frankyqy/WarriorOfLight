@@ -238,8 +238,8 @@ data "Description" "h6e6424b3g1bddg4a88ga183g240ea91e074d;1"
 data "TargetConditions" "not Ally()"
 data "SpellRoll" "Attack(AttackType.RangedWeaponAttack)"
 data "SpellProperties" ""
-data "SpellSuccess" "DealDamage(MainRangedWeapon, MainRangedWeaponDamageType); ExecuteWeaponFunctors(MainHand);DealDamage(LevelMapValue(FFXIV_BRD_AOE)+DexterityModifier,MainRangedWeaponDamageType);IF(HasPassive('Army_Paeon_T4',context.Source)):DealDamage(LevelMapValue(FFXIV_BRD_AOE)+DexterityModifier,MainRangedWeaponDamageType);IF(HasPassive('Army_Paeon_T4',context.Source) or HasPassive('Army_Paeon_T2',context.Source)):DealDamage(LevelMapValue(FFXIV_BRD_AOE)+DexterityModifier,MainRangedWeaponDamageType)"
-data "SpellFail" "DealDamage(LevelMapValue(FFXIV_BRD_AOE)/2,MainRangedWeaponDamageType);IF(HasPassive('Army_Paeon_T4',context.Source)):DealDamage(LevelMapValue(FFXIV_BRD_AOE)/2,MainRangedWeaponDamageType);IF(HasPassive('Army_Paeon_T4',context.Source) or HasPassive('Army_Paeon_T2',context.Source)):DealDamage(LevelMapValue(FFXIV_BRD_AOE)/2,MainRangedWeaponDamageType)"
+data "SpellSuccess" "DealDamage(MainRangedWeapon, MainRangedWeaponDamageType); ExecuteWeaponFunctors(MainHand);DealDamage(LevelMapValue(FFXIV_BRD_AOE)+DexterityModifier,MainRangedWeaponDamageType)"
+data "SpellFail" "DealDamage(LevelMapValue(FFXIV_BRD_AOE)/2,MainRangedWeaponDamageType)"
 data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_BRD_AOE)+DexterityModifier,MainRangedWeaponDamageType)"
 data "TooltipAttackSave" "RangedWeaponAttack"
 data "TooltipOnSave" "f762efbb-f8f1-493e-b248-2de1567b4bd2"
@@ -251,6 +251,20 @@ data "CycleConditions" "not Ally()"
 data "UseCosts" "ActionPoint:1"
 data "VerbalIntent" "Damage"
 data "WeaponTypes" "Ammunition"
+
+
+
+new entry "Zone_Ladonsbite"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_Quick_Nock"
+data "Icon" "ICON_BRD_Ladonsbite"
+data "DisplayName" "h9e795963ga410g4637gb31dg52f75d2f1bd9;1"
+data "SpellSuccess" "DealDamage(MainRangedWeapon, MainRangedWeaponDamageType); ExecuteWeaponFunctors(MainHand);DealDamage(LevelMapValue(FFXIV_BRD_AOE)+3*DexterityModifier,MainRangedWeaponDamageType)"
+data "SpellFail" "DealDamage(LevelMapValue(FFXIV_BRD_AOE)/2,MainRangedWeaponDamageType)"
+data "TooltipDamageList" "DealDamage(LevelMapValue(FFXIV_BRD_AOE)+3*DexterityModifier,MainRangedWeaponDamageType)"
+
+
 
 new entry "Shout_Mage_Ballad"
 type "SpellData"

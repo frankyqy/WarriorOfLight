@@ -121,5 +121,11 @@
 	<content contentuid="h7d5c8c0cg9114g4355gad08gb4c6abf6233b" version="1">绝峰箭</content>
 	<content contentuid="h4ef23c3egf3dcg4b78gb97dg513f603488c4" version="1">向目标所在方向发出直线范围物理攻击</content>
 
+	<content contentuid="hfb653ce4gd213g4f4egb292gc7ac4010d71f" version="1">连珠箭精通</content>
+	<content contentuid="he45750bcgcec7g480dgb8cdgcde756bc45c9" version="1">连珠箭变为百首龙牙箭</content>
+	<content contentuid="h9e795963ga410g4637gb31dg52f75d2f1bd9" version="1">百首龙牙箭</content>
+
+	<content contentuid="hc66ec05agff7eg4fd5gb417g3afe3b98d73e" version="1">失血箭效果提高</content>
+	<content contentuid="h17c8b1e9g238cg4bf5ga97eg5fceebde70fa" version="1">失血箭与死亡箭雨的积蓄次数增加到3次</content>
 
 </contentList>
