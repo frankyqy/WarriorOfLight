@@ -116,7 +116,7 @@
                     <attribute id="Name" type="LSString" value="FFXIV_PLD"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Sheltron"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Sheltron_Mastery;Enhanced_Intervention;Divine_Magic_Mastery_2;PLD_Melee_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sheltron_Mastery;Enhanced_Intervention;Divine_Magic_Mastery_2"/>
                     <attribute id="TableUUID" type="guid" value="fce268d0-8d64-4ad2-a923-56793a2fa19d"/>
                     <attribute id="UUID" type="guid" value="bedd6321-a8ac-4447-a094-ec6ade37be3e"/>
                 </node>

@@ -82,8 +82,8 @@
 	<content contentuid="hac18f16fg8815g4d2cg8708g5497a9190e7b" version="1">Divine Might</content>
 	<content contentuid="h006d04a5gfad2g462fgbfb2ga24e7312b642" version="1">Allows next Holy Spirit or Holy Circle to be increased. </content>
 
-	<content contentuid="h24e5b74dg047cg4170g915dg1c633341d3dd" version="1">神圣魔法精通II</content>
-	<content contentuid="h0f7420e9gecf0g4ea7ga232g446d5e4077f6" version="1">圣灵、圣环、悔罪可恢复体力</content>
+	<content contentuid="h24e5b74dg047cg4170g915dg1c633341d3dd" version="1">Divine Magic Mastery II</content>
+	<content contentuid="h0f7420e9gecf0g4ea7ga232g446d5e4077f6" version="1">Adds a healing effect to Holy Spirit, Holy Circle, and Confiteor.</content>
 
 	<content contentuid="h03e3a217g3865g49a8g909ag38f1f6e659e3" version="1">Intervention</content>
 	<content contentuid="h71231fbfgd5b8g47aeg8c6bg5c13959910f5" version="1">Reduces target party member's damage.Increases damage reduction if Rampart or Sentinel are active</content>
@@ -128,43 +128,34 @@
 	<content contentuid="hd15db05egc809g42c9gb382g09d8f4766db2" version="1">Deals Radiant damage to target and all enemies nearby it.</content>
 	<content contentuid="hada54fa1gfa2cg403bg94c0gb1d40ef83239" version="1">Confiteor Ready</content>
 
-	<content contentuid="h927e7560g1c99g47cag8712gf8078bb2d078" version="1">盾阵精通</content>
-	<content contentuid="h559782eag1231g40bbg84ffgbf9cc5af6e5e" version="1">你对神圣魔法的运用更上一层楼，盾阵变为圣盾阵</content>
-	<content contentuid="h3c9d1e1cgab12g418eg83a5g5dc65b7d4335" version="1">干预效果提高</content>
-	<content contentuid="h54fe929fgd475g4b38g999aga774bc98eb0a" version="1">你对神圣魔法的运用更上一层楼，干预的持续时间延长一回合，并追加骑士的坚守和骑士的加护效果</content>
+	<content contentuid="h927e7560g1c99g47cag8712gf8078bb2d078" version="1">Sheltron Mastery</content>
+	<content contentuid="h559782eag1231g40bbg84ffgbf9cc5af6e5e" version="1">Upgrades Sheltron to Holy Sheltron.</content>
+	<content contentuid="h3c9d1e1cgab12g418eg83a5g5dc65b7d4335" version="1">Enhanced Intervention</content>
+	<content contentuid="h54fe929fgd475g4b38g999aga774bc98eb0a" version="1">Extends the duration of Intervention to 1 turn.Grants Knight's Resolve to target, reducing damage taken.Grants Knight's Benediction to target, gradually restoring HP per turn.</content>
 
-	<content contentuid="h9a95698fg2419g407agbdc5g25b7d2726c56" version="1">圣盾阵</content>
-	<content contentuid="hbeb5dbc6g0399g47cdgb232gb5fa1561f50c" version="1">护甲上升，受到的伤害减少，每回合恢复</content>
-	<content contentuid="h06cb6242g0649g4670g8218g895e57bcb4ba" version="1">骑士的坚守</content>
-	<content contentuid="h58fa46aega630g4babgbb4egb26912cff7ad" version="1">护甲上升，受到的伤害减少</content>
-	<content contentuid="h1b80fc31gac2ag44b7gb516ga2027746be51" version="1">骑士的加护</content>
-	<content contentuid="ha7679c10g87bbg436bga596g5dbcce26c089" version="1">每回合恢复</content>
+	<content contentuid="h9a95698fg2419g407agbdc5g25b7d2726c56" version="1">Holy Sheltron</content>
+	<content contentuid="hbeb5dbc6g0399g47cdgb232gb5fa1561f50c" version="1">Reduces damage taken.Grants Knight's Resolve.Grants Knight's Benediction.</content>
+	<content contentuid="h06cb6242g0649g4670g8218g895e57bcb4ba" version="1">Knight's Resolve</content>
+	<content contentuid="h58fa46aega630g4babgbb4egb26912cff7ad" version="1">Reduces damage taken</content>
+	<content contentuid="h1b80fc31gac2ag44b7gb516ga2027746be51" version="1">Knight's Benediction</content>
+	<content contentuid="ha7679c10g87bbg436bga596g5dbcce26c089" version="1">Gradually restores HP per turn</content>
 
-	<content contentuid="h264ba657g0c3eg4dddg9223g033d5f75ad9d" version="1">技能威力提高</content>
-	<content contentuid="h5a95f00cg9a52g49f2g9039g56879e2deb9e" version="1">你对神圣魔法的运用更上一层楼，你的剑术和魔法的威力都有所提升。</content>
+	<content contentuid="haf5838efgd66ag4384g988fgc2727ea1bb8d" version="1">Spirits Within Mastery</content>
+	<content contentuid="h72b886fdg7961g4967g945cgfbe706d41ba8" version="1">Upgrades Spirits Within to Expiacion.</content>
 
-	<content contentuid="haf5838efgd66ag4384g988fgc2727ea1bb8d" version="1">深奥之灵精通</content>
-	<content contentuid="h72b886fdg7961g4967g945cgfbe706d41ba8" version="1">你对神圣魔法的运用更上一层楼，深奥之灵变为能攻击范围目标的偿赎剑</content>
+	<content contentuid="hd5386b73gd9dag40d9gb8ceg3a6db38edba7" version="1">Expiacion</content>
+	<content contentuid="h907ae038gd342g4a9bga0d0g337140f3eb6b" version="1">Delivers an attack to target and all enemies nearby it</content>
 
-	<content contentuid="hd5386b73gd9dag40d9gb8ceg3a6db38edba7" version="1">偿赎剑</content>
-	<content contentuid="h907ae038gd342g4a9bga0d0g337140f3eb6b" version="1">对目标及其周围敌人发动范围物理攻击，获得额外的忠义值</content>
+	<content contentuid="h9e1cfb9dg7538g4538gbc9bg64d365143b0f" version="1">Enhanced Divine Veil</content>
+	<content contentuid="hf4da1a9agd9a0g4476ga70egb1949aec182a" version="1">Adds a healing effect to Divine Veil.</content>
 
-	<content contentuid="h9e1cfb9dg7538g4538gbc9bg64d365143b0f" version="1">圣光幕帘效果提高</content>
-	<content contentuid="hf4da1a9agd9a0g4476ga70egb1949aec182a" version="1">你对神圣魔法的运用更上一层楼，圣光幕帘发动时为目标恢复体力</content>
+	<content contentuid="hf62f31ebgb46bg425fgbdb8gf5b26a3f9899" version="1">Blade of Faith Ready</content>
+	<content contentuid="hcf05d587g79d3g4963gb41eg2507e9d2136a" version="1">Blade of Faith Combo</content>
+	<content contentuid="h0243972cg8bc5g41f0gaf08g362e84995d77" version="1">Blade of Truth Combo</content>
 
-	<content contentuid="hf62f31ebgb46bg425fgbdb8gf5b26a3f9899" version="1">信念之剑预备中</content>
-	<content contentuid="h16beb3e2g908fg4e07g92a9g4c543c4ca718" version="1">可发动信念之剑</content>
-	<content contentuid="hcf05d587g79d3g4963gb41eg2507e9d2136a" version="1">信念之剑连击</content>
-	<content contentuid="h20ee0ceeg1980g41d6g84e6gf28875832868" version="1">信念之剑连击准备</content>
-	<content contentuid="h0243972cg8bc5g41f0gaf08g362e84995d77" version="1">真理之剑连击</content>
-	<content contentuid="h7702484dg34a7g4826g80bdg15c65bc642ab" version="1">真理之剑连击准备</content>
-
-	<content contentuid="h1d8893eeg03ffg4381g824agb7f2c02db93d" version="1">信念之剑</content>
-	<content contentuid="h3ef2ed59g6adag430cgb32agc6e43b04b62a" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
-	<content contentuid="h3ef2ed59g6adag430cgb32agc6e43b04b62a" version="1">真理之剑</content>
-	<content contentuid="hf14e007agb5a8g4919gae35g21d39ac0e958" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
-	<content contentuid="hd057e9c7g9a7bg40b7g8b62g35c828153702" version="1">真理之剑</content>
-	<content contentuid="h08ec7f51gcd2bg4bbfg844fge1f8483c0f21" version="1">对目标及其周围的敌人发动无属性范围魔法攻击</content>
+	<content contentuid="h1d8893eeg03ffg4381g824agb7f2c02db93d" version="1">Blade of Faith</content>
+	<content contentuid="h3ef2ed59g6adag430cgb32agc6e43b04b62a" version="1">Blade of Truth</content>
+	<content contentuid="hd057e9c7g9a7bg40b7g8b62g35c828153702" version="1">Blade of Valor</content>
 
 
 </contentList>
