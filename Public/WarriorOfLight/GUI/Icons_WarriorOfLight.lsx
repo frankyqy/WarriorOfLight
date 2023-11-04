@@ -1874,7 +1874,7 @@
                     <attribute id="V2" type="float" value="0.28125"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Aquaveil"/>
+                    <attribute id="MapKey" type="FixedString" value="ICON_WHM_Aquaveil_s"/>
                     <attribute id="U1" type="float" value="0.34375"/>
                     <attribute id="U2" type="float" value="0.375"/>
                     <attribute id="V1" type="float" value="0.25"/>
