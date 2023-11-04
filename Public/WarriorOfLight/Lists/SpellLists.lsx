@@ -183,6 +183,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Afflatus_Rapture;Shout_Temperance"/>
                     <attribute id="UUID" type="guid" value="b57fc60f-02a8-4d64-a9dd-b7f21aee4477"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WHM_Lv_90"/>
+                    <attribute id="Spells" type="LSString" value="Target_Aquaveil;Target_Liturgy_of_the_Bell"/>
+                    <attribute id="UUID" type="guid" value="4be615eb-e3ae-45ff-8607-08c8ebe088a5"/>
+                </node>
             </children>
         </node>
     </region>

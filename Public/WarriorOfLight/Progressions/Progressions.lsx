@@ -523,6 +523,7 @@
                 <node id="Progression"> FFXIV_WHM LV11
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Stone_Mastery_4;Holy"/>
@@ -534,8 +535,10 @@
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="FFXIV_WHM"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Glare_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Enhanced_Divine_Benison"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4be615eb-e3ae-45ff-8607-08c8ebe088a5,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="fd93d1dc-e8c3-4299-8f10-679b5fc9985e"/>
                     <attribute id="UUID" type="guid" value="7864ea4e-0772-493f-ba6a-735b7259cc15"/>
                 </node>

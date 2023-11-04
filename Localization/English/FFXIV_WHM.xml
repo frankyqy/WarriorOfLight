@@ -113,4 +113,13 @@
 	<content contentuid="h5a551da3g52f4g43b7g8fb2g52904723d17e" version="1">Holy Mastery</content>
 	<content contentuid="h0b36a8e7ge4a6g4c05ga760g338ea7ac3818" version="1">Upgrades Holy to Holy III.</content>
 
+	<content contentuid="h00c12cdeg6f57g4b18ga469gdab7b9cee409" version="1">Enhanced Divine Benison</content>
+	<content contentuid="h58fa1bcfg21c3g4c15gae3dg2ce9421c3bbc" version="1">Allows the accumulation of charges for consecutive uses of Divine Benison.Maximum Charges: 2</content>
+
+	<content contentuid="hb6456d38gb7b0g4b95g8f72g36c11171f068" version="1">Aquaveil</content>
+	<content contentuid="he27cd0bfge051g480egbceegdb5452c09350" version="1">Reduces damage taken by a party member or self</content>
+
+	<content contentuid="h09dca4f7gebb3g4678g8e24gaa88fce727eb" version="1">Liturgy of the Bell</content>
+	<content contentuid="hdf980d9fg01c1g44ceg81bdga6102309a909" version="1">Places a healing blossom at the designated location and grants 5 stacks of Liturgy of the Bell to self.Taking damage will expend 1 stack of Liturgy of the Bell to heal self and all party members within a radius of 20m.</content>
+
 </contentList>

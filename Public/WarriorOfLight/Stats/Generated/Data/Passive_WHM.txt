@@ -160,3 +160,22 @@ data "Icon" "ICON_WHM_Holy_Mastery"
 data "Boosts" "UnlockSpell(Shout_Holy3)"
 data "Properties" "Highlighted"
 
+new entry "Enhanced_Divine_Benison"
+type "PassiveData"
+data "DisplayName" "h00c12cdeg6f57g4b18ga469gdab7b9cee409"
+data "Description" "h58fa1bcfg21c3g4c15gae3dg2ce9421c3bbc"
+data "Icon" "ICON_WHM_Holy_Mastery"
+data "Properties" "Highlighted"
+data "Conditions" "SpellId('Target_Divine_Benison')"
+data "StatsFunctors" "ApplyStatus(SELF,BOOST_Divine_Benison_Bonus,100,-1)"
+data "StatsFunctorContext" "OnCast"
+
+
+new entry "Liturgy_of_the_Bell"
+type "PassiveData"
+data "DisplayName" "h09dca4f7gebb3g4678g8e24gaa88fce727eb;2"
+data "Description" "hdf980d9fg01c1g44ceg81bdga6102309a909;2"
+data "Icon" "ICON_WHM_Liturgy_of_the_Bell"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "UseSpell(SELF,Shout_Liturgy_of_the_Bell,true,true,true)"
+
