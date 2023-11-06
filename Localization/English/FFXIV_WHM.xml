@@ -47,8 +47,8 @@
 	<content contentuid="h9421e9d9g5e26g4be1gabc2g8369def8bd43" version="1">Resurrects target to a weakened state.</content>
 
 	<content contentuid="h201d1af0g97beg49c1g8d65g54125b837f6d" version="1">Presence of Mind</content>
-	<content contentuid="h0b686ddeg4cebg44a8g92fbg96bd5c2b9b1d" version="1">Attach a status to yourself：Presence of Mind。Magic designates an additional target</content>
-	<content contentuid="h41e88946g0fc5g4d4fg8fedga5ce86530cc5" version="1">Magic designates an additional target</content>
+	<content contentuid="h0b686ddeg4cebg44a8g92fbg96bd5c2b9b1d" version="1">Attach a status to yourself：Presence of Mind.You can cast an additional spell.</content>
+	<content contentuid="h41e88946g0fc5g4d4fg8fedga5ce86530cc5" version="1">You can cast an additional spell.</content>
 
 	<content contentuid="ha4ba1375ge5f4g496fg8435gc8980c0a7a1d" version="1">Regen</content>
 	<content contentuid="hbc3a86cbgc285g4571gaed7g6d576682ee5d" version="1">Grants healing over time effect to target.</content>
