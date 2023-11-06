@@ -307,7 +307,7 @@ data "StackId" "BOOST_Barrage"
 data "StackType" "Overwrite"
 data "Passives" "Barrage"
 data "RemoveEvents" "OnSpellCast"
-data "RemoveConditions" "SpellId('Projectile_Heavy_Shot') | SpellId('Projectile_Straight_Shot') | SpellId('Projectile_Venomous_Bite') | SpellId('Projectile_Windbite')"
+data "RemoveConditions" "BRDSingleActionCheck()"
 
 
 new entry "BOOST_Battle_Voice"
