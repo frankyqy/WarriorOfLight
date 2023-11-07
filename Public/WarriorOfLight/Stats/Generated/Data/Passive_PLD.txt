@@ -199,7 +199,7 @@ data "Icon" "ICON_PLD_Divine_Magic_Mastery_2"
 data "Properties" "Highlighted;ForceShowInCC"
 data "StatsFunctors" "UseActionResource(SpellSlot,1,1)"
 data "StatsFunctorContext" "OnCast"
-data "Conditions" "(SpellId('Target_Holy_Spirit_Requiescat') or SpellId('Shout_Holy_Circle_Requiescat'))"
+data "Conditions" "SpellId('Target_Confiteor') or SpellId('Target_Blade_of_Faith') or SpellId('Target_Blade_of_Truth') or SpellId('Target_Blade_of_Valor')"
 data "Properties" "IsHidden"
 
 new entry "Spirits_Within_Mastery"
