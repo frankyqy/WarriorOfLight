@@ -285,8 +285,6 @@ data "Passives" "Liturgy_of_the_Bell"
 data "Boosts" "ActionResource(Liturgy_Of_The_Bell_Gauge,5,0)"
 data "RemoveConditions" "not HasActionResource('Liturgy_Of_The_Bell_Gauge', 1, 0, false, false, context.Source)"
 
-EXTRA_ATTACK
-
 
 new entry "EXTRA_ATTACK_WHM"
 type "StatusData"
