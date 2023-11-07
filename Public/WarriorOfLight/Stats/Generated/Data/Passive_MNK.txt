@@ -182,6 +182,7 @@ data "DisplayName" "ha0f44ae3gf623g4e93ga098g049bfc07a43f"
 data "Description" "h2b81cdcagaa87g4784g8127ga392a04bf60e"
 data "Icon" "ICON_MNK_Enhanced_Brotherhood"
 data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasStatus('BOOST_Meditative_Brotherhood_SELF',context.Target)"
 data "StatsFunctors" "RestoreResource(SELF,Spiteful_Spirit_Gauge,1,0)"
 data "Properties" "Highlighted"
 
